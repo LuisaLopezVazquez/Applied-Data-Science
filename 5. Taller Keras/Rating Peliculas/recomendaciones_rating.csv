@@ -1,0 +1,2601 @@
+usuario_edad,usuario_genero,pelicula_duracion,pelicula_genero,temporada_visita,años_desde_estreno,veces_vista_pelicula,dispositivo_usuario,idioma_preferido,duracion_vista_real,popularidad_streaming,rating_promedio_usuario
+56,Femenino,71,Acción,Primavera,1,3454,Móvil,Inglés,51,8270,2.5
+46,Masculino,98,Comedia,Verano,5,9820,Móvil,Español,77,1860,4.8
+32,Masculino,137,Acción,Primavera,4,7201,Computadora,Inglés,150,6390,3.93
+60,Masculino,134,Comedia,Verano,10,4843,Móvil,Español,144,6191,3.39
+25,Femenino,152,Comedia,Primavera,6,9051,Smart TV,Español,163,6734,1.62
+38,Femenino,95,Comedia,Primavera,8,7114,Móvil,Inglés,54,7265,1.62
+56,Femenino,158,Drama,Primavera,3,3512,Móvil,Inglés,172,1466,1.23
+36,Masculino,79,Acción,Primavera,7,7925,Computadora,Español,52,5426,4.46
+40,Masculino,122,Comedia,Verano,3,1457,Smart TV,Inglés,119,6578,3.4
+28,Femenino,148,Drama,Verano,2,3581,Computadora,Español,70,9322,3.83
+28,Femenino,128,Comedia,Verano,11,9240,Smart TV,Inglés,90,2685,1.08
+41,Femenino,91,Drama,Primavera,1,1866,Computadora,Inglés,97,1769,4.88
+53,Femenino,120,Comedia,Primavera,7,8319,Móvil,Español,126,7949,4.33
+57,Femenino,117,Acción,Primavera,10,7263,Smart TV,Español,99,3433,1.85
+41,Femenino,90,Acción,Primavera,7,2570,Smart TV,Inglés,84,6311,1.73
+20,Masculino,91,Comedia,Primavera,10,259,Móvil,Inglés,40,6051,1.73
+39,Femenino,169,Drama,Primavera,11,2992,Computadora,Español,148,7420,2.22
+19,Masculino,167,Comedia,Primavera,2,5426,Smart TV,Inglés,132,2184,3.1
+41,Masculino,99,Drama,Primavera,0,4213,Móvil,Inglés,36,5555,2.73
+61,Femenino,94,Comedia,Primavera,12,7849,Móvil,Inglés,36,4385,2.16
+47,Femenino,178,Drama,Verano,5,7898,Smart TV,Inglés,68,7396,3.45
+55,Masculino,97,Acción,Primavera,4,5099,Smart TV,Español,85,9666,1.56
+19,Femenino,134,Comedia,Primavera,7,1670,Smart TV,Español,55,3558,2.17
+38,Femenino,114,Acción,Verano,5,9128,Móvil,Inglés,76,8849,2.47
+50,Masculino,137,Acción,Verano,3,3505,Computadora,Inglés,80,3047,2.82
+29,Masculino,76,Comedia,Primavera,9,5627,Computadora,Español,56,3747,4.14
+39,Masculino,118,Comedia,Primavera,9,5948,Smart TV,Inglés,102,1189,1.8
+61,Femenino,78,Drama,Primavera,11,6917,Móvil,Inglés,66,3734,3.06
+42,Masculino,105,Drama,Verano,11,1727,Móvil,Inglés,74,4005,3.37
+44,Femenino,152,Acción,Verano,10,6243,Smart TV,Inglés,102,5658,1.19
+59,Masculino,70,Drama,Verano,1,8496,Móvil,Inglés,43,2899,3.43
+45,Masculino,79,Drama,Primavera,7,6658,Móvil,Español,78,8734,1.68
+33,Masculino,105,Comedia,Primavera,4,5372,Móvil,Inglés,59,2267,1.26
+32,Femenino,142,Drama,Primavera,11,7981,Smart TV,Inglés,72,2528,4.8
+64,Femenino,178,Acción,Verano,7,9083,Smart TV,Inglés,159,4556,4.86
+61,Masculino,115,Drama,Primavera,4,3847,Smart TV,Español,67,4890,4.23
+20,Masculino,175,Acción,Verano,5,9397,Computadora,Inglés,171,9838,2.22
+54,Masculino,101,Comedia,Primavera,12,9382,Computadora,Inglés,56,6393,1.39
+24,Femenino,101,Acción,Primavera,9,1707,Smart TV,Español,87,9792,3.74
+38,Masculino,75,Drama,Verano,4,5174,Móvil,Español,25,9433,2.76
+26,Femenino,117,Comedia,Primavera,10,7253,Móvil,Español,71,8513,1.49
+56,Masculino,107,Drama,Verano,2,6833,Smart TV,Español,61,3612,2.98
+35,Masculino,86,Comedia,Primavera,9,166,Móvil,Inglés,81,8041,1.14
+21,Masculino,143,Comedia,Verano,7,8100,Móvil,Inglés,153,7235,4.64
+42,Masculino,96,Drama,Primavera,2,7745,Computadora,Inglés,64,6486,2.04
+31,Masculino,123,Drama,Verano,3,9570,Móvil,Español,118,8099,3.65
+26,Masculino,119,Comedia,Primavera,5,4258,Móvil,Inglés,102,1775,2.25
+43,Femenino,104,Comedia,Verano,1,9105,Smart TV,Español,111,9226,3.08
+19,Masculino,154,Drama,Primavera,6,502,Computadora,Español,146,4152,3.19
+37,Femenino,94,Acción,Primavera,4,8025,Computadora,Inglés,34,2585,1.74
+45,Masculino,97,Drama,Primavera,11,4266,Móvil,Español,84,4943,4.88
+64,Masculino,84,Comedia,Verano,9,3025,Smart TV,Español,61,8555,4.1
+24,Femenino,73,Drama,Primavera,12,3093,Computadora,Inglés,22,4073,4.76
+61,Masculino,162,Acción,Verano,4,9378,Computadora,Inglés,81,2021,4.58
+25,Femenino,142,Drama,Primavera,4,871,Móvil,Español,147,4843,3.39
+64,Femenino,96,Comedia,Primavera,12,7471,Computadora,Inglés,99,8989,4.69
+52,Masculino,95,Drama,Primavera,12,9961,Smart TV,Inglés,89,7873,1.35
+31,Femenino,88,Comedia,Verano,1,5813,Smart TV,Español,95,6675,1.78
+34,Femenino,161,Comedia,Primavera,10,8267,Computadora,Español,152,1161,1.18
+53,Masculino,86,Drama,Primavera,12,1656,Smart TV,Inglés,26,5297,2.3
+57,Femenino,112,Comedia,Primavera,11,1251,Smart TV,Inglés,59,1995,2.55
+21,Masculino,110,Comedia,Verano,9,5414,Móvil,Español,35,8629,2.09
+19,Masculino,111,Acción,Verano,8,1317,Computadora,Inglés,41,2016,4.31
+23,Masculino,119,Acción,Primavera,2,4044,Computadora,Español,56,8869,2.43
+59,Masculino,153,Acción,Primavera,11,8139,Móvil,Español,107,7439,2.12
+21,Femenino,178,Acción,Verano,6,2142,Móvil,Inglés,174,8892,3.17
+46,Masculino,109,Comedia,Primavera,4,6403,Móvil,Inglés,107,7863,1.56
+35,Masculino,108,Drama,Primavera,9,8997,Móvil,Inglés,85,8916,4.21
+43,Femenino,92,Comedia,Primavera,9,2769,Smart TV,Inglés,95,9529,1.3
+61,Masculino,165,Comedia,Verano,4,2213,Smart TV,Inglés,115,1878,4.95
+51,Masculino,121,Comedia,Primavera,3,3077,Móvil,Español,122,5887,4.09
+27,Femenino,116,Drama,Primavera,9,4478,Computadora,Inglés,76,5859,1.79
+53,Femenino,132,Acción,Primavera,5,7327,Computadora,Español,68,7331,1.02
+31,Femenino,166,Comedia,Verano,6,6361,Computadora,Inglés,171,9571,4.26
+48,Femenino,179,Comedia,Primavera,6,522,Móvil,Español,109,9684,3.83
+32,Femenino,138,Acción,Primavera,10,8822,Smart TV,Inglés,96,8208,3.92
+25,Femenino,112,Comedia,Verano,11,190,Smart TV,Inglés,63,6276,4.09
+31,Femenino,117,Drama,Primavera,7,3472,Smart TV,Español,97,3062,1.3
+40,Masculino,103,Comedia,Primavera,4,6136,Smart TV,Inglés,112,1064,2.43
+57,Femenino,109,Comedia,Verano,6,2042,Computadora,Inglés,34,9006,1.46
+38,Femenino,144,Acción,Primavera,11,3905,Computadora,Español,146,3568,4.45
+33,Femenino,130,Comedia,Verano,3,9532,Smart TV,Español,39,6463,3.49
+62,Masculino,119,Comedia,Primavera,8,197,Móvil,Español,70,3027,2.32
+35,Masculino,136,Drama,Primavera,4,1579,Smart TV,Inglés,59,3695,1.25
+64,Femenino,131,Acción,Primavera,2,4726,Smart TV,Español,118,6258,2.24
+41,Femenino,127,Acción,Primavera,4,5247,Móvil,Español,43,6618,2.3
+43,Femenino,102,Drama,Primavera,8,3747,Smart TV,Inglés,75,7736,3.92
+42,Masculino,144,Comedia,Verano,12,5543,Computadora,Inglés,77,1391,3.55
+62,Masculino,85,Acción,Verano,12,179,Móvil,Inglés,34,6892,4.55
+58,Femenino,151,Acción,Primavera,10,5677,Móvil,Inglés,138,4561,2.89
+46,Masculino,163,Comedia,Primavera,7,2323,Smart TV,Inglés,77,7184,1.48
+32,Femenino,117,Comedia,Primavera,0,2669,Computadora,Inglés,56,4099,3.85
+62,Masculino,79,Acción,Primavera,4,4618,Computadora,Español,41,7278,4.04
+18,Masculino,151,Comedia,Primavera,5,1223,Computadora,Español,116,9392,3.25
+42,Femenino,107,Acción,Primavera,12,2723,Smart TV,Inglés,88,4104,4.08
+24,Femenino,88,Comedia,Verano,9,1503,Smart TV,Español,27,8215,2.98
+26,Femenino,105,Comedia,Primavera,12,2678,Computadora,Español,51,3454,3.09
+41,Femenino,128,Drama,Primavera,10,431,Smart TV,Español,82,9996,2.71
+18,Masculino,132,Comedia,Primavera,1,7585,Computadora,Español,74,3731,1.1
+61,Masculino,146,Drama,Verano,5,839,Smart TV,Inglés,147,9154,1.43
+25,Masculino,115,Comedia,Verano,8,8333,Móvil,Inglés,106,6056,1.13
+41,Femenino,72,Acción,Primavera,3,5080,Móvil,Español,57,9110,3.55
+28,Masculino,143,Acción,Primavera,2,3978,Smart TV,Inglés,81,4840,2.26
+34,Femenino,171,Comedia,Verano,8,2049,Smart TV,Español,147,2028,3.03
+25,Masculino,134,Comedia,Primavera,1,3560,Computadora,Español,130,8385,4.63
+52,Femenino,160,Acción,Verano,11,2228,Móvil,Inglés,124,1502,2.0
+52,Femenino,179,Comedia,Primavera,8,4597,Computadora,Español,166,7910,2.64
+50,Masculino,77,Drama,Primavera,10,2254,Smart TV,Inglés,69,7938,4.02
+22,Femenino,120,Drama,Primavera,9,5330,Computadora,Inglés,90,5488,1.92
+59,Femenino,179,Drama,Primavera,10,7544,Computadora,Inglés,98,1206,1.31
+56,Masculino,175,Drama,Verano,10,1337,Smart TV,Inglés,156,6134,2.16
+58,Femenino,150,Drama,Primavera,1,8797,Móvil,Inglés,69,6977,1.64
+45,Femenino,142,Comedia,Verano,12,5340,Computadora,Inglés,131,8721,4.72
+24,Femenino,75,Comedia,Verano,10,4915,Smart TV,Inglés,70,8035,4.23
+26,Masculino,176,Drama,Primavera,9,9686,Computadora,Inglés,168,2484,3.53
+25,Masculino,158,Comedia,Verano,2,356,Smart TV,Inglés,107,8858,4.49
+29,Femenino,108,Comedia,Verano,12,1820,Smart TV,Español,49,1863,4.21
+51,Masculino,129,Drama,Primavera,6,7447,Smart TV,Inglés,48,3790,1.75
+50,Femenino,97,Comedia,Primavera,1,7176,Móvil,Español,86,8408,4.57
+40,Femenino,166,Comedia,Primavera,0,1171,Móvil,Inglés,167,9755,3.16
+41,Femenino,123,Comedia,Primavera,8,1722,Smart TV,Español,100,6116,4.23
+54,Femenino,106,Drama,Primavera,5,2166,Móvil,Inglés,44,7019,4.58
+52,Femenino,78,Comedia,Verano,8,9361,Computadora,Inglés,81,2757,2.27
+61,Masculino,151,Acción,Primavera,11,8742,Móvil,Inglés,164,8574,1.44
+57,Femenino,125,Acción,Primavera,2,997,Móvil,Español,80,7374,1.91
+39,Masculino,128,Drama,Primavera,2,5275,Computadora,Español,99,7892,2.71
+44,Masculino,154,Acción,Primavera,9,8373,Computadora,Inglés,141,2678,4.27
+52,Femenino,71,Drama,Verano,11,9028,Computadora,Español,63,4242,4.44
+18,Femenino,130,Acción,Verano,2,4274,Smart TV,Inglés,139,5636,1.03
+52,Masculino,127,Acción,Primavera,1,5881,Computadora,Español,49,2059,3.04
+54,Masculino,176,Acción,Primavera,12,4044,Computadora,Español,134,7668,2.67
+64,Masculino,129,Drama,Primavera,10,6526,Computadora,Español,110,4157,1.89
+31,Femenino,171,Drama,Verano,5,5535,Smart TV,Inglés,173,6915,1.48
+20,Masculino,109,Comedia,Primavera,2,9983,Móvil,Español,108,3693,2.35
+18,Femenino,105,Drama,Verano,4,9471,Smart TV,Español,113,4627,4.77
+22,Femenino,176,Acción,Primavera,12,3035,Móvil,Inglés,124,6450,2.29
+43,Femenino,106,Acción,Verano,10,5933,Computadora,Inglés,102,2663,3.08
+31,Masculino,148,Drama,Primavera,4,8188,Smart TV,Español,94,6592,3.81
+56,Femenino,161,Drama,Primavera,9,561,Smart TV,Español,102,8392,2.45
+44,Femenino,87,Drama,Primavera,2,216,Móvil,Inglés,43,2306,4.89
+26,Femenino,167,Comedia,Primavera,2,5885,Smart TV,Inglés,159,7776,4.85
+32,Femenino,132,Acción,Verano,0,6607,Smart TV,Inglés,143,6864,2.01
+32,Femenino,91,Comedia,Verano,5,9946,Móvil,Inglés,45,8526,2.99
+43,Masculino,80,Comedia,Verano,2,5930,Smart TV,Inglés,27,9901,2.2
+59,Femenino,127,Acción,Verano,0,4661,Smart TV,Español,120,6575,2.14
+30,Femenino,126,Acción,Primavera,12,8227,Computadora,Inglés,100,6530,1.15
+49,Masculino,146,Drama,Verano,12,759,Computadora,Inglés,155,5413,3.44
+56,Femenino,73,Drama,Primavera,9,2222,Computadora,Español,36,4748,3.01
+49,Masculino,155,Comedia,Verano,8,1686,Computadora,Inglés,55,1663,1.21
+21,Femenino,76,Drama,Primavera,10,4782,Computadora,Inglés,52,2998,2.11
+47,Masculino,130,Drama,Verano,0,6899,Smart TV,Inglés,47,8994,4.63
+54,Masculino,176,Acción,Verano,4,8926,Smart TV,Español,89,2495,1.96
+40,Femenino,123,Acción,Primavera,4,7087,Computadora,Inglés,49,4304,1.58
+56,Femenino,157,Drama,Primavera,1,8075,Móvil,Inglés,75,4763,2.96
+62,Femenino,137,Acción,Primavera,12,2982,Computadora,Inglés,52,6232,4.94
+32,Masculino,161,Drama,Primavera,0,5349,Smart TV,Inglés,171,2853,1.97
+60,Masculino,148,Acción,Primavera,5,2911,Móvil,Español,77,7585,3.69
+46,Masculino,70,Acción,Primavera,6,5627,Computadora,Español,45,2291,4.05
+53,Femenino,124,Acción,Primavera,10,1984,Móvil,Inglés,126,4581,1.95
+30,Masculino,72,Acción,Primavera,10,9810,Computadora,Inglés,60,8554,3.91
+49,Masculino,147,Drama,Primavera,8,8913,Smart TV,Inglés,116,8280,2.47
+24,Femenino,107,Comedia,Primavera,7,5173,Computadora,Inglés,92,2636,3.53
+39,Masculino,70,Acción,Primavera,9,9829,Móvil,Inglés,67,4696,3.53
+45,Masculino,171,Drama,Primavera,2,5516,Smart TV,Inglés,171,1698,3.14
+19,Femenino,107,Drama,Primavera,8,5900,Computadora,Inglés,87,5737,1.36
+59,Masculino,154,Acción,Primavera,0,6995,Computadora,Español,155,1854,4.34
+62,Femenino,98,Comedia,Primavera,12,6415,Computadora,Inglés,71,9164,2.28
+23,Femenino,74,Acción,Primavera,5,5030,Computadora,Español,38,6855,1.75
+45,Femenino,143,Drama,Primavera,12,2465,Smart TV,Español,143,8392,1.16
+45,Femenino,161,Comedia,Primavera,9,954,Smart TV,Inglés,118,7528,3.36
+61,Femenino,90,Drama,Primavera,1,2828,Computadora,Español,92,6249,3.71
+61,Masculino,140,Acción,Primavera,9,1015,Smart TV,Español,46,6172,1.07
+37,Masculino,136,Comedia,Verano,8,7273,Móvil,Español,84,2707,3.05
+47,Femenino,178,Drama,Verano,8,5038,Smart TV,Inglés,188,6791,1.91
+28,Femenino,116,Drama,Primavera,7,231,Móvil,Español,57,6535,3.58
+45,Masculino,153,Drama,Verano,12,9408,Móvil,Español,161,5931,1.7
+42,Femenino,152,Acción,Primavera,10,3693,Smart TV,Inglés,161,4510,3.76
+56,Femenino,104,Comedia,Primavera,6,9152,Computadora,Inglés,104,1202,2.55
+50,Femenino,137,Acción,Primavera,5,393,Smart TV,Español,102,5218,4.75
+18,Masculino,138,Acción,Primavera,1,9291,Móvil,Inglés,112,9958,1.55
+44,Masculino,70,Acción,Primavera,3,3785,Móvil,Inglés,69,5389,2.36
+30,Femenino,137,Comedia,Primavera,9,8116,Smart TV,Español,126,3327,1.45
+58,Femenino,81,Acción,Primavera,6,7862,Móvil,Español,65,9004,4.7
+20,Masculino,129,Acción,Primavera,12,6946,Smart TV,Español,140,3931,4.51
+56,Masculino,96,Acción,Primavera,5,7684,Smart TV,Inglés,81,8777,2.03
+23,Femenino,125,Acción,Primavera,8,7410,Computadora,Español,135,1197,3.64
+25,Femenino,175,Drama,Primavera,12,5456,Móvil,Español,60,8125,4.27
+44,Masculino,92,Acción,Primavera,12,386,Smart TV,Inglés,37,2930,3.22
+26,Masculino,94,Drama,Verano,4,8741,Móvil,Inglés,62,7287,3.12
+54,Masculino,90,Acción,Verano,11,6686,Smart TV,Inglés,54,9800,1.97
+50,Femenino,130,Comedia,Verano,11,5403,Smart TV,Inglés,120,5282,1.37
+59,Masculino,132,Drama,Primavera,5,3216,Computadora,Español,56,3511,4.59
+61,Femenino,121,Drama,Primavera,9,5974,Smart TV,Español,130,1659,4.6
+41,Masculino,157,Drama,Primavera,5,7070,Computadora,Español,86,3811,3.53
+32,Masculino,94,Drama,Verano,7,8248,Móvil,Inglés,60,8098,2.36
+49,Masculino,178,Comedia,Primavera,7,8544,Computadora,Español,92,7546,2.4
+49,Masculino,124,Acción,Verano,5,9711,Computadora,Inglés,94,2986,3.9
+41,Femenino,115,Drama,Verano,7,1335,Móvil,Inglés,39,9338,4.59
+58,Femenino,101,Comedia,Primavera,6,1099,Computadora,Inglés,42,3911,4.55
+29,Masculino,124,Drama,Primavera,0,3860,Computadora,Español,111,2734,4.12
+56,Femenino,165,Acción,Verano,4,4216,Smart TV,Inglés,74,2843,3.57
+19,Masculino,74,Drama,Verano,10,4511,Computadora,Español,36,9680,1.34
+20,Masculino,105,Comedia,Primavera,9,5657,Smart TV,Español,98,3976,1.65
+54,Masculino,179,Acción,Verano,9,9738,Computadora,Español,67,2959,4.59
+34,Masculino,175,Comedia,Primavera,12,5452,Móvil,Inglés,113,6759,3.43
+19,Femenino,118,Acción,Verano,9,3783,Móvil,Español,37,7694,1.04
+19,Masculino,175,Acción,Primavera,4,2361,Computadora,Español,101,3385,1.41
+45,Masculino,127,Acción,Primavera,9,1953,Smart TV,Inglés,109,5736,3.65
+40,Femenino,108,Drama,Verano,8,8891,Computadora,Español,40,2802,1.02
+54,Masculino,149,Comedia,Primavera,6,6995,Smart TV,Inglés,150,9155,1.64
+49,Masculino,166,Comedia,Primavera,6,3090,Computadora,Español,170,9120,3.19
+50,Masculino,154,Comedia,Primavera,9,962,Móvil,Inglés,59,7616,3.77
+18,Femenino,130,Acción,Verano,1,4627,Móvil,Inglés,142,6534,3.61
+36,Masculino,78,Drama,Verano,7,1319,Smart TV,Inglés,41,5061,1.9
+19,Femenino,75,Acción,Primavera,2,3895,Computadora,Inglés,27,1262,3.85
+61,Masculino,178,Comedia,Primavera,8,627,Smart TV,Inglés,54,7287,1.95
+43,Masculino,104,Drama,Verano,5,7469,Móvil,Español,65,9815,2.3
+49,Femenino,108,Drama,Primavera,8,3022,Smart TV,Español,86,3049,3.99
+23,Masculino,91,Drama,Primavera,8,5949,Computadora,Español,51,6423,3.6
+49,Masculino,110,Comedia,Primavera,6,1262,Smart TV,Español,106,5548,4.4
+21,Femenino,74,Drama,Verano,9,946,Computadora,Inglés,64,4108,3.63
+28,Femenino,111,Drama,Primavera,11,7059,Computadora,Inglés,64,8158,3.27
+34,Femenino,156,Acción,Verano,7,3186,Móvil,Español,138,8400,1.37
+55,Femenino,150,Acción,Primavera,1,3383,Computadora,Inglés,157,4170,2.47
+41,Femenino,145,Drama,Verano,4,3423,Computadora,Español,54,3255,2.06
+22,Masculino,156,Drama,Primavera,2,545,Computadora,Inglés,85,2154,1.98
+51,Femenino,149,Acción,Primavera,0,1125,Smart TV,Inglés,99,5499,4.89
+23,Masculino,136,Acción,Primavera,12,1459,Móvil,Español,94,7295,2.57
+39,Masculino,99,Acción,Primavera,5,8310,Smart TV,Español,72,7197,4.57
+28,Masculino,126,Comedia,Primavera,12,6213,Smart TV,Inglés,68,2648,3.52
+33,Femenino,155,Comedia,Primavera,11,8852,Móvil,Español,129,6539,4.18
+50,Femenino,142,Acción,Primavera,8,571,Smart TV,Español,115,5199,3.01
+26,Masculino,98,Drama,Primavera,1,127,Smart TV,Español,74,9445,3.31
+23,Femenino,106,Acción,Verano,8,8851,Computadora,Español,41,3557,2.97
+33,Femenino,156,Comedia,Verano,7,3336,Smart TV,Inglés,106,6592,1.78
+46,Femenino,82,Drama,Primavera,10,9236,Móvil,Inglés,47,1098,3.89
+20,Femenino,101,Comedia,Verano,8,4048,Smart TV,Inglés,69,3200,2.12
+37,Masculino,115,Drama,Primavera,4,6272,Computadora,Inglés,119,3961,1.1
+53,Masculino,92,Comedia,Verano,12,2079,Smart TV,Español,62,5973,3.58
+36,Femenino,114,Drama,Primavera,1,5021,Móvil,Español,35,5433,1.71
+43,Masculino,86,Drama,Verano,9,9107,Computadora,Español,55,3869,4.76
+20,Femenino,173,Drama,Verano,9,2426,Smart TV,Inglés,165,1956,4.82
+36,Femenino,154,Drama,Verano,5,2430,Móvil,Inglés,142,9352,4.66
+37,Masculino,135,Comedia,Primavera,6,7746,Móvil,Inglés,95,6699,2.48
+49,Masculino,170,Comedia,Primavera,2,1102,Smart TV,Inglés,84,7944,1.06
+24,Masculino,75,Drama,Verano,5,9834,Smart TV,Español,50,5493,4.71
+58,Femenino,177,Drama,Verano,5,6548,Computadora,Español,132,5911,2.71
+50,Masculino,87,Comedia,Primavera,7,6937,Smart TV,Español,95,4987,4.87
+57,Femenino,163,Drama,Primavera,0,6567,Computadora,Inglés,132,7015,4.85
+56,Masculino,91,Drama,Verano,3,9521,Smart TV,Inglés,77,2218,4.41
+35,Masculino,102,Drama,Primavera,0,7454,Móvil,Inglés,70,5496,2.18
+57,Femenino,99,Acción,Primavera,7,2629,Móvil,Inglés,57,5735,2.54
+18,Femenino,150,Drama,Primavera,1,1530,Móvil,Inglés,142,5555,4.4
+28,Femenino,176,Acción,Verano,7,4012,Móvil,Inglés,122,9050,2.27
+45,Femenino,101,Drama,Verano,2,1632,Computadora,Español,110,4446,1.68
+42,Femenino,111,Comedia,Verano,7,1992,Móvil,Inglés,73,2045,3.23
+40,Femenino,147,Acción,Verano,5,1521,Computadora,Inglés,52,7893,4.74
+48,Femenino,79,Acción,Primavera,0,8682,Computadora,Inglés,66,2693,3.78
+47,Femenino,105,Drama,Primavera,6,5868,Computadora,Español,35,4436,3.28
+59,Masculino,103,Drama,Verano,12,2918,Smart TV,Español,51,9754,1.39
+52,Femenino,142,Acción,Primavera,6,5717,Computadora,Inglés,82,6895,3.46
+24,Femenino,175,Comedia,Verano,5,1295,Smart TV,Español,156,4354,4.96
+33,Masculino,97,Comedia,Primavera,0,6329,Computadora,Español,67,1225,1.56
+43,Femenino,80,Drama,Primavera,4,9149,Smart TV,Español,25,5893,3.07
+19,Masculino,147,Comedia,Primavera,0,5405,Smart TV,Inglés,116,8022,4.51
+18,Masculino,108,Comedia,Primavera,0,9808,Móvil,Español,67,6600,3.96
+29,Femenino,116,Drama,Primavera,5,8177,Computadora,Español,120,8996,3.79
+22,Masculino,88,Comedia,Primavera,7,9445,Smart TV,Español,61,8683,3.81
+54,Femenino,84,Drama,Primavera,0,942,Móvil,Inglés,72,5642,2.44
+49,Masculino,97,Acción,Primavera,1,5300,Computadora,Español,46,8679,2.17
+26,Masculino,93,Drama,Primavera,4,6021,Móvil,Inglés,84,9208,4.24
+58,Masculino,141,Acción,Verano,7,9974,Smart TV,Español,123,8339,4.24
+52,Femenino,176,Acción,Primavera,10,394,Móvil,Inglés,180,3205,4.47
+36,Femenino,78,Comedia,Primavera,3,6197,Móvil,Inglés,25,2069,4.65
+33,Masculino,116,Comedia,Primavera,4,6512,Computadora,Inglés,76,4444,3.05
+20,Masculino,102,Comedia,Primavera,9,8936,Smart TV,Inglés,86,2060,3.01
+37,Femenino,131,Drama,Primavera,4,6778,Computadora,Inglés,49,3327,4.19
+41,Femenino,166,Comedia,Primavera,2,5120,Computadora,Español,104,4420,3.6
+50,Masculino,88,Acción,Primavera,5,5843,Móvil,Español,92,1301,3.81
+41,Masculino,136,Comedia,Primavera,4,210,Smart TV,Español,88,1606,4.18
+28,Femenino,143,Comedia,Primavera,1,8875,Computadora,Inglés,155,4170,4.56
+25,Femenino,109,Drama,Primavera,9,9778,Smart TV,Inglés,37,1699,2.35
+53,Femenino,116,Drama,Primavera,3,4964,Computadora,Inglés,101,6088,2.5
+55,Femenino,175,Acción,Primavera,10,1748,Móvil,Español,133,1190,1.38
+57,Femenino,134,Drama,Primavera,3,6481,Computadora,Inglés,93,1980,3.31
+37,Masculino,98,Comedia,Verano,6,2481,Computadora,Inglés,105,3975,1.14
+52,Femenino,119,Drama,Verano,6,205,Computadora,Inglés,48,7102,2.86
+42,Masculino,167,Acción,Primavera,8,5918,Smart TV,Inglés,169,2184,3.17
+52,Femenino,82,Comedia,Primavera,9,9986,Móvil,Español,69,4327,2.15
+42,Masculino,70,Acción,Primavera,11,481,Smart TV,Inglés,35,4394,3.36
+46,Femenino,103,Drama,Primavera,1,4456,Computadora,Inglés,105,9319,1.12
+35,Femenino,162,Drama,Primavera,5,6018,Móvil,Inglés,104,2816,1.15
+63,Masculino,117,Acción,Primavera,1,1416,Smart TV,Inglés,111,6854,4.29
+35,Masculino,146,Comedia,Primavera,8,5554,Computadora,Español,89,7709,2.44
+19,Femenino,117,Drama,Primavera,1,4174,Móvil,Inglés,114,1569,1.51
+52,Femenino,118,Drama,Primavera,5,4904,Móvil,Español,95,6442,3.09
+33,Femenino,133,Comedia,Verano,7,1006,Computadora,Español,54,2895,4.08
+58,Femenino,130,Drama,Verano,5,7721,Móvil,Inglés,106,3733,1.86
+53,Femenino,98,Acción,Verano,11,762,Móvil,Inglés,44,4863,3.49
+50,Masculino,108,Drama,Primavera,2,6818,Smart TV,Español,67,8455,1.34
+21,Masculino,157,Drama,Primavera,4,8754,Móvil,Inglés,68,5014,1.21
+50,Femenino,95,Comedia,Primavera,3,1042,Smart TV,Inglés,30,2686,3.13
+31,Masculino,86,Acción,Verano,0,8449,Smart TV,Español,40,4009,3.16
+38,Masculino,140,Comedia,Primavera,4,6515,Smart TV,Español,102,8806,3.55
+37,Masculino,82,Drama,Primavera,9,3409,Smart TV,Español,56,1154,3.9
+25,Femenino,138,Drama,Primavera,11,1426,Móvil,Español,96,2409,4.9
+24,Masculino,95,Comedia,Verano,4,2206,Móvil,Español,47,1784,3.07
+20,Femenino,118,Comedia,Primavera,6,4899,Smart TV,Español,100,9096,2.29
+34,Masculino,136,Comedia,Primavera,11,8939,Móvil,Inglés,117,8560,4.18
+50,Femenino,76,Acción,Verano,6,3038,Smart TV,Inglés,44,8343,2.08
+29,Masculino,127,Drama,Verano,1,2583,Smart TV,Inglés,127,8206,2.76
+39,Femenino,118,Comedia,Primavera,3,1475,Smart TV,Inglés,96,6596,1.31
+39,Femenino,172,Drama,Verano,0,7956,Computadora,Inglés,149,6801,1.1
+63,Masculino,122,Acción,Primavera,12,344,Móvil,Inglés,63,3806,4.85
+47,Femenino,134,Acción,Primavera,4,2448,Móvil,Inglés,40,1537,4.34
+55,Femenino,131,Acción,Verano,4,9159,Smart TV,Inglés,129,6986,3.78
+55,Femenino,86,Acción,Primavera,3,579,Móvil,Inglés,82,2841,2.64
+62,Femenino,112,Drama,Primavera,9,2035,Smart TV,Español,44,9716,1.69
+25,Femenino,94,Acción,Primavera,11,5857,Móvil,Español,56,7971,1.63
+44,Femenino,72,Acción,Primavera,11,187,Smart TV,Inglés,59,6625,2.0
+44,Femenino,148,Comedia,Primavera,6,9532,Smart TV,Inglés,121,3950,3.2
+51,Femenino,98,Acción,Verano,5,8864,Computadora,Español,96,8992,3.86
+38,Masculino,176,Comedia,Verano,12,9105,Smart TV,Español,72,5780,3.64
+47,Masculino,101,Acción,Primavera,9,278,Computadora,Español,65,3368,2.12
+50,Femenino,95,Acción,Verano,2,262,Móvil,Inglés,35,7655,4.82
+45,Femenino,85,Comedia,Primavera,1,2740,Móvil,Español,51,9173,3.95
+64,Masculino,94,Acción,Primavera,3,9297,Computadora,Español,29,5495,3.22
+50,Masculino,123,Drama,Primavera,8,2448,Móvil,Español,125,7002,3.45
+22,Masculino,97,Drama,Primavera,9,2521,Computadora,Inglés,69,7614,2.68
+36,Femenino,142,Acción,Primavera,4,4398,Móvil,Español,139,6919,1.99
+21,Masculino,125,Drama,Verano,0,4242,Computadora,Inglés,43,1853,2.42
+52,Femenino,134,Comedia,Verano,10,4603,Computadora,Español,64,5146,4.03
+34,Femenino,162,Acción,Primavera,2,1317,Smart TV,Español,82,4769,1.06
+61,Masculino,155,Acción,Primavera,8,2574,Móvil,Inglés,94,1574,1.46
+45,Femenino,149,Comedia,Primavera,6,1029,Smart TV,Español,140,2148,1.18
+47,Femenino,110,Comedia,Primavera,2,8058,Computadora,Español,67,7293,1.16
+46,Femenino,177,Comedia,Primavera,0,8608,Smart TV,Español,82,7457,4.42
+63,Femenino,120,Acción,Primavera,3,1602,Computadora,Inglés,42,8509,3.81
+23,Masculino,174,Comedia,Primavera,8,520,Móvil,Inglés,63,5777,2.9
+52,Masculino,140,Comedia,Primavera,11,5930,Móvil,Inglés,127,4854,1.39
+58,Femenino,147,Drama,Verano,6,4458,Móvil,Español,96,3491,2.97
+54,Femenino,98,Drama,Primavera,4,1549,Computadora,Inglés,86,4124,2.89
+41,Masculino,152,Acción,Primavera,12,5911,Smart TV,Español,128,6691,1.69
+46,Femenino,88,Drama,Verano,10,8719,Móvil,Español,35,4051,2.74
+63,Masculino,135,Drama,Verano,5,7971,Computadora,Español,55,1004,2.59
+48,Femenino,110,Comedia,Primavera,0,8688,Smart TV,Español,99,6222,3.46
+52,Femenino,114,Comedia,Primavera,6,9087,Computadora,Español,99,6315,3.54
+50,Masculino,84,Drama,Primavera,11,206,Computadora,Español,50,5869,1.18
+38,Masculino,72,Drama,Primavera,4,4149,Móvil,Español,26,1876,2.5
+49,Masculino,80,Drama,Verano,6,8389,Computadora,Español,24,8027,3.5
+40,Masculino,122,Acción,Primavera,4,2003,Computadora,Inglés,64,5142,3.01
+50,Femenino,115,Acción,Primavera,4,7749,Smart TV,Inglés,35,7966,4.43
+20,Masculino,99,Acción,Primavera,2,3670,Móvil,Español,47,8079,3.63
+35,Femenino,126,Drama,Primavera,4,5476,Computadora,Inglés,80,8987,1.65
+42,Masculino,173,Drama,Verano,7,142,Computadora,Inglés,68,7799,1.28
+59,Masculino,87,Acción,Verano,7,6485,Smart TV,Inglés,33,5465,3.57
+48,Femenino,120,Acción,Primavera,1,1677,Computadora,Español,122,1635,1.11
+20,Masculino,117,Drama,Primavera,10,6165,Computadora,Inglés,89,2693,3.34
+57,Masculino,135,Comedia,Verano,0,5985,Computadora,Español,141,5752,4.76
+63,Masculino,165,Acción,Primavera,1,8676,Computadora,Inglés,95,9311,3.3
+41,Masculino,77,Drama,Primavera,10,3677,Computadora,Inglés,64,1830,2.55
+49,Femenino,91,Drama,Primavera,6,3338,Smart TV,Inglés,42,6177,3.57
+64,Femenino,75,Comedia,Primavera,2,5344,Computadora,Español,59,9932,2.83
+39,Masculino,145,Drama,Verano,7,9988,Computadora,Español,58,9308,3.18
+40,Masculino,126,Drama,Primavera,3,2234,Computadora,Español,38,6949,4.77
+19,Masculino,173,Acción,Verano,9,3992,Computadora,Español,180,3838,2.54
+44,Femenino,105,Acción,Verano,9,4421,Móvil,Español,78,2150,4.84
+59,Femenino,148,Comedia,Primavera,7,5876,Móvil,Español,154,8560,4.62
+19,Femenino,161,Comedia,Primavera,1,5928,Móvil,Español,91,2931,1.78
+43,Femenino,126,Drama,Primavera,12,3915,Móvil,Español,70,2664,1.28
+34,Masculino,118,Acción,Primavera,4,395,Smart TV,Español,73,2081,1.4
+57,Masculino,114,Comedia,Verano,5,513,Móvil,Inglés,98,1512,1.07
+50,Masculino,151,Comedia,Primavera,0,6056,Smart TV,Inglés,113,8805,1.38
+26,Femenino,135,Comedia,Verano,0,6378,Móvil,Español,140,6237,3.73
+60,Masculino,146,Drama,Primavera,8,6768,Smart TV,Inglés,46,1559,1.28
+56,Femenino,114,Acción,Primavera,4,8295,Móvil,Inglés,98,4672,2.28
+46,Femenino,148,Comedia,Primavera,3,277,Computadora,Español,83,8404,4.38
+59,Masculino,89,Acción,Primavera,0,9037,Móvil,Español,39,4343,1.09
+43,Masculino,133,Comedia,Primavera,2,4454,Móvil,Inglés,94,5070,4.26
+52,Masculino,162,Comedia,Primavera,12,8943,Móvil,Español,114,1580,2.13
+42,Femenino,175,Acción,Primavera,3,6014,Computadora,Inglés,71,8004,1.47
+41,Femenino,162,Acción,Primavera,10,5582,Smart TV,Español,74,9130,3.79
+30,Masculino,136,Acción,Primavera,10,3371,Smart TV,Inglés,85,4147,3.52
+24,Masculino,152,Drama,Verano,4,6787,Computadora,Español,95,5249,4.51
+53,Femenino,72,Comedia,Primavera,9,5492,Móvil,Inglés,39,2679,3.94
+62,Masculino,123,Drama,Primavera,11,389,Móvil,Inglés,51,4506,4.21
+37,Femenino,147,Acción,Primavera,4,9094,Móvil,Inglés,44,8253,2.13
+18,Femenino,133,Comedia,Primavera,9,8525,Smart TV,Inglés,143,3744,1.71
+25,Masculino,109,Drama,Verano,7,507,Smart TV,Español,114,6188,4.0
+63,Masculino,128,Comedia,Primavera,12,793,Computadora,Inglés,87,3141,4.23
+33,Masculino,124,Drama,Primavera,12,1269,Computadora,Español,135,7617,4.96
+31,Masculino,131,Acción,Verano,2,8723,Smart TV,Inglés,109,3479,2.65
+29,Femenino,73,Drama,Primavera,6,7882,Móvil,Español,25,7484,2.49
+40,Femenino,129,Comedia,Primavera,12,9274,Móvil,Inglés,50,8421,4.11
+32,Femenino,144,Comedia,Primavera,5,3144,Móvil,Español,148,5452,2.36
+45,Masculino,164,Comedia,Verano,9,5630,Móvil,Inglés,131,6881,4.72
+51,Femenino,176,Comedia,Primavera,10,5092,Computadora,Inglés,171,7665,4.43
+19,Masculino,165,Acción,Primavera,9,4024,Computadora,Español,168,3849,2.72
+49,Masculino,160,Drama,Primavera,9,7070,Smart TV,Inglés,105,8390,4.0
+40,Masculino,99,Acción,Primavera,10,3412,Computadora,Inglés,33,7905,4.02
+39,Masculino,176,Acción,Verano,5,4418,Móvil,Inglés,79,3489,1.41
+42,Masculino,71,Acción,Primavera,9,1788,Smart TV,Inglés,25,5611,4.61
+39,Masculino,131,Comedia,Primavera,8,567,Computadora,Español,59,3839,3.02
+39,Femenino,118,Comedia,Verano,6,9637,Computadora,Inglés,74,9527,4.31
+59,Masculino,78,Comedia,Primavera,12,2522,Computadora,Español,30,6878,2.28
+23,Femenino,161,Drama,Primavera,10,7379,Computadora,Español,69,7303,4.58
+32,Femenino,100,Comedia,Primavera,6,4607,Computadora,Español,65,1851,2.56
+60,Masculino,167,Drama,Primavera,10,4821,Móvil,Español,95,2687,1.04
+54,Masculino,130,Comedia,Primavera,0,5471,Móvil,Inglés,87,7833,4.62
+50,Masculino,148,Comedia,Primavera,0,9303,Móvil,Inglés,95,3427,1.37
+25,Femenino,117,Acción,Verano,8,7641,Computadora,Español,95,5000,2.28
+61,Masculino,94,Acción,Primavera,8,9969,Smart TV,Inglés,98,6052,4.8
+61,Femenino,105,Acción,Primavera,11,1586,Móvil,Inglés,40,3738,4.8
+22,Masculino,77,Drama,Verano,10,9708,Móvil,Español,29,6732,3.29
+56,Masculino,142,Drama,Primavera,9,9649,Computadora,Español,139,6387,3.53
+21,Femenino,127,Comedia,Primavera,2,9683,Smart TV,Español,89,9002,2.79
+23,Femenino,170,Drama,Verano,10,9870,Móvil,Inglés,155,6536,2.17
+62,Masculino,114,Comedia,Verano,10,3849,Móvil,Español,53,4913,2.31
+49,Femenino,131,Drama,Verano,7,8159,Smart TV,Español,126,2066,3.69
+47,Femenino,108,Drama,Verano,8,2603,Computadora,Inglés,112,8723,4.01
+64,Femenino,165,Drama,Primavera,0,7955,Smart TV,Inglés,133,5380,4.17
+52,Femenino,127,Acción,Primavera,11,7155,Computadora,Inglés,48,5107,4.16
+57,Femenino,150,Drama,Primavera,2,499,Móvil,Inglés,152,6726,1.36
+33,Masculino,168,Acción,Verano,12,4482,Smart TV,Inglés,156,4373,2.98
+30,Masculino,170,Acción,Primavera,5,1639,Smart TV,Inglés,153,9945,1.23
+59,Femenino,152,Drama,Primavera,3,8528,Móvil,Inglés,50,3082,3.2
+47,Masculino,133,Comedia,Primavera,7,7285,Móvil,Inglés,124,9967,2.77
+36,Masculino,113,Comedia,Primavera,8,5010,Computadora,Español,46,7748,4.55
+34,Femenino,98,Comedia,Primavera,6,9219,Móvil,Inglés,46,1417,2.4
+36,Masculino,128,Drama,Primavera,10,4609,Móvil,Español,97,9306,1.47
+45,Femenino,140,Comedia,Primavera,0,6151,Smart TV,Inglés,71,9808,1.57
+43,Femenino,161,Acción,Primavera,1,6252,Computadora,Inglés,133,4974,4.05
+54,Masculino,78,Comedia,Primavera,0,8711,Móvil,Español,61,4267,3.47
+43,Femenino,161,Drama,Primavera,8,4224,Smart TV,Inglés,62,1825,1.4
+40,Femenino,75,Comedia,Verano,3,2495,Móvil,Español,61,8668,1.34
+26,Femenino,98,Acción,Primavera,9,8952,Móvil,Inglés,101,6745,3.8
+29,Femenino,127,Drama,Verano,7,4050,Móvil,Español,54,1412,1.29
+18,Femenino,86,Comedia,Primavera,4,549,Móvil,Español,66,8543,4.29
+18,Masculino,85,Drama,Primavera,4,479,Computadora,Inglés,48,8587,3.82
+64,Masculino,156,Drama,Primavera,4,9542,Smart TV,Español,104,1728,1.33
+51,Femenino,164,Drama,Primavera,10,7385,Smart TV,Español,86,8164,1.34
+49,Femenino,72,Comedia,Verano,4,2401,Móvil,Inglés,41,9867,4.95
+42,Masculino,90,Drama,Primavera,2,7810,Smart TV,Inglés,29,6988,2.5
+57,Femenino,133,Comedia,Primavera,5,5892,Móvil,Español,144,3504,2.48
+62,Masculino,159,Acción,Primavera,0,9018,Smart TV,Inglés,127,3967,4.25
+18,Femenino,105,Comedia,Primavera,7,9759,Computadora,Español,73,3786,4.79
+33,Femenino,175,Acción,Verano,12,7316,Computadora,Español,106,2122,4.94
+56,Femenino,170,Comedia,Primavera,3,5005,Smart TV,Español,124,5079,4.01
+22,Femenino,155,Drama,Primavera,5,6099,Móvil,Inglés,93,2571,2.51
+39,Femenino,131,Comedia,Verano,1,8707,Móvil,Inglés,77,6073,1.33
+46,Femenino,111,Drama,Primavera,1,7222,Móvil,Español,74,6104,4.11
+20,Femenino,145,Acción,Primavera,7,699,Móvil,Español,75,3143,3.23
+29,Masculino,111,Comedia,Primavera,0,7388,Computadora,Español,49,7806,2.7
+43,Masculino,130,Drama,Primavera,7,8021,Móvil,Inglés,96,8357,4.63
+33,Masculino,82,Acción,Primavera,9,1667,Móvil,Español,79,4440,1.44
+54,Femenino,80,Acción,Primavera,9,1194,Móvil,Inglés,33,4766,2.97
+39,Femenino,123,Comedia,Primavera,0,9739,Móvil,Español,40,6644,1.05
+46,Femenino,85,Acción,Verano,8,9784,Computadora,Español,42,3914,2.87
+31,Femenino,77,Drama,Verano,0,6291,Smart TV,Español,83,5968,1.23
+45,Femenino,173,Acción,Primavera,3,1558,Smart TV,Español,166,6917,1.48
+22,Femenino,128,Acción,Primavera,8,9500,Móvil,Inglés,99,9787,1.47
+64,Femenino,126,Drama,Primavera,0,8146,Móvil,Inglés,131,1728,3.6
+47,Masculino,109,Acción,Primavera,8,5034,Smart TV,Inglés,71,2365,3.98
+63,Femenino,178,Acción,Primavera,7,1454,Computadora,Inglés,193,5492,3.33
+22,Masculino,128,Acción,Primavera,4,6573,Computadora,Inglés,68,1698,4.85
+29,Masculino,71,Acción,Primavera,5,8504,Computadora,Español,34,8186,2.5
+33,Femenino,163,Drama,Primavera,4,3994,Computadora,Inglés,132,1395,2.14
+43,Femenino,163,Acción,Verano,3,8132,Computadora,Inglés,98,8400,4.47
+43,Masculino,145,Drama,Verano,11,3063,Computadora,Inglés,116,9082,1.89
+38,Masculino,79,Acción,Primavera,9,3142,Computadora,Inglés,42,5171,4.85
+56,Femenino,113,Acción,Verano,12,7073,Computadora,Español,89,5360,1.05
+53,Femenino,80,Acción,Primavera,11,7239,Computadora,Español,41,3502,4.88
+50,Masculino,148,Acción,Primavera,3,7030,Móvil,Español,50,1717,1.17
+47,Femenino,149,Drama,Verano,9,1832,Computadora,Inglés,153,3782,4.56
+54,Femenino,150,Drama,Primavera,7,7970,Móvil,Español,150,5946,3.11
+40,Femenino,159,Drama,Primavera,7,5440,Smart TV,Español,171,6486,4.97
+27,Masculino,71,Comedia,Verano,8,5211,Móvil,Inglés,61,9335,1.3
+22,Masculino,119,Acción,Primavera,2,3181,Smart TV,Inglés,100,5980,3.22
+53,Masculino,81,Acción,Verano,9,7902,Móvil,Inglés,60,8266,4.88
+51,Femenino,159,Drama,Verano,7,9562,Smart TV,Español,63,5491,3.09
+48,Femenino,92,Comedia,Verano,2,7627,Móvil,Inglés,41,8192,3.52
+27,Masculino,87,Acción,Verano,1,4968,Móvil,Español,46,6588,3.78
+36,Masculino,131,Drama,Primavera,1,1629,Smart TV,Español,132,8651,2.82
+49,Masculino,165,Acción,Primavera,8,1181,Computadora,Español,72,4636,3.51
+18,Femenino,131,Acción,Primavera,3,8094,Computadora,Español,136,2167,3.34
+22,Masculino,107,Drama,Primavera,4,3631,Computadora,Español,76,2062,4.6
+62,Masculino,136,Drama,Verano,1,9443,Computadora,Inglés,118,3156,1.18
+21,Femenino,107,Acción,Primavera,8,816,Computadora,Español,41,8860,2.12
+33,Femenino,136,Acción,Primavera,6,6329,Móvil,Español,70,6161,4.8
+41,Femenino,163,Drama,Primavera,2,304,Computadora,Español,173,6305,4.56
+33,Masculino,130,Acción,Primavera,5,6884,Móvil,Español,66,7541,2.82
+19,Femenino,70,Acción,Primavera,6,4194,Smart TV,Español,37,5729,3.48
+45,Femenino,163,Drama,Verano,11,5582,Computadora,Inglés,74,8330,2.11
+49,Masculino,114,Acción,Primavera,5,5840,Computadora,Español,45,6334,1.75
+44,Femenino,165,Acción,Primavera,9,9624,Computadora,Español,80,9924,2.85
+37,Masculino,97,Comedia,Primavera,10,7319,Computadora,Español,78,5330,2.41
+41,Masculino,90,Drama,Primavera,9,6254,Móvil,Español,59,9010,3.33
+29,Femenino,179,Comedia,Primavera,5,4942,Móvil,Inglés,132,7801,1.31
+52,Femenino,82,Comedia,Primavera,12,8203,Móvil,Español,32,5846,4.9
+50,Femenino,96,Comedia,Verano,7,9529,Smart TV,Español,90,7731,4.94
+50,Femenino,169,Acción,Primavera,7,2118,Móvil,Español,156,8241,3.79
+60,Femenino,76,Acción,Primavera,4,5151,Computadora,Español,24,1953,3.14
+54,Femenino,91,Comedia,Verano,3,8809,Smart TV,Inglés,55,3539,2.24
+29,Masculino,143,Comedia,Verano,10,7935,Smart TV,Inglés,50,8056,4.26
+20,Masculino,172,Comedia,Primavera,4,1538,Computadora,Inglés,160,2542,3.74
+18,Femenino,122,Acción,Primavera,8,4186,Computadora,Español,108,6293,1.65
+50,Masculino,148,Comedia,Verano,11,5227,Computadora,Inglés,151,2191,4.64
+57,Femenino,148,Comedia,Primavera,9,2152,Computadora,Inglés,72,7313,4.29
+27,Masculino,73,Drama,Primavera,5,7629,Móvil,Inglés,48,7938,4.8
+60,Masculino,165,Drama,Primavera,2,7247,Smart TV,Inglés,73,3681,3.9
+61,Masculino,92,Acción,Verano,2,4468,Computadora,Inglés,54,2540,3.45
+46,Femenino,139,Drama,Primavera,0,4617,Móvil,Español,99,7172,2.67
+30,Masculino,157,Drama,Primavera,4,2412,Computadora,Inglés,53,6541,4.73
+29,Femenino,153,Drama,Verano,5,5677,Móvil,Inglés,133,2365,4.46
+48,Masculino,170,Acción,Primavera,7,9073,Computadora,Inglés,124,9691,1.18
+63,Masculino,153,Drama,Primavera,10,1344,Computadora,Español,147,9702,1.11
+19,Masculino,145,Acción,Primavera,8,2516,Computadora,Español,75,8494,2.51
+52,Masculino,102,Comedia,Verano,6,6590,Móvil,Inglés,104,5312,4.24
+40,Masculino,97,Drama,Primavera,0,6268,Computadora,Español,106,2324,4.95
+34,Femenino,77,Acción,Primavera,6,9267,Móvil,Español,79,4141,1.6
+43,Femenino,70,Drama,Primavera,9,5939,Móvil,Inglés,64,8419,3.38
+25,Masculino,106,Comedia,Primavera,8,8708,Smart TV,Español,100,4486,2.52
+46,Masculino,132,Acción,Primavera,3,8506,Móvil,Inglés,100,2810,4.88
+43,Masculino,91,Acción,Primavera,10,9427,Móvil,Inglés,41,7588,4.37
+27,Masculino,139,Acción,Primavera,11,7197,Móvil,Inglés,116,3923,4.35
+43,Femenino,90,Comedia,Verano,6,5109,Móvil,Español,78,6301,2.87
+51,Masculino,165,Comedia,Primavera,8,1682,Móvil,Inglés,179,5186,2.66
+58,Femenino,104,Comedia,Primavera,0,9024,Smart TV,Inglés,76,9905,2.09
+24,Masculino,148,Acción,Primavera,11,7976,Computadora,Español,76,6977,1.23
+21,Femenino,74,Comedia,Primavera,9,2527,Smart TV,Inglés,62,5268,4.46
+62,Masculino,129,Drama,Primavera,8,5821,Smart TV,Español,139,5748,4.25
+28,Masculino,115,Comedia,Verano,3,8523,Computadora,Español,50,5849,5.0
+46,Femenino,119,Acción,Primavera,11,5030,Móvil,Inglés,66,4709,4.99
+53,Masculino,117,Drama,Verano,7,4453,Computadora,Español,85,7619,3.22
+42,Masculino,75,Comedia,Verano,2,7932,Móvil,Inglés,32,9647,4.08
+38,Masculino,158,Drama,Primavera,1,5475,Computadora,Español,50,4072,4.78
+53,Femenino,125,Drama,Verano,12,502,Smart TV,Español,71,7530,4.4
+27,Masculino,179,Acción,Verano,11,6667,Móvil,Español,177,1504,1.99
+54,Masculino,128,Drama,Primavera,7,4965,Smart TV,Español,42,2214,2.8
+26,Femenino,173,Drama,Primavera,7,8246,Móvil,Inglés,111,2531,1.52
+41,Femenino,98,Acción,Verano,2,164,Computadora,Inglés,89,8576,4.82
+52,Femenino,140,Acción,Primavera,12,2337,Computadora,Español,148,1823,3.42
+52,Masculino,173,Acción,Verano,7,7870,Computadora,Inglés,188,1928,1.91
+53,Masculino,146,Drama,Primavera,10,9241,Computadora,Inglés,93,6029,3.69
+35,Masculino,171,Drama,Primavera,10,272,Computadora,Inglés,181,1133,3.47
+56,Femenino,87,Drama,Primavera,5,8035,Smart TV,Inglés,28,3105,2.43
+49,Masculino,71,Acción,Verano,9,2775,Smart TV,Inglés,63,4627,1.45
+41,Masculino,77,Comedia,Verano,8,9542,Móvil,Inglés,62,7316,3.69
+40,Femenino,144,Drama,Verano,9,4105,Smart TV,Inglés,71,2852,3.08
+49,Femenino,166,Comedia,Verano,12,6644,Móvil,Español,117,5910,4.09
+54,Femenino,123,Acción,Verano,5,8929,Móvil,Inglés,49,5175,3.08
+29,Femenino,107,Drama,Primavera,7,1048,Smart TV,Español,106,6348,4.41
+30,Femenino,117,Comedia,Verano,1,1794,Smart TV,Español,68,7190,3.21
+40,Masculino,96,Drama,Primavera,0,4857,Móvil,Español,76,2256,3.24
+42,Femenino,89,Drama,Verano,9,6382,Smart TV,Inglés,38,4376,4.51
+52,Masculino,81,Drama,Primavera,9,242,Smart TV,Inglés,37,6645,2.61
+58,Masculino,112,Comedia,Verano,1,6101,Smart TV,Español,122,4486,1.54
+47,Femenino,130,Acción,Verano,11,6752,Computadora,Español,117,4584,1.12
+34,Femenino,100,Drama,Primavera,3,4681,Computadora,Inglés,106,9053,4.02
+37,Femenino,160,Acción,Verano,9,5187,Móvil,Inglés,85,4330,3.48
+42,Masculino,165,Acción,Primavera,8,1560,Smart TV,Inglés,71,3703,3.82
+39,Femenino,130,Comedia,Verano,6,3987,Móvil,Español,91,9662,1.85
+30,Femenino,143,Comedia,Primavera,8,8584,Smart TV,Español,99,9120,1.55
+36,Femenino,136,Acción,Verano,8,9935,Computadora,Inglés,59,8114,1.06
+53,Femenino,178,Drama,Primavera,8,937,Smart TV,Inglés,157,2353,2.4
+29,Femenino,160,Comedia,Primavera,7,9329,Smart TV,Español,94,6063,3.36
+58,Masculino,104,Drama,Primavera,5,5946,Smart TV,Inglés,46,9549,2.57
+36,Masculino,164,Drama,Verano,10,8563,Computadora,Inglés,92,8575,2.75
+29,Masculino,84,Drama,Primavera,9,2469,Computadora,Español,63,1667,4.62
+26,Femenino,85,Acción,Primavera,6,9097,Computadora,Español,74,5468,2.39
+24,Femenino,82,Drama,Primavera,1,3274,Móvil,Español,56,7819,3.06
+45,Femenino,104,Acción,Primavera,10,6085,Smart TV,Español,74,4719,4.13
+31,Masculino,144,Acción,Primavera,0,982,Computadora,Inglés,59,3745,2.59
+48,Femenino,128,Drama,Primavera,12,9123,Móvil,Español,132,8483,3.49
+36,Femenino,90,Drama,Primavera,4,3271,Computadora,Inglés,93,1539,4.45
+64,Femenino,123,Drama,Primavera,7,2140,Smart TV,Inglés,104,5964,4.8
+33,Masculino,144,Drama,Primavera,2,6832,Móvil,Inglés,45,5835,1.59
+22,Femenino,99,Acción,Primavera,6,9886,Computadora,Español,72,4775,4.71
+52,Masculino,117,Drama,Verano,4,6472,Computadora,Español,93,7042,2.97
+29,Femenino,104,Drama,Verano,11,9918,Móvil,Inglés,113,8102,2.03
+42,Masculino,155,Acción,Primavera,9,6085,Móvil,Inglés,170,8312,2.84
+38,Masculino,107,Comedia,Primavera,12,7662,Móvil,Español,105,6320,4.92
+53,Masculino,100,Comedia,Primavera,7,6000,Móvil,Inglés,35,7132,2.97
+40,Femenino,147,Acción,Verano,5,8065,Móvil,Inglés,156,8891,2.32
+33,Femenino,93,Comedia,Verano,5,5416,Computadora,Inglés,73,3779,3.53
+56,Masculino,118,Acción,Verano,6,8565,Móvil,Inglés,111,1924,1.96
+62,Masculino,165,Drama,Verano,6,689,Móvil,Inglés,103,2581,1.3
+59,Femenino,169,Drama,Primavera,3,8874,Smart TV,Inglés,93,8714,1.52
+56,Femenino,101,Comedia,Primavera,9,5163,Computadora,Inglés,67,4324,1.51
+31,Masculino,124,Drama,Primavera,11,3733,Smart TV,Inglés,51,6713,1.61
+48,Femenino,148,Comedia,Primavera,9,2090,Computadora,Español,86,8026,1.56
+22,Femenino,176,Comedia,Verano,9,6615,Computadora,Español,173,1255,3.56
+52,Femenino,127,Drama,Primavera,12,1358,Computadora,Inglés,41,5804,1.73
+40,Femenino,168,Drama,Verano,7,2966,Móvil,Inglés,70,2838,2.38
+46,Masculino,72,Comedia,Primavera,5,3838,Smart TV,Español,28,1009,4.59
+60,Femenino,149,Drama,Primavera,10,671,Computadora,Español,92,3871,2.9
+28,Femenino,138,Acción,Primavera,12,8836,Computadora,Español,151,9989,3.67
+35,Masculino,154,Drama,Verano,7,4322,Computadora,Inglés,67,8409,1.69
+64,Masculino,79,Drama,Primavera,6,737,Smart TV,Español,32,8418,1.77
+29,Femenino,152,Acción,Verano,0,8332,Computadora,Español,156,6124,1.16
+26,Femenino,94,Drama,Verano,3,4982,Smart TV,Inglés,94,2015,1.68
+27,Femenino,137,Drama,Verano,6,4492,Smart TV,Español,44,3193,2.11
+61,Femenino,130,Comedia,Primavera,8,9912,Móvil,Inglés,117,9415,1.71
+34,Masculino,98,Drama,Primavera,1,3772,Computadora,Español,80,8449,1.35
+55,Masculino,88,Drama,Primavera,4,9591,Computadora,Español,80,5158,1.48
+24,Masculino,112,Acción,Primavera,8,7357,Smart TV,Español,77,4925,2.84
+63,Femenino,135,Comedia,Primavera,8,4811,Smart TV,Español,147,7970,1.83
+30,Femenino,143,Comedia,Primavera,5,5743,Móvil,Español,47,7938,2.46
+57,Femenino,130,Comedia,Primavera,6,259,Computadora,Inglés,63,5784,3.01
+59,Femenino,112,Drama,Primavera,8,6038,Smart TV,Inglés,69,5000,3.76
+26,Masculino,94,Comedia,Verano,9,680,Computadora,Español,62,2633,1.16
+44,Masculino,89,Acción,Verano,7,8511,Computadora,Inglés,92,8266,4.2
+19,Femenino,117,Comedia,Verano,9,7686,Computadora,Español,87,9702,3.51
+22,Masculino,152,Acción,Primavera,5,4574,Smart TV,Español,51,1384,1.33
+46,Femenino,156,Comedia,Verano,5,7173,Computadora,Español,97,1404,4.49
+54,Femenino,93,Comedia,Verano,6,9762,Smart TV,Español,58,9175,4.68
+55,Masculino,80,Acción,Primavera,6,5159,Móvil,Español,85,3000,1.24
+36,Femenino,179,Comedia,Primavera,1,4428,Móvil,Inglés,139,6989,2.11
+25,Femenino,167,Comedia,Verano,8,1494,Smart TV,Inglés,135,2460,4.22
+62,Masculino,124,Comedia,Verano,3,1021,Computadora,Inglés,107,8190,3.99
+18,Femenino,97,Drama,Verano,12,2873,Móvil,Inglés,88,8140,1.74
+39,Femenino,138,Acción,Primavera,12,4562,Móvil,Español,111,4636,1.84
+34,Masculino,132,Comedia,Primavera,9,4676,Smart TV,Inglés,64,5809,2.48
+24,Femenino,128,Acción,Primavera,8,3534,Smart TV,Español,127,5178,2.94
+42,Masculino,74,Acción,Primavera,11,6833,Smart TV,Español,65,8245,3.47
+62,Femenino,120,Acción,Verano,10,9410,Smart TV,Inglés,107,7600,2.48
+21,Masculino,90,Comedia,Primavera,9,1965,Smart TV,Inglés,98,6997,2.85
+53,Masculino,81,Comedia,Primavera,2,824,Smart TV,Español,76,3048,3.99
+23,Masculino,119,Acción,Primavera,4,811,Smart TV,Español,114,5780,1.15
+48,Femenino,73,Drama,Primavera,4,7810,Computadora,Español,77,1716,2.01
+36,Masculino,111,Acción,Verano,6,5180,Computadora,Inglés,46,8939,3.85
+61,Masculino,153,Drama,Verano,11,490,Computadora,Español,106,6565,4.58
+56,Masculino,107,Acción,Primavera,3,9362,Computadora,Español,81,5544,3.05
+44,Masculino,94,Acción,Primavera,10,4587,Móvil,Español,52,5976,3.13
+27,Masculino,83,Acción,Primavera,12,8216,Computadora,Español,80,4419,1.43
+43,Femenino,144,Comedia,Primavera,11,6847,Móvil,Inglés,131,8239,2.79
+36,Femenino,101,Drama,Primavera,3,6166,Móvil,Inglés,88,1249,3.13
+56,Femenino,80,Drama,Primavera,12,4594,Móvil,Español,87,9865,1.97
+20,Femenino,130,Acción,Primavera,12,3672,Smart TV,Inglés,65,1770,2.08
+62,Femenino,87,Comedia,Primavera,0,7869,Móvil,Español,77,5363,2.51
+30,Femenino,96,Comedia,Verano,5,2411,Móvil,Inglés,71,2077,1.08
+45,Femenino,124,Drama,Primavera,3,6873,Móvil,Inglés,68,9427,2.29
+37,Masculino,123,Comedia,Primavera,10,7005,Smart TV,Inglés,52,9580,1.85
+45,Femenino,151,Drama,Verano,9,3742,Computadora,Inglés,153,8901,2.31
+25,Masculino,156,Drama,Verano,9,6438,Computadora,Español,121,5858,1.48
+58,Masculino,144,Drama,Verano,4,2709,Móvil,Español,138,7544,4.56
+56,Femenino,90,Comedia,Primavera,10,9722,Móvil,Español,66,5719,3.37
+18,Masculino,113,Drama,Primavera,8,6340,Computadora,Inglés,53,3814,3.72
+20,Masculino,74,Drama,Verano,3,7906,Computadora,Inglés,42,4374,4.16
+30,Masculino,156,Acción,Verano,0,857,Computadora,Español,94,2252,2.99
+45,Masculino,110,Drama,Verano,10,5186,Computadora,Inglés,118,7996,1.35
+42,Femenino,128,Drama,Primavera,8,6320,Móvil,Inglés,38,5673,3.15
+50,Femenino,158,Acción,Primavera,4,5702,Móvil,Español,171,5530,3.35
+55,Femenino,174,Acción,Verano,9,9426,Móvil,Inglés,188,7881,3.98
+23,Femenino,123,Comedia,Primavera,12,6221,Computadora,Español,134,7949,2.73
+61,Femenino,143,Drama,Verano,11,9056,Smart TV,Inglés,97,7241,1.51
+62,Femenino,91,Comedia,Primavera,12,2825,Computadora,Español,97,9017,2.14
+49,Femenino,152,Comedia,Primavera,10,3468,Computadora,Inglés,93,7941,2.45
+62,Femenino,134,Acción,Primavera,6,3597,Smart TV,Inglés,43,8002,3.58
+64,Femenino,133,Comedia,Primavera,2,8274,Smart TV,Inglés,63,2331,3.28
+38,Femenino,140,Drama,Primavera,3,9964,Computadora,Inglés,147,5261,2.42
+33,Masculino,73,Acción,Primavera,11,5742,Smart TV,Inglés,22,8648,4.95
+38,Femenino,134,Drama,Primavera,9,8874,Smart TV,Español,98,6115,3.42
+28,Masculino,84,Drama,Verano,8,4866,Smart TV,Inglés,30,5637,1.95
+54,Masculino,173,Acción,Primavera,9,4733,Computadora,Español,91,5854,1.41
+53,Masculino,145,Drama,Primavera,12,1921,Computadora,Español,53,4177,1.61
+52,Masculino,91,Acción,Primavera,0,1285,Smart TV,Español,89,8730,1.98
+36,Femenino,155,Drama,Primavera,11,1737,Móvil,Inglés,119,3180,1.64
+37,Masculino,116,Acción,Verano,10,7336,Smart TV,Español,118,5892,1.75
+35,Femenino,150,Comedia,Primavera,4,8480,Smart TV,Inglés,127,8043,2.14
+64,Femenino,162,Drama,Primavera,7,1846,Computadora,Inglés,174,1137,1.69
+58,Masculino,115,Acción,Verano,9,5897,Móvil,Inglés,81,7327,4.59
+31,Femenino,83,Drama,Verano,6,8189,Smart TV,Español,67,4472,1.32
+32,Masculino,119,Drama,Primavera,3,2720,Móvil,Inglés,90,6449,3.1
+48,Masculino,89,Drama,Primavera,6,7697,Computadora,Inglés,61,3832,2.64
+18,Femenino,119,Acción,Primavera,0,8102,Móvil,Inglés,116,4579,4.93
+20,Femenino,102,Comedia,Primavera,5,6207,Computadora,Español,83,6971,1.45
+33,Masculino,128,Comedia,Primavera,8,9476,Smart TV,Español,120,5164,2.59
+40,Femenino,112,Comedia,Verano,2,2893,Computadora,Español,104,8941,4.88
+28,Femenino,148,Acción,Verano,3,2600,Móvil,Español,67,6569,4.46
+29,Femenino,81,Comedia,Verano,7,8461,Móvil,Inglés,66,5300,4.27
+27,Masculino,109,Acción,Verano,11,5025,Móvil,Español,50,7269,2.03
+49,Masculino,89,Drama,Primavera,4,1180,Smart TV,Inglés,68,4818,1.68
+33,Femenino,163,Drama,Primavera,4,9555,Móvil,Español,137,2906,3.67
+25,Femenino,107,Comedia,Primavera,0,4964,Móvil,Inglés,117,7254,4.72
+55,Femenino,72,Acción,Primavera,5,4553,Móvil,Español,23,1760,3.23
+29,Femenino,97,Drama,Primavera,1,2348,Computadora,Español,36,8830,3.29
+41,Femenino,125,Acción,Primavera,0,1425,Móvil,Español,45,8350,2.12
+45,Masculino,159,Acción,Primavera,5,3973,Computadora,Inglés,98,7238,4.08
+25,Femenino,163,Drama,Verano,4,1788,Móvil,Inglés,156,7090,1.75
+45,Masculino,82,Acción,Verano,12,3085,Computadora,Español,79,7031,2.29
+53,Femenino,146,Drama,Verano,4,2176,Computadora,Español,129,8687,2.7
+43,Masculino,135,Drama,Primavera,8,9821,Smart TV,Español,137,9472,3.03
+25,Femenino,106,Drama,Verano,11,1561,Smart TV,Español,59,2887,1.97
+45,Masculino,118,Acción,Verano,9,9694,Computadora,Español,43,4266,1.46
+45,Femenino,171,Drama,Verano,9,172,Computadora,Español,59,1666,3.44
+54,Masculino,135,Acción,Verano,12,6130,Smart TV,Inglés,132,5188,2.15
+58,Masculino,105,Drama,Primavera,2,4711,Computadora,Inglés,92,1671,3.32
+53,Masculino,123,Drama,Primavera,0,2896,Smart TV,Inglés,105,7777,1.62
+44,Masculino,95,Comedia,Primavera,7,7817,Smart TV,Inglés,54,8570,2.92
+34,Masculino,144,Comedia,Primavera,11,4616,Móvil,Inglés,86,8956,3.13
+26,Masculino,141,Comedia,Verano,4,2593,Móvil,Inglés,150,6124,1.21
+50,Femenino,177,Acción,Verano,10,4331,Smart TV,Español,62,6585,2.35
+37,Masculino,109,Acción,Verano,4,3676,Smart TV,Español,100,5777,1.54
+30,Femenino,112,Drama,Primavera,7,8200,Computadora,Español,61,4900,1.25
+45,Femenino,91,Drama,Primavera,7,5828,Smart TV,Español,30,7677,4.96
+46,Femenino,89,Drama,Primavera,10,132,Smart TV,Español,79,7981,2.29
+30,Femenino,77,Drama,Primavera,1,4473,Móvil,Inglés,43,7376,4.24
+63,Femenino,98,Acción,Primavera,2,3698,Smart TV,Inglés,86,1523,2.02
+52,Masculino,109,Drama,Primavera,9,2492,Computadora,Inglés,94,3393,3.73
+23,Masculino,159,Drama,Primavera,9,6805,Smart TV,Inglés,115,3593,4.04
+35,Masculino,99,Comedia,Verano,0,6890,Móvil,Inglés,91,8240,3.38
+22,Femenino,150,Drama,Primavera,2,2777,Móvil,Español,114,7937,2.89
+64,Masculino,153,Drama,Primavera,11,1501,Móvil,Inglés,80,7190,2.65
+42,Masculino,124,Drama,Verano,3,917,Móvil,Inglés,110,6240,2.4
+19,Masculino,85,Acción,Primavera,10,6303,Smart TV,Inglés,65,7493,4.72
+27,Masculino,115,Comedia,Verano,6,9952,Computadora,Español,35,3878,4.32
+47,Masculino,131,Drama,Primavera,8,4662,Computadora,Español,133,5143,4.86
+62,Femenino,176,Drama,Primavera,11,4823,Computadora,Español,129,4644,1.5
+22,Masculino,76,Comedia,Verano,4,2538,Smart TV,Español,75,5432,3.92
+50,Femenino,149,Drama,Primavera,11,6928,Smart TV,Español,149,2276,4.75
+18,Femenino,114,Acción,Verano,0,1310,Smart TV,Español,74,6811,1.72
+35,Femenino,128,Drama,Primavera,1,6741,Computadora,Inglés,90,1302,1.27
+49,Femenino,125,Acción,Primavera,9,699,Smart TV,Inglés,79,1638,3.96
+64,Femenino,117,Acción,Primavera,1,5580,Smart TV,Inglés,77,1055,3.3
+28,Masculino,96,Drama,Primavera,8,1946,Móvil,Español,97,9717,4.37
+38,Masculino,122,Comedia,Primavera,9,6692,Móvil,Español,113,9150,1.56
+43,Masculino,156,Acción,Verano,6,7961,Computadora,Español,62,3125,4.18
+42,Femenino,157,Comedia,Primavera,1,1987,Móvil,Español,123,1364,1.81
+39,Masculino,142,Drama,Primavera,0,779,Móvil,Inglés,155,7809,1.65
+44,Masculino,104,Acción,Verano,4,3352,Móvil,Español,80,5621,1.66
+30,Femenino,120,Drama,Primavera,11,1935,Smart TV,Español,111,6126,4.26
+50,Femenino,153,Comedia,Primavera,0,2277,Móvil,Español,140,6122,3.66
+51,Femenino,106,Drama,Primavera,8,8242,Móvil,Español,61,2646,3.09
+58,Femenino,175,Drama,Primavera,2,248,Móvil,Español,104,1918,2.44
+52,Masculino,150,Acción,Verano,1,1595,Smart TV,Inglés,131,3797,4.51
+18,Femenino,164,Drama,Verano,12,1844,Computadora,Español,114,7506,2.57
+38,Femenino,126,Drama,Primavera,5,1746,Smart TV,Español,95,6870,4.27
+23,Masculino,77,Drama,Verano,2,3095,Smart TV,Inglés,67,2531,2.76
+45,Masculino,148,Acción,Verano,4,6743,Móvil,Español,136,9172,2.51
+34,Femenino,164,Comedia,Primavera,9,9964,Computadora,Español,84,4345,2.85
+22,Masculino,163,Comedia,Primavera,7,7478,Móvil,Inglés,68,8673,2.21
+48,Femenino,179,Drama,Primavera,9,8949,Móvil,Inglés,95,7949,3.99
+22,Femenino,89,Acción,Primavera,1,3767,Computadora,Inglés,62,7882,3.01
+55,Masculino,172,Drama,Primavera,11,9345,Computadora,Inglés,98,2906,1.93
+20,Masculino,122,Comedia,Verano,12,676,Smart TV,Inglés,92,4086,4.6
+40,Femenino,81,Acción,Primavera,4,4879,Computadora,Inglés,27,9152,2.54
+54,Femenino,118,Comedia,Verano,10,8287,Smart TV,Inglés,83,6750,3.17
+54,Femenino,86,Comedia,Verano,7,3072,Smart TV,Inglés,51,9905,4.63
+27,Masculino,133,Acción,Verano,0,7856,Móvil,Inglés,96,2062,3.5
+27,Femenino,111,Acción,Primavera,9,4048,Móvil,Inglés,70,2976,1.47
+36,Femenino,163,Drama,Primavera,9,6644,Móvil,Español,85,2296,4.76
+34,Femenino,98,Drama,Primavera,10,2145,Computadora,Inglés,100,7229,3.51
+38,Femenino,88,Comedia,Verano,12,1727,Computadora,Inglés,39,8641,2.34
+31,Femenino,179,Acción,Primavera,11,1588,Smart TV,Inglés,151,1125,1.56
+26,Masculino,80,Acción,Primavera,12,9227,Smart TV,Inglés,83,5632,4.18
+63,Femenino,167,Drama,Primavera,11,3663,Smart TV,Inglés,122,7288,3.48
+18,Femenino,119,Comedia,Verano,3,1902,Computadora,Español,119,4596,3.13
+62,Femenino,140,Comedia,Primavera,4,9712,Smart TV,Español,55,7168,4.58
+30,Femenino,177,Drama,Verano,9,3691,Smart TV,Español,123,8561,4.15
+21,Masculino,127,Acción,Primavera,11,3620,Computadora,Inglés,84,9258,1.61
+18,Masculino,103,Drama,Primavera,10,5996,Móvil,Inglés,31,1232,2.25
+57,Masculino,89,Drama,Verano,2,7743,Computadora,Español,58,7371,1.99
+49,Femenino,119,Drama,Primavera,11,7141,Smart TV,Inglés,70,5206,3.98
+51,Femenino,171,Drama,Verano,1,3411,Móvil,Inglés,142,8943,1.13
+45,Masculino,157,Acción,Verano,11,2405,Computadora,Español,164,7891,3.28
+48,Masculino,79,Drama,Verano,2,7975,Móvil,Inglés,29,7738,4.05
+25,Masculino,101,Acción,Primavera,10,2067,Móvil,Inglés,56,3472,4.51
+56,Femenino,121,Drama,Primavera,4,8109,Smart TV,Inglés,79,3739,2.37
+43,Femenino,84,Comedia,Primavera,6,5562,Computadora,Inglés,55,6401,4.29
+51,Masculino,170,Acción,Primavera,1,6997,Smart TV,Inglés,156,2761,1.44
+20,Masculino,153,Comedia,Primavera,12,3558,Computadora,Inglés,100,1876,4.39
+29,Masculino,72,Drama,Primavera,6,8685,Computadora,Inglés,23,4812,1.51
+18,Femenino,106,Drama,Verano,5,4878,Computadora,Español,92,2460,2.59
+61,Femenino,109,Drama,Primavera,6,3830,Móvil,Español,109,2733,4.19
+22,Femenino,141,Acción,Primavera,6,4465,Móvil,Inglés,100,2605,1.6
+47,Masculino,109,Comedia,Verano,8,7647,Smart TV,Inglés,83,6622,1.92
+47,Masculino,177,Acción,Primavera,6,127,Computadora,Español,76,7767,3.89
+34,Femenino,125,Acción,Primavera,11,3591,Computadora,Español,59,7986,3.88
+64,Masculino,92,Drama,Primavera,12,6523,Móvil,Español,44,4517,3.56
+40,Femenino,173,Comedia,Primavera,5,5401,Computadora,Español,111,4735,3.78
+32,Masculino,80,Drama,Verano,9,6260,Smart TV,Español,83,9434,3.17
+54,Masculino,179,Acción,Verano,7,1273,Computadora,Español,128,3590,2.01
+38,Masculino,133,Drama,Primavera,6,438,Computadora,Español,60,2063,2.38
+31,Masculino,77,Comedia,Primavera,5,9360,Móvil,Inglés,39,5324,1.73
+19,Femenino,162,Drama,Primavera,3,941,Computadora,Español,98,6342,4.63
+28,Masculino,163,Comedia,Verano,6,393,Smart TV,Español,130,1005,3.33
+56,Femenino,125,Comedia,Primavera,11,9614,Smart TV,Español,81,8489,2.6
+55,Femenino,129,Drama,Primavera,7,6658,Smart TV,Inglés,79,9659,2.85
+51,Femenino,79,Acción,Primavera,7,1747,Smart TV,Inglés,59,9195,4.79
+55,Masculino,108,Drama,Primavera,11,4998,Móvil,Inglés,53,6966,1.61
+51,Femenino,97,Acción,Primavera,11,4626,Computadora,Español,35,9837,3.34
+35,Femenino,118,Acción,Verano,3,5714,Móvil,Español,37,1117,3.02
+47,Femenino,105,Drama,Primavera,9,3901,Smart TV,Español,52,3551,3.45
+32,Masculino,82,Acción,Primavera,8,8380,Computadora,Inglés,30,6560,1.07
+44,Masculino,165,Acción,Primavera,2,7476,Móvil,Inglés,93,5289,4.49
+51,Femenino,105,Drama,Verano,8,999,Computadora,Inglés,96,1846,4.73
+55,Masculino,170,Drama,Verano,2,3577,Smart TV,Inglés,148,7316,3.26
+50,Femenino,95,Drama,Primavera,12,1844,Smart TV,Inglés,74,7469,3.79
+41,Femenino,155,Acción,Primavera,6,6196,Computadora,Inglés,152,9915,4.69
+32,Masculino,73,Comedia,Primavera,3,2353,Computadora,Español,38,1224,3.83
+47,Femenino,164,Acción,Primavera,4,1733,Smart TV,Inglés,165,5208,1.61
+59,Masculino,151,Comedia,Verano,12,7101,Móvil,Inglés,93,7283,3.31
+34,Masculino,133,Drama,Primavera,2,7120,Smart TV,Inglés,82,3048,3.43
+22,Femenino,107,Comedia,Primavera,1,9153,Computadora,Inglés,66,7233,2.7
+46,Masculino,157,Drama,Primavera,11,8249,Móvil,Español,59,2828,3.95
+21,Masculino,156,Drama,Verano,7,4801,Smart TV,Español,168,2917,4.74
+27,Femenino,91,Comedia,Primavera,6,6835,Computadora,Inglés,37,5234,4.7
+34,Femenino,71,Drama,Verano,6,1113,Computadora,Español,40,7988,2.8
+27,Masculino,100,Comedia,Primavera,7,3399,Computadora,Español,55,3026,1.45
+34,Masculino,80,Drama,Verano,12,1606,Móvil,Español,28,4744,4.94
+37,Femenino,161,Acción,Primavera,0,4903,Móvil,Español,67,1009,4.36
+41,Masculino,115,Acción,Verano,11,1077,Móvil,Español,38,1260,1.5
+22,Masculino,165,Drama,Verano,7,1917,Móvil,Español,88,7038,4.68
+51,Masculino,131,Drama,Primavera,9,5001,Computadora,Español,130,3219,4.48
+23,Masculino,138,Comedia,Verano,11,9240,Computadora,Inglés,78,8041,3.08
+19,Masculino,133,Acción,Primavera,4,6898,Móvil,Español,53,3060,3.37
+30,Masculino,171,Comedia,Primavera,7,573,Móvil,Inglés,139,6287,2.6
+60,Masculino,79,Drama,Primavera,8,667,Computadora,Español,86,2619,1.22
+60,Femenino,109,Drama,Primavera,12,8066,Smart TV,Español,52,9512,2.34
+28,Femenino,179,Comedia,Primavera,1,2358,Smart TV,Español,93,2342,4.21
+64,Femenino,93,Drama,Verano,2,8220,Computadora,Inglés,100,3832,1.02
+40,Femenino,168,Acción,Primavera,5,4410,Móvil,Español,74,3824,2.33
+33,Femenino,113,Comedia,Primavera,8,2082,Móvil,Inglés,80,2994,2.59
+48,Masculino,129,Acción,Primavera,9,1196,Computadora,Español,63,4490,3.15
+28,Masculino,131,Acción,Primavera,9,6710,Smart TV,Español,137,8984,4.68
+33,Masculino,156,Acción,Primavera,7,3670,Computadora,Inglés,169,2604,2.39
+25,Masculino,86,Comedia,Verano,12,6597,Computadora,Español,81,1235,2.39
+21,Femenino,134,Drama,Verano,5,3746,Computadora,Español,73,2908,3.95
+57,Masculino,164,Acción,Primavera,4,2519,Móvil,Español,102,9567,2.81
+21,Masculino,164,Acción,Verano,12,4379,Móvil,Inglés,80,4530,1.9
+42,Femenino,175,Acción,Primavera,2,773,Móvil,Español,177,6256,2.81
+20,Masculino,126,Drama,Verano,11,2902,Smart TV,Español,129,3635,1.56
+49,Masculino,124,Drama,Primavera,3,7412,Computadora,Español,78,9162,1.71
+20,Femenino,175,Comedia,Verano,12,2469,Computadora,Inglés,144,3560,2.99
+44,Masculino,122,Drama,Primavera,12,4630,Smart TV,Español,52,6415,2.68
+46,Masculino,125,Comedia,Primavera,6,1166,Móvil,Inglés,80,4391,4.66
+49,Masculino,167,Comedia,Verano,6,5532,Computadora,Español,134,6951,2.45
+36,Masculino,78,Comedia,Verano,2,8173,Smart TV,Español,47,6468,3.32
+38,Masculino,91,Comedia,Primavera,3,787,Móvil,Inglés,53,9007,3.53
+22,Femenino,82,Comedia,Primavera,2,168,Móvil,Inglés,24,7413,1.05
+35,Femenino,158,Acción,Verano,1,6874,Computadora,Inglés,149,7941,3.65
+45,Femenino,117,Drama,Primavera,5,519,Móvil,Inglés,118,5820,1.71
+59,Femenino,87,Acción,Verano,6,6991,Smart TV,Inglés,93,3898,4.84
+39,Femenino,145,Comedia,Verano,3,5693,Móvil,Español,126,8546,1.59
+38,Femenino,109,Drama,Verano,4,6204,Computadora,Español,80,1077,2.66
+23,Masculino,86,Acción,Verano,7,3992,Smart TV,Inglés,44,8577,1.34
+18,Femenino,84,Acción,Verano,8,539,Móvil,Español,92,5227,4.99
+22,Femenino,175,Comedia,Primavera,6,9578,Móvil,Español,135,1600,3.01
+58,Masculino,84,Acción,Primavera,9,1308,Móvil,Inglés,70,2065,3.38
+29,Masculino,148,Acción,Primavera,0,9370,Smart TV,Inglés,125,3136,1.27
+43,Femenino,132,Acción,Primavera,10,2663,Móvil,Inglés,128,7943,4.0
+63,Masculino,108,Acción,Primavera,2,7566,Computadora,Español,33,8804,1.84
+51,Femenino,82,Acción,Primavera,10,1353,Smart TV,Inglés,39,7565,4.59
+31,Masculino,150,Comedia,Primavera,4,3309,Smart TV,Español,124,6984,1.82
+43,Femenino,101,Comedia,Primavera,2,3649,Móvil,Inglés,102,6142,1.76
+62,Masculino,78,Acción,Verano,0,714,Smart TV,Inglés,66,5670,1.15
+44,Masculino,109,Comedia,Primavera,1,3178,Computadora,Inglés,68,3190,2.89
+26,Femenino,89,Comedia,Primavera,7,3590,Smart TV,Inglés,52,3712,3.26
+43,Femenino,159,Drama,Primavera,6,3643,Computadora,Español,141,3192,1.26
+64,Femenino,160,Acción,Verano,12,8202,Móvil,Español,142,2248,4.1
+39,Femenino,154,Comedia,Verano,9,2000,Smart TV,Español,120,5033,2.81
+64,Femenino,151,Comedia,Verano,2,5780,Computadora,Inglés,80,2997,3.1
+47,Masculino,146,Acción,Verano,3,6851,Móvil,Español,151,4687,2.76
+60,Femenino,149,Drama,Primavera,12,5962,Computadora,Español,110,5018,2.6
+34,Femenino,142,Acción,Verano,2,1812,Smart TV,Español,132,2970,3.24
+43,Masculino,132,Drama,Verano,12,2429,Smart TV,Inglés,62,9389,1.62
+53,Masculino,145,Acción,Verano,3,1294,Computadora,Español,83,6765,1.73
+18,Femenino,113,Acción,Verano,7,6881,Móvil,Inglés,112,2202,4.45
+25,Masculino,107,Acción,Primavera,8,8262,Móvil,Inglés,36,9135,4.78
+52,Masculino,152,Acción,Primavera,6,5006,Móvil,Español,107,6567,2.49
+32,Femenino,129,Drama,Primavera,8,1478,Móvil,Español,88,8667,2.08
+64,Masculino,140,Drama,Verano,8,9604,Computadora,Inglés,126,6742,3.58
+39,Masculino,168,Comedia,Verano,6,849,Smart TV,Inglés,88,6788,2.63
+31,Femenino,117,Acción,Verano,6,5392,Computadora,Inglés,55,6408,1.1
+43,Femenino,87,Drama,Primavera,7,400,Smart TV,Español,90,9669,1.62
+45,Masculino,85,Drama,Primavera,11,4795,Smart TV,Inglés,64,1922,3.86
+40,Masculino,124,Drama,Verano,9,4724,Computadora,Inglés,47,1419,3.64
+31,Femenino,108,Acción,Primavera,11,3937,Computadora,Inglés,49,3204,1.11
+41,Masculino,137,Comedia,Primavera,11,377,Móvil,Español,150,2120,1.89
+19,Masculino,128,Drama,Verano,2,4017,Smart TV,Inglés,58,1950,1.92
+62,Masculino,158,Acción,Verano,7,7407,Móvil,Inglés,124,3336,3.69
+43,Femenino,165,Drama,Primavera,0,2261,Móvil,Inglés,104,6373,1.08
+31,Masculino,131,Drama,Primavera,12,1489,Computadora,Inglés,132,3243,1.42
+24,Masculino,173,Comedia,Primavera,5,8982,Móvil,Inglés,156,3645,4.2
+20,Femenino,82,Drama,Primavera,1,4832,Móvil,Español,63,5612,1.71
+64,Masculino,178,Drama,Verano,6,3568,Móvil,Español,54,2865,3.61
+40,Masculino,150,Acción,Primavera,12,6241,Computadora,Inglés,150,7028,1.95
+63,Femenino,170,Acción,Primavera,2,6069,Móvil,Inglés,111,8326,1.4
+60,Femenino,75,Comedia,Primavera,10,3916,Móvil,Inglés,78,7371,1.97
+64,Femenino,152,Acción,Primavera,9,9231,Computadora,Inglés,105,7359,3.89
+62,Femenino,146,Acción,Primavera,4,5137,Computadora,Inglés,124,8863,4.42
+35,Masculino,129,Comedia,Primavera,9,6094,Computadora,Inglés,45,4228,4.32
+55,Masculino,159,Drama,Primavera,1,2551,Smart TV,Español,142,4719,2.59
+52,Femenino,83,Comedia,Verano,0,124,Computadora,Inglés,47,3371,3.67
+32,Femenino,164,Acción,Verano,4,6062,Smart TV,Inglés,95,3891,1.82
+42,Masculino,123,Comedia,Primavera,8,2656,Computadora,Español,48,4756,2.17
+54,Femenino,73,Drama,Verano,8,7732,Computadora,Español,30,5225,4.59
+45,Masculino,108,Comedia,Primavera,6,160,Computadora,Español,48,1094,1.05
+27,Femenino,141,Acción,Primavera,8,7775,Smart TV,Español,79,3674,1.34
+56,Masculino,94,Acción,Primavera,3,222,Móvil,Inglés,95,7898,1.83
+34,Femenino,146,Comedia,Primavera,2,5716,Computadora,Español,86,1793,1.11
+56,Femenino,101,Drama,Primavera,10,1286,Smart TV,Español,88,3116,1.73
+39,Masculino,128,Comedia,Primavera,3,5258,Computadora,Español,46,6779,3.33
+43,Femenino,171,Drama,Primavera,6,7964,Móvil,Inglés,132,7166,2.69
+61,Masculino,132,Drama,Primavera,7,4189,Smart TV,Inglés,90,1814,4.57
+42,Masculino,107,Comedia,Primavera,1,2572,Computadora,Inglés,115,1345,4.27
+34,Masculino,161,Drama,Verano,4,7550,Computadora,Español,157,9554,2.37
+30,Masculino,122,Acción,Primavera,4,3064,Computadora,Inglés,80,3443,2.04
+37,Masculino,163,Comedia,Primavera,12,8204,Móvil,Español,149,8783,2.52
+42,Femenino,136,Drama,Primavera,8,1410,Smart TV,Español,61,1984,3.36
+21,Femenino,97,Acción,Primavera,12,8446,Computadora,Español,72,8790,2.07
+27,Masculino,72,Comedia,Primavera,12,2312,Computadora,Español,25,1827,3.5
+20,Femenino,178,Acción,Verano,12,9554,Smart TV,Inglés,102,4531,2.64
+58,Masculino,167,Acción,Verano,2,6892,Móvil,Inglés,80,8147,3.21
+62,Femenino,149,Acción,Verano,11,9654,Móvil,Inglés,130,5451,2.74
+35,Femenino,91,Drama,Verano,5,9229,Móvil,Inglés,62,4876,2.18
+64,Femenino,165,Comedia,Primavera,9,8803,Móvil,Español,148,6959,4.79
+53,Femenino,107,Comedia,Primavera,11,8478,Móvil,Español,76,1126,4.05
+64,Masculino,141,Drama,Verano,4,1945,Computadora,Español,52,4177,1.56
+39,Masculino,141,Comedia,Primavera,1,7760,Computadora,Español,125,9795,4.47
+51,Femenino,131,Acción,Primavera,1,1802,Computadora,Español,126,7024,2.95
+64,Femenino,126,Comedia,Primavera,3,490,Smart TV,Inglés,128,6109,4.58
+25,Masculino,75,Drama,Primavera,11,754,Móvil,Inglés,56,5146,4.2
+57,Femenino,147,Acción,Verano,3,5935,Smart TV,Español,132,8196,2.7
+61,Masculino,101,Drama,Verano,6,4371,Móvil,Español,91,4368,1.09
+36,Masculino,168,Acción,Primavera,11,9055,Móvil,Inglés,71,4797,2.07
+59,Masculino,79,Acción,Primavera,0,3500,Smart TV,Inglés,34,2792,3.17
+58,Femenino,72,Comedia,Verano,10,5419,Computadora,Español,25,6732,3.53
+54,Masculino,128,Acción,Verano,5,6832,Smart TV,Inglés,71,4476,2.03
+23,Femenino,145,Drama,Verano,10,6774,Computadora,Inglés,98,4417,1.56
+43,Masculino,118,Comedia,Primavera,12,1185,Móvil,Español,129,2645,4.34
+51,Femenino,128,Drama,Primavera,8,5546,Computadora,Español,82,4030,4.94
+62,Femenino,100,Acción,Verano,1,4476,Móvil,Inglés,88,3872,3.1
+23,Femenino,162,Drama,Primavera,11,2063,Móvil,Inglés,138,4072,1.69
+54,Masculino,138,Drama,Primavera,4,5277,Computadora,Español,63,2854,2.09
+50,Masculino,131,Acción,Primavera,9,4672,Móvil,Inglés,45,5021,1.07
+39,Femenino,121,Comedia,Verano,10,7643,Computadora,Inglés,89,5662,4.66
+38,Femenino,158,Drama,Primavera,9,9007,Smart TV,Inglés,135,7514,1.47
+23,Femenino,110,Acción,Primavera,3,342,Móvil,Español,120,6031,3.31
+23,Masculino,100,Comedia,Primavera,3,6610,Móvil,Inglés,58,3708,2.1
+21,Masculino,154,Comedia,Primavera,7,4015,Smart TV,Inglés,156,8112,3.22
+47,Masculino,153,Comedia,Primavera,5,9815,Móvil,Español,92,9393,3.61
+28,Masculino,172,Drama,Primavera,6,937,Smart TV,Español,146,4507,4.32
+47,Femenino,91,Drama,Primavera,10,3423,Smart TV,Inglés,70,7456,1.83
+48,Femenino,73,Drama,Primavera,11,3053,Móvil,Español,24,5212,1.04
+41,Masculino,82,Comedia,Primavera,8,9637,Smart TV,Español,29,8970,1.55
+26,Masculino,114,Drama,Primavera,12,1532,Smart TV,Inglés,36,9766,4.6
+20,Femenino,111,Acción,Primavera,2,6954,Smart TV,Español,66,1536,4.5
+48,Masculino,118,Drama,Verano,10,7755,Móvil,Inglés,105,2625,3.39
+57,Masculino,89,Drama,Primavera,1,8531,Smart TV,Inglés,39,8973,3.4
+54,Masculino,146,Comedia,Primavera,2,8430,Computadora,Español,114,9577,3.66
+53,Masculino,150,Drama,Primavera,7,8711,Computadora,Inglés,79,9070,1.7
+41,Masculino,123,Acción,Verano,12,403,Smart TV,Inglés,115,9666,4.66
+48,Masculino,105,Comedia,Verano,8,2262,Computadora,Inglés,98,9609,2.68
+23,Femenino,166,Acción,Verano,9,6586,Móvil,Inglés,152,7490,2.53
+19,Masculino,70,Comedia,Primavera,4,4202,Smart TV,Inglés,50,4600,3.08
+37,Masculino,84,Comedia,Primavera,7,6974,Móvil,Español,44,7783,1.19
+45,Femenino,146,Drama,Verano,10,1268,Computadora,Español,138,5971,1.67
+28,Femenino,86,Acción,Primavera,6,515,Computadora,Inglés,38,2205,3.95
+21,Femenino,93,Comedia,Primavera,11,5343,Computadora,Inglés,49,2990,1.33
+32,Masculino,127,Drama,Primavera,11,249,Computadora,Español,56,6299,3.41
+23,Femenino,141,Comedia,Verano,12,6624,Móvil,Inglés,118,4572,1.98
+47,Masculino,160,Comedia,Primavera,8,5999,Smart TV,Inglés,135,6975,2.56
+55,Masculino,178,Comedia,Verano,3,938,Móvil,Inglés,146,7320,2.15
+19,Masculino,92,Comedia,Verano,12,6244,Smart TV,Español,58,5380,2.42
+32,Femenino,115,Comedia,Primavera,9,9988,Computadora,Inglés,43,5757,3.88
+28,Femenino,141,Comedia,Primavera,2,9713,Computadora,Español,145,3713,2.19
+25,Femenino,77,Drama,Primavera,8,7566,Computadora,Inglés,54,6588,3.27
+43,Femenino,128,Comedia,Primavera,7,1420,Computadora,Inglés,80,1966,2.9
+62,Femenino,159,Acción,Primavera,6,1623,Móvil,Español,122,5944,3.65
+61,Masculino,128,Drama,Primavera,0,5334,Smart TV,Español,58,4432,4.75
+22,Masculino,82,Acción,Verano,1,6244,Smart TV,Inglés,33,1688,3.93
+23,Masculino,108,Comedia,Primavera,8,652,Computadora,Inglés,67,5243,1.86
+43,Masculino,170,Acción,Verano,4,3856,Móvil,Inglés,81,4701,1.12
+21,Femenino,97,Comedia,Primavera,0,3771,Computadora,Español,48,9533,2.05
+36,Femenino,158,Comedia,Primavera,8,581,Smart TV,Inglés,160,6182,3.38
+37,Masculino,130,Drama,Primavera,0,699,Smart TV,Español,94,7704,1.21
+50,Femenino,85,Drama,Primavera,7,7777,Móvil,Inglés,58,5422,2.99
+37,Femenino,71,Comedia,Verano,4,9456,Smart TV,Inglés,60,2759,3.39
+29,Masculino,151,Drama,Primavera,10,9295,Móvil,Inglés,160,3482,2.34
+64,Masculino,86,Acción,Verano,11,2082,Computadora,Inglés,33,9058,4.08
+18,Femenino,99,Drama,Primavera,5,1734,Computadora,Inglés,95,1951,1.43
+43,Femenino,172,Drama,Primavera,0,7930,Móvil,Inglés,131,9914,1.3
+31,Masculino,82,Acción,Primavera,1,3097,Computadora,Inglés,34,3079,3.91
+55,Masculino,165,Drama,Primavera,6,786,Móvil,Español,88,3717,2.98
+54,Masculino,162,Comedia,Primavera,1,5629,Computadora,Inglés,111,5524,3.75
+28,Femenino,179,Acción,Primavera,4,1859,Computadora,Inglés,152,9477,2.74
+53,Masculino,163,Comedia,Primavera,10,7123,Smart TV,Inglés,80,8311,1.99
+30,Masculino,151,Acción,Verano,8,6308,Smart TV,Inglés,109,8186,4.28
+60,Femenino,82,Comedia,Verano,4,7334,Móvil,Español,69,3065,4.2
+20,Femenino,112,Comedia,Primavera,11,2580,Computadora,Español,73,1768,3.78
+50,Femenino,154,Drama,Primavera,2,9629,Computadora,Inglés,152,6490,2.09
+23,Femenino,163,Comedia,Primavera,10,7576,Computadora,Inglés,162,7645,3.36
+27,Femenino,90,Drama,Primavera,12,7870,Smart TV,Español,60,6083,2.44
+22,Masculino,124,Acción,Primavera,5,214,Móvil,Español,133,6232,1.37
+40,Masculino,150,Comedia,Primavera,6,668,Móvil,Español,54,6797,4.67
+27,Femenino,109,Comedia,Primavera,9,9845,Móvil,Inglés,32,5926,1.55
+61,Femenino,152,Acción,Primavera,10,8051,Computadora,Español,91,7016,4.8
+19,Femenino,84,Acción,Verano,9,2789,Móvil,Español,65,4335,2.78
+30,Femenino,142,Comedia,Primavera,10,4690,Smart TV,Inglés,114,9038,1.74
+57,Femenino,121,Acción,Primavera,7,3440,Smart TV,Inglés,82,5873,3.17
+19,Masculino,143,Drama,Primavera,2,3088,Móvil,Inglés,57,2481,4.49
+37,Masculino,177,Acción,Verano,10,3251,Computadora,Español,77,7305,3.93
+18,Masculino,164,Acción,Verano,3,3115,Smart TV,Español,161,4451,4.23
+54,Masculino,122,Comedia,Verano,9,9113,Smart TV,Español,121,1054,3.64
+26,Femenino,156,Drama,Primavera,3,6445,Computadora,Español,130,8643,3.77
+34,Masculino,121,Acción,Verano,1,3674,Computadora,Inglés,100,4462,4.4
+26,Femenino,99,Drama,Primavera,6,7938,Móvil,Español,77,1832,2.0
+28,Femenino,102,Drama,Verano,11,1708,Smart TV,Inglés,47,6954,2.96
+32,Femenino,126,Drama,Primavera,3,659,Smart TV,Español,80,9519,1.88
+41,Masculino,121,Comedia,Primavera,3,6721,Móvil,Español,103,8221,4.95
+55,Femenino,78,Acción,Primavera,12,7226,Móvil,Español,56,4310,4.78
+52,Masculino,123,Comedia,Verano,11,5665,Smart TV,Inglés,38,4300,1.16
+47,Masculino,70,Acción,Verano,7,4535,Smart TV,Español,74,7722,3.82
+48,Femenino,113,Acción,Primavera,5,5750,Computadora,Inglés,110,8218,4.7
+22,Femenino,168,Comedia,Primavera,5,8903,Computadora,Inglés,85,8776,1.72
+61,Femenino,144,Drama,Primavera,10,1981,Smart TV,Inglés,114,4675,3.27
+31,Masculino,167,Drama,Verano,8,4269,Smart TV,Inglés,173,4054,4.66
+28,Femenino,149,Acción,Verano,3,3963,Computadora,Español,56,8970,1.14
+26,Masculino,78,Comedia,Verano,8,7536,Móvil,Español,54,3143,3.79
+51,Femenino,101,Drama,Verano,0,3808,Móvil,Inglés,67,6207,2.19
+29,Femenino,84,Drama,Verano,10,1809,Smart TV,Inglés,52,3538,4.7
+52,Masculino,81,Acción,Primavera,8,7960,Smart TV,Español,78,5547,4.88
+52,Masculino,166,Acción,Primavera,0,1792,Computadora,Español,100,6619,4.78
+18,Masculino,178,Comedia,Primavera,6,9537,Smart TV,Inglés,62,9356,2.9
+57,Masculino,147,Acción,Primavera,5,225,Móvil,Español,51,7612,4.45
+39,Masculino,126,Drama,Primavera,6,1299,Computadora,Español,42,6005,4.38
+46,Masculino,77,Drama,Primavera,8,6192,Computadora,Español,48,1822,2.28
+25,Femenino,141,Drama,Primavera,9,2811,Móvil,Inglés,123,1943,4.32
+28,Femenino,96,Drama,Primavera,3,9282,Móvil,Inglés,44,7150,1.15
+58,Masculino,131,Comedia,Verano,11,9813,Computadora,Inglés,107,5425,3.39
+54,Femenino,81,Comedia,Verano,8,6328,Smart TV,Inglés,68,9966,1.92
+31,Masculino,134,Acción,Verano,2,6095,Móvil,Inglés,67,3198,1.48
+47,Femenino,176,Acción,Primavera,9,8282,Computadora,Español,137,5242,1.31
+52,Femenino,173,Acción,Primavera,10,5602,Smart TV,Español,146,4695,3.79
+38,Masculino,111,Comedia,Primavera,10,5860,Smart TV,Español,74,4452,2.36
+54,Masculino,131,Drama,Primavera,8,5682,Computadora,Inglés,74,2308,3.9
+22,Masculino,80,Acción,Primavera,12,2598,Móvil,Español,63,5177,1.26
+36,Femenino,172,Drama,Primavera,0,2665,Smart TV,Inglés,186,9705,2.26
+31,Masculino,112,Acción,Primavera,4,7089,Móvil,Inglés,71,7852,3.16
+43,Femenino,164,Acción,Primavera,9,4890,Computadora,Inglés,100,7035,4.16
+21,Masculino,86,Acción,Verano,4,5124,Móvil,Inglés,57,4594,2.28
+42,Femenino,166,Acción,Primavera,0,8407,Smart TV,Inglés,59,5841,3.5
+62,Femenino,101,Acción,Primavera,0,1131,Computadora,Inglés,74,2409,4.54
+59,Masculino,162,Drama,Verano,2,1341,Smart TV,Español,91,5566,3.46
+42,Femenino,154,Acción,Primavera,8,1842,Smart TV,Inglés,61,5491,1.93
+35,Femenino,154,Drama,Verano,6,5809,Computadora,Español,103,2555,1.1
+57,Masculino,109,Comedia,Primavera,5,6099,Computadora,Inglés,32,1804,4.48
+25,Femenino,92,Acción,Primavera,8,4190,Móvil,Español,57,2279,1.09
+56,Masculino,125,Drama,Primavera,3,8260,Computadora,Inglés,48,8083,4.5
+57,Masculino,75,Comedia,Primavera,3,6983,Móvil,Inglés,23,6986,3.12
+31,Masculino,155,Comedia,Primavera,2,5229,Computadora,Español,148,6619,4.76
+49,Masculino,119,Comedia,Primavera,4,4503,Smart TV,Inglés,122,2387,4.2
+55,Femenino,171,Drama,Primavera,4,6677,Móvil,Inglés,79,3679,4.99
+50,Femenino,106,Acción,Primavera,11,4997,Computadora,Español,77,3106,2.4
+40,Femenino,178,Acción,Primavera,9,263,Móvil,Español,92,9173,4.07
+32,Masculino,133,Drama,Verano,6,3410,Móvil,Inglés,92,5223,2.61
+50,Femenino,123,Acción,Primavera,6,3488,Móvil,Español,79,5831,2.92
+42,Femenino,141,Drama,Primavera,5,1095,Smart TV,Español,72,3768,3.51
+34,Masculino,174,Acción,Primavera,3,6261,Computadora,Inglés,149,4186,4.49
+50,Masculino,118,Comedia,Primavera,6,1977,Computadora,Español,47,3573,4.94
+64,Femenino,168,Acción,Verano,1,8203,Móvil,Inglés,57,3599,4.07
+19,Masculino,80,Drama,Primavera,12,3364,Computadora,Español,73,5033,2.67
+31,Masculino,157,Drama,Primavera,11,1448,Smart TV,Inglés,130,9428,2.69
+57,Masculino,118,Comedia,Primavera,8,2351,Móvil,Inglés,82,2304,3.95
+57,Masculino,90,Drama,Primavera,6,7390,Smart TV,Inglés,60,8368,1.96
+56,Femenino,135,Acción,Primavera,1,9885,Smart TV,Español,94,6877,1.44
+23,Masculino,132,Acción,Primavera,9,8118,Computadora,Inglés,85,2301,2.42
+23,Masculino,173,Comedia,Primavera,1,6690,Computadora,Español,106,3541,2.15
+20,Masculino,152,Drama,Verano,12,7758,Móvil,Inglés,106,3051,2.19
+24,Masculino,172,Comedia,Verano,5,532,Smart TV,Inglés,124,7809,1.93
+25,Masculino,97,Acción,Verano,10,5843,Computadora,Inglés,82,9633,1.17
+59,Masculino,86,Comedia,Primavera,6,5347,Móvil,Español,74,9996,1.07
+32,Masculino,75,Drama,Primavera,8,7815,Móvil,Inglés,45,1074,4.95
+64,Masculino,88,Comedia,Primavera,3,3917,Computadora,Inglés,55,7981,2.71
+46,Femenino,125,Drama,Primavera,7,1170,Smart TV,Español,74,6475,2.54
+50,Masculino,171,Drama,Verano,9,4700,Móvil,Inglés,124,9232,3.72
+47,Femenino,97,Acción,Primavera,12,8406,Computadora,Inglés,64,8184,1.87
+56,Masculino,135,Acción,Primavera,1,9731,Móvil,Español,136,6796,4.8
+44,Masculino,107,Acción,Primavera,5,1094,Computadora,Español,91,8141,4.15
+53,Masculino,106,Drama,Primavera,3,4418,Móvil,Español,108,2622,1.36
+46,Masculino,137,Comedia,Primavera,7,4831,Smart TV,Inglés,118,9041,2.67
+55,Femenino,155,Drama,Primavera,8,6168,Móvil,Español,166,1341,4.52
+50,Masculino,159,Acción,Primavera,1,7770,Computadora,Inglés,128,3074,4.78
+54,Masculino,118,Acción,Primavera,6,4867,Computadora,Inglés,126,8992,2.87
+44,Femenino,112,Comedia,Primavera,6,1057,Computadora,Español,47,1645,3.45
+50,Femenino,105,Acción,Primavera,7,8387,Smart TV,Español,35,5263,1.67
+21,Masculino,127,Acción,Primavera,12,2254,Computadora,Inglés,96,9801,4.96
+39,Femenino,82,Acción,Primavera,4,731,Computadora,Español,89,7136,1.93
+19,Femenino,121,Comedia,Primavera,10,9993,Smart TV,Español,76,9646,4.77
+27,Femenino,127,Drama,Primavera,12,6145,Computadora,Inglés,59,3969,3.6
+22,Masculino,101,Acción,Verano,2,797,Computadora,Español,72,4028,3.43
+27,Masculino,150,Comedia,Primavera,0,131,Smart TV,Español,122,8643,3.05
+50,Masculino,174,Acción,Primavera,3,6309,Móvil,Español,96,3681,1.92
+55,Femenino,169,Comedia,Verano,2,4974,Computadora,Inglés,147,4629,1.71
+30,Masculino,129,Acción,Verano,1,5662,Móvil,Español,139,5225,1.88
+48,Femenino,179,Comedia,Primavera,5,8840,Smart TV,Español,182,4067,1.75
+64,Masculino,152,Acción,Primavera,6,2348,Computadora,Inglés,81,6941,4.12
+53,Masculino,127,Drama,Primavera,9,6292,Computadora,Inglés,71,2386,2.4
+62,Femenino,168,Acción,Verano,6,9995,Smart TV,Inglés,100,3866,1.23
+41,Masculino,179,Comedia,Primavera,11,6506,Computadora,Inglés,110,5788,4.88
+32,Femenino,173,Acción,Primavera,7,1256,Móvil,Español,65,6490,4.54
+46,Femenino,125,Drama,Primavera,12,8635,Móvil,Inglés,113,5124,4.71
+25,Masculino,97,Acción,Primavera,1,5395,Smart TV,Inglés,57,9340,4.98
+22,Femenino,70,Comedia,Primavera,10,6254,Computadora,Español,70,4850,1.7
+46,Masculino,111,Comedia,Primavera,11,2348,Computadora,Inglés,115,6415,2.58
+64,Masculino,151,Drama,Verano,9,9236,Smart TV,Inglés,48,8679,4.03
+21,Femenino,117,Comedia,Primavera,12,3385,Móvil,Español,127,7819,3.78
+29,Masculino,109,Acción,Primavera,5,9622,Móvil,Inglés,94,9378,1.62
+62,Femenino,166,Acción,Verano,12,2103,Smart TV,Inglés,118,2333,4.26
+19,Masculino,132,Acción,Verano,5,3715,Computadora,Español,80,5150,1.9
+44,Masculino,145,Comedia,Verano,9,3772,Móvil,Español,103,7766,1.9
+48,Masculino,141,Acción,Primavera,11,7558,Computadora,Español,78,3711,3.15
+53,Masculino,157,Acción,Primavera,0,2255,Móvil,Español,125,5853,3.37
+53,Masculino,149,Acción,Primavera,1,3579,Computadora,Español,55,7212,3.32
+43,Femenino,73,Drama,Primavera,12,151,Móvil,Español,58,8479,1.37
+60,Femenino,107,Comedia,Primavera,8,2259,Computadora,Español,55,6408,4.51
+44,Femenino,177,Comedia,Primavera,7,4490,Smart TV,Español,55,8715,2.06
+22,Femenino,96,Comedia,Primavera,11,3751,Móvil,Español,71,9942,1.52
+37,Femenino,78,Drama,Primavera,12,7456,Smart TV,Español,59,2762,4.55
+28,Femenino,85,Comedia,Primavera,3,2212,Móvil,Español,54,8101,4.82
+27,Masculino,125,Drama,Verano,5,5865,Móvil,Español,44,8674,4.45
+57,Masculino,145,Drama,Primavera,1,1454,Móvil,Inglés,147,7122,4.24
+55,Femenino,100,Comedia,Primavera,11,5720,Computadora,Español,78,1481,3.62
+23,Femenino,157,Acción,Primavera,4,3854,Móvil,Español,61,1153,3.2
+25,Masculino,83,Acción,Verano,1,309,Smart TV,Español,58,8617,1.35
+40,Masculino,178,Comedia,Verano,12,6332,Computadora,Español,124,2524,2.63
+64,Masculino,94,Comedia,Verano,4,7946,Computadora,Español,32,3120,2.49
+43,Femenino,103,Drama,Verano,6,6271,Móvil,Inglés,80,3343,2.04
+63,Femenino,136,Comedia,Verano,6,337,Computadora,Inglés,128,6136,3.89
+60,Femenino,93,Drama,Verano,8,8627,Móvil,Inglés,83,6760,2.98
+29,Masculino,175,Comedia,Primavera,2,8175,Smart TV,Inglés,80,2240,1.32
+43,Masculino,142,Acción,Primavera,11,1676,Computadora,Español,140,1060,1.88
+30,Femenino,95,Acción,Primavera,3,8791,Computadora,Inglés,54,2639,3.73
+57,Femenino,89,Comedia,Primavera,8,9856,Smart TV,Inglés,94,7185,1.3
+35,Masculino,133,Drama,Verano,7,9082,Smart TV,Español,47,8970,4.4
+42,Masculino,173,Acción,Primavera,11,3640,Móvil,Inglés,119,2252,2.98
+50,Masculino,79,Drama,Primavera,6,9427,Computadora,Inglés,61,5203,2.92
+64,Masculino,152,Comedia,Verano,7,7357,Smart TV,Español,75,9363,3.37
+57,Femenino,136,Comedia,Primavera,8,249,Computadora,Español,124,4549,4.3
+60,Masculino,93,Acción,Primavera,11,1724,Smart TV,Inglés,74,5197,2.39
+29,Masculino,74,Comedia,Primavera,3,7761,Computadora,Español,23,8009,3.71
+61,Masculino,136,Acción,Verano,4,2674,Smart TV,Inglés,106,7667,3.26
+53,Femenino,127,Drama,Primavera,8,4528,Computadora,Español,88,3322,2.07
+21,Femenino,96,Acción,Verano,6,7629,Móvil,Inglés,43,5090,4.51
+22,Masculino,149,Acción,Verano,3,4369,Computadora,Inglés,163,7960,4.19
+54,Masculino,84,Drama,Primavera,5,7869,Móvil,Inglés,85,4004,3.63
+25,Masculino,104,Acción,Primavera,10,2208,Móvil,Español,55,6136,4.4
+59,Femenino,145,Acción,Primavera,0,4047,Móvil,Español,106,1329,4.47
+45,Femenino,174,Comedia,Primavera,0,7999,Computadora,Inglés,96,4640,3.83
+48,Femenino,122,Drama,Verano,8,5014,Computadora,Español,112,8982,4.35
+26,Masculino,113,Acción,Primavera,7,6767,Móvil,Español,118,5107,3.79
+46,Femenino,95,Drama,Verano,12,2363,Smart TV,Inglés,55,2341,3.72
+31,Masculino,116,Drama,Primavera,0,9904,Computadora,Español,109,9407,3.47
+57,Masculino,103,Acción,Primavera,12,3915,Computadora,Español,71,1338,4.01
+58,Masculino,156,Comedia,Primavera,10,677,Computadora,Inglés,96,6895,1.63
+39,Femenino,164,Drama,Primavera,1,522,Computadora,Inglés,172,3708,4.52
+28,Masculino,119,Acción,Primavera,12,2863,Móvil,Español,84,2750,4.49
+40,Femenino,153,Drama,Primavera,3,1329,Smart TV,Español,103,6604,1.12
+18,Femenino,81,Comedia,Verano,0,3276,Smart TV,Español,67,3421,4.3
+63,Masculino,156,Comedia,Primavera,1,9045,Smart TV,Inglés,79,8119,1.52
+54,Masculino,73,Comedia,Primavera,4,787,Smart TV,Español,40,9901,2.34
+38,Femenino,156,Acción,Primavera,7,822,Móvil,Español,163,6319,3.97
+43,Masculino,117,Acción,Primavera,5,846,Computadora,Español,98,7609,1.64
+63,Femenino,124,Comedia,Primavera,5,4437,Computadora,Español,119,6387,4.27
+53,Masculino,70,Acción,Verano,3,2812,Móvil,Español,36,4993,4.33
+40,Femenino,158,Comedia,Verano,1,807,Computadora,Español,116,9680,3.03
+18,Femenino,135,Acción,Primavera,2,8726,Móvil,Inglés,145,9044,1.03
+57,Femenino,99,Comedia,Primavera,12,583,Smart TV,Inglés,54,9238,2.15
+32,Femenino,72,Drama,Verano,5,1633,Móvil,Inglés,30,5873,3.47
+38,Masculino,90,Comedia,Verano,5,269,Computadora,Español,63,5806,4.92
+64,Masculino,158,Comedia,Primavera,4,1120,Computadora,Español,96,9592,3.53
+26,Femenino,153,Acción,Verano,5,7193,Computadora,Inglés,65,6913,2.04
+26,Femenino,118,Acción,Primavera,10,6566,Smart TV,Inglés,119,8124,3.54
+27,Masculino,155,Acción,Verano,5,947,Móvil,Inglés,169,4157,3.16
+43,Masculino,154,Acción,Primavera,12,8987,Móvil,Inglés,116,1390,4.12
+58,Masculino,131,Acción,Verano,0,3446,Computadora,Inglés,120,5430,1.43
+52,Masculino,166,Acción,Primavera,5,4113,Móvil,Español,163,9820,4.04
+42,Masculino,107,Drama,Verano,4,8178,Computadora,Español,92,8686,3.17
+43,Masculino,84,Comedia,Verano,7,131,Móvil,Español,28,5232,4.85
+28,Femenino,179,Comedia,Primavera,8,8468,Smart TV,Español,76,9007,2.37
+55,Masculino,121,Comedia,Primavera,5,7977,Smart TV,Español,43,2521,3.53
+19,Masculino,148,Drama,Primavera,12,6270,Móvil,Inglés,45,2500,4.73
+24,Femenino,115,Comedia,Primavera,11,7930,Smart TV,Inglés,62,7737,1.41
+35,Masculino,94,Drama,Primavera,11,9794,Smart TV,Español,57,4294,4.75
+44,Masculino,90,Drama,Primavera,9,2415,Smart TV,Inglés,44,6085,3.75
+51,Masculino,157,Drama,Verano,3,165,Computadora,Español,55,3419,1.27
+44,Masculino,74,Comedia,Verano,2,2028,Móvil,Español,53,4042,2.2
+34,Masculino,139,Drama,Verano,9,5111,Móvil,Inglés,72,5497,3.83
+60,Femenino,176,Comedia,Primavera,11,7633,Computadora,Español,164,2466,1.27
+61,Masculino,177,Comedia,Verano,0,6325,Computadora,Español,54,4561,3.33
+41,Femenino,116,Acción,Verano,6,5547,Smart TV,Español,112,1614,2.38
+42,Femenino,156,Acción,Primavera,4,684,Móvil,Inglés,165,6392,3.48
+24,Masculino,137,Drama,Verano,3,6570,Computadora,Inglés,119,8693,1.18
+23,Femenino,160,Drama,Primavera,8,6785,Smart TV,Español,141,4223,4.49
+41,Masculino,87,Comedia,Primavera,6,5344,Móvil,Español,91,8138,4.89
+50,Femenino,90,Drama,Primavera,9,8254,Smart TV,Inglés,42,3667,4.88
+46,Femenino,161,Drama,Primavera,12,8051,Móvil,Inglés,176,8980,4.0
+60,Masculino,168,Comedia,Primavera,7,1848,Smart TV,Inglés,154,1130,1.52
+39,Masculino,155,Drama,Primavera,3,7770,Móvil,Inglés,136,3983,4.03
+43,Masculino,173,Drama,Primavera,9,2304,Móvil,Español,101,5278,1.1
+45,Masculino,92,Comedia,Verano,11,1992,Móvil,Español,67,8126,1.09
+38,Masculino,133,Comedia,Verano,9,7118,Móvil,Español,109,9230,2.29
+24,Femenino,136,Acción,Verano,7,3193,Smart TV,Inglés,108,8694,2.95
+34,Femenino,109,Comedia,Primavera,3,1073,Computadora,Inglés,94,7640,4.08
+37,Femenino,79,Acción,Primavera,0,4124,Móvil,Español,28,6468,3.73
+58,Femenino,158,Drama,Verano,10,9734,Móvil,Inglés,92,1920,2.78
+37,Femenino,121,Comedia,Primavera,7,6715,Móvil,Español,78,8564,2.09
+39,Femenino,141,Comedia,Primavera,0,4429,Móvil,Inglés,71,9684,4.99
+45,Femenino,144,Comedia,Primavera,12,6815,Smart TV,Español,63,9502,2.7
+57,Masculino,130,Drama,Verano,11,1577,Computadora,Español,53,9930,2.81
+24,Masculino,133,Acción,Primavera,2,5789,Computadora,Español,78,4241,1.65
+18,Femenino,74,Drama,Primavera,6,9062,Computadora,Español,51,1545,4.18
+49,Femenino,178,Drama,Primavera,2,7429,Smart TV,Inglés,62,5346,3.77
+30,Masculino,122,Comedia,Primavera,12,6544,Computadora,Español,128,4810,1.88
+47,Masculino,124,Acción,Verano,7,8597,Smart TV,Español,113,8206,1.33
+40,Masculino,106,Drama,Verano,4,101,Smart TV,Español,93,3032,3.72
+36,Masculino,125,Comedia,Primavera,2,8562,Móvil,Español,54,9436,3.62
+49,Femenino,128,Drama,Verano,4,6943,Smart TV,Inglés,100,1271,2.09
+47,Masculino,178,Drama,Verano,4,9155,Computadora,Español,128,4511,4.8
+46,Femenino,171,Comedia,Primavera,7,6072,Computadora,Español,185,2771,1.6
+62,Femenino,162,Comedia,Primavera,11,8003,Computadora,Inglés,145,5361,2.73
+46,Femenino,138,Acción,Primavera,8,5205,Móvil,Español,104,8069,4.77
+47,Masculino,142,Drama,Verano,5,7802,Móvil,Español,139,1920,2.68
+33,Masculino,128,Comedia,Primavera,9,3014,Móvil,Español,54,9190,3.55
+57,Femenino,71,Comedia,Primavera,2,5256,Smart TV,Español,22,4430,2.59
+36,Femenino,134,Acción,Primavera,1,8398,Computadora,Inglés,114,5435,2.1
+35,Femenino,173,Acción,Verano,10,3268,Smart TV,Inglés,65,4760,4.94
+18,Masculino,129,Comedia,Verano,2,2699,Smart TV,Inglés,50,3050,2.64
+31,Femenino,120,Acción,Verano,8,5816,Computadora,Inglés,107,2165,4.58
+64,Masculino,99,Comedia,Primavera,6,2335,Móvil,Inglés,51,9567,1.92
+19,Femenino,80,Drama,Primavera,10,2899,Computadora,Inglés,64,3033,1.85
+45,Femenino,161,Acción,Primavera,10,7113,Smart TV,Español,166,7467,1.12
+47,Femenino,177,Drama,Verano,8,9803,Smart TV,Español,97,1145,3.61
+55,Masculino,145,Drama,Primavera,12,5573,Móvil,Español,68,5388,2.47
+21,Masculino,108,Drama,Primavera,5,118,Smart TV,Español,41,8832,4.46
+18,Femenino,159,Comedia,Primavera,7,958,Smart TV,Inglés,64,9623,2.89
+25,Masculino,146,Drama,Verano,9,9708,Computadora,Español,51,9896,4.87
+46,Femenino,141,Drama,Verano,10,5480,Móvil,Español,52,9173,1.74
+56,Masculino,132,Drama,Primavera,8,3132,Computadora,Inglés,85,3632,4.47
+20,Masculino,133,Comedia,Verano,2,4605,Computadora,Español,74,5494,4.11
+49,Masculino,130,Drama,Primavera,6,9718,Computadora,Español,112,9056,4.08
+27,Femenino,123,Drama,Primavera,8,5889,Smart TV,Inglés,122,8511,4.38
+27,Masculino,161,Acción,Primavera,1,2631,Smart TV,Español,149,2828,4.04
+36,Masculino,163,Comedia,Primavera,11,7571,Móvil,Español,118,5805,3.5
+63,Femenino,142,Drama,Primavera,6,4819,Smart TV,Inglés,54,1806,1.52
+51,Femenino,172,Acción,Primavera,4,4963,Móvil,Español,149,8486,1.13
+50,Femenino,164,Comedia,Primavera,7,4138,Computadora,Español,96,9202,4.68
+40,Femenino,127,Comedia,Primavera,3,2552,Computadora,Español,46,2868,3.47
+45,Masculino,154,Comedia,Primavera,0,2946,Smart TV,Español,149,8878,4.19
+49,Masculino,125,Comedia,Primavera,10,8164,Smart TV,Español,71,6690,2.93
+24,Masculino,103,Comedia,Primavera,12,6722,Móvil,Inglés,48,8827,1.47
+46,Masculino,100,Comedia,Primavera,9,8996,Smart TV,Español,99,6429,1.5
+25,Masculino,121,Drama,Primavera,7,9633,Smart TV,Español,123,4564,3.74
+18,Femenino,158,Drama,Verano,5,3562,Smart TV,Español,90,2389,2.72
+20,Masculino,145,Drama,Primavera,12,1259,Computadora,Inglés,84,8274,1.8
+41,Masculino,70,Drama,Primavera,7,4726,Smart TV,Inglés,53,1824,2.97
+40,Masculino,124,Acción,Primavera,2,7156,Smart TV,Inglés,109,3265,1.26
+25,Femenino,91,Drama,Primavera,7,3822,Computadora,Español,31,1936,3.33
+64,Femenino,109,Comedia,Primavera,7,3660,Computadora,Español,84,7402,2.08
+54,Masculino,170,Drama,Verano,11,6217,Computadora,Español,180,4845,4.19
+20,Femenino,70,Drama,Primavera,0,6689,Computadora,Español,35,2796,2.24
+50,Femenino,134,Comedia,Verano,3,6949,Smart TV,Español,137,9245,2.82
+45,Femenino,132,Drama,Verano,6,2343,Smart TV,Inglés,139,8214,1.05
+64,Femenino,175,Drama,Verano,12,8277,Smart TV,Español,90,1726,1.29
+25,Femenino,123,Drama,Primavera,10,1860,Móvil,Español,111,3736,2.57
+51,Femenino,111,Acción,Verano,0,5542,Computadora,Inglés,54,2913,2.92
+52,Femenino,90,Drama,Verano,2,7779,Smart TV,Inglés,80,8657,3.4
+49,Masculino,148,Comedia,Primavera,2,2775,Smart TV,Inglés,138,3466,2.17
+41,Masculino,150,Comedia,Primavera,5,7224,Smart TV,Inglés,74,8312,3.78
+31,Femenino,91,Drama,Primavera,4,5881,Computadora,Inglés,79,9194,4.44
+49,Masculino,107,Drama,Primavera,11,3336,Computadora,Español,101,8906,4.12
+63,Masculino,168,Drama,Verano,10,5998,Computadora,Español,98,5876,1.16
+60,Femenino,178,Comedia,Primavera,6,8335,Smart TV,Español,77,8287,2.92
+33,Masculino,149,Comedia,Primavera,2,8780,Computadora,Español,55,1892,1.42
+21,Femenino,77,Acción,Verano,10,4376,Smart TV,Español,58,5675,1.97
+54,Femenino,131,Acción,Primavera,0,4823,Móvil,Inglés,141,2933,4.95
+38,Femenino,116,Acción,Verano,10,9248,Computadora,Español,111,2380,1.57
+31,Masculino,86,Comedia,Primavera,2,5744,Computadora,Español,55,2290,3.0
+48,Masculino,86,Acción,Verano,7,1215,Smart TV,Inglés,62,2640,3.47
+35,Masculino,159,Drama,Primavera,4,1881,Computadora,Inglés,83,8490,3.81
+24,Masculino,82,Drama,Primavera,2,8942,Computadora,Español,35,2218,3.24
+27,Femenino,86,Comedia,Primavera,7,1976,Smart TV,Español,58,6016,1.04
+24,Femenino,107,Acción,Verano,5,5463,Smart TV,Inglés,71,7881,2.31
+50,Masculino,150,Drama,Verano,2,8632,Smart TV,Español,107,1954,3.07
+40,Femenino,147,Comedia,Primavera,4,3475,Móvil,Inglés,156,8291,1.35
+38,Femenino,114,Acción,Verano,0,2850,Smart TV,Español,89,1974,2.4
+36,Masculino,75,Drama,Primavera,5,9646,Computadora,Inglés,58,5133,1.13
+36,Femenino,104,Acción,Verano,11,3376,Móvil,Inglés,41,6370,1.31
+53,Masculino,179,Comedia,Verano,12,548,Smart TV,Inglés,196,4972,2.59
+46,Femenino,83,Acción,Primavera,8,5637,Móvil,Español,76,6295,1.53
+35,Masculino,141,Comedia,Verano,11,4272,Móvil,Inglés,141,9228,3.27
+19,Femenino,130,Acción,Verano,6,9089,Computadora,Inglés,82,4020,3.76
+18,Femenino,84,Drama,Primavera,10,3596,Móvil,Español,58,9987,4.2
+64,Masculino,123,Comedia,Primavera,12,2282,Smart TV,Español,88,5036,1.8
+22,Masculino,96,Comedia,Primavera,7,3426,Móvil,Español,43,6068,1.67
+37,Masculino,82,Comedia,Verano,5,8937,Móvil,Inglés,69,6233,1.42
+28,Masculino,100,Acción,Primavera,10,819,Computadora,Inglés,102,1317,3.55
+59,Femenino,104,Acción,Primavera,4,1622,Computadora,Inglés,44,3396,3.83
+19,Femenino,129,Drama,Primavera,11,6856,Smart TV,Español,47,3162,1.13
+20,Masculino,75,Comedia,Primavera,5,6727,Computadora,Español,66,3745,4.74
+40,Femenino,138,Comedia,Primavera,6,1169,Smart TV,Inglés,71,2591,1.21
+29,Masculino,155,Acción,Primavera,8,5662,Smart TV,Español,123,7183,3.17
+37,Masculino,127,Acción,Primavera,7,7849,Computadora,Español,108,4930,3.84
+22,Femenino,118,Drama,Verano,4,4987,Móvil,Inglés,65,2312,4.48
+54,Femenino,92,Drama,Primavera,6,4774,Computadora,Inglés,87,5311,3.86
+55,Masculino,158,Acción,Primavera,7,2256,Móvil,Español,116,8314,4.21
+47,Masculino,103,Comedia,Verano,0,8044,Móvil,Inglés,102,3383,2.36
+26,Masculino,95,Drama,Primavera,7,4239,Smart TV,Español,86,4239,4.26
+51,Femenino,116,Acción,Verano,10,5729,Smart TV,Español,115,3139,1.32
+61,Femenino,74,Acción,Verano,6,7187,Computadora,Inglés,23,2704,4.58
+52,Femenino,159,Comedia,Primavera,10,5178,Móvil,Inglés,78,7924,3.19
+39,Femenino,89,Acción,Primavera,11,6505,Computadora,Español,33,1362,4.27
+61,Masculino,75,Acción,Primavera,11,6971,Smart TV,Español,49,3604,2.81
+41,Masculino,139,Drama,Primavera,1,732,Móvil,Inglés,140,5286,3.57
+34,Masculino,128,Acción,Verano,1,2299,Computadora,Español,86,4738,3.11
+27,Masculino,133,Acción,Verano,11,5453,Computadora,Español,130,3469,3.93
+47,Masculino,87,Drama,Primavera,5,3010,Smart TV,Español,48,5795,1.33
+63,Masculino,73,Comedia,Primavera,2,722,Smart TV,Español,41,7150,1.24
+40,Femenino,86,Comedia,Verano,0,6173,Smart TV,Español,87,1556,1.99
+49,Femenino,83,Drama,Primavera,7,460,Smart TV,Inglés,53,3808,1.64
+34,Masculino,147,Drama,Primavera,6,6465,Computadora,Español,136,6150,4.49
+34,Masculino,82,Comedia,Primavera,3,8501,Smart TV,Español,40,8561,1.88
+31,Femenino,76,Comedia,Verano,0,9222,Smart TV,Inglés,80,3719,4.9
+26,Femenino,113,Comedia,Verano,1,4043,Computadora,Inglés,85,7506,2.35
+57,Femenino,84,Comedia,Primavera,8,4969,Computadora,Inglés,76,4741,1.73
+19,Femenino,88,Comedia,Primavera,3,8228,Móvil,Español,32,4998,4.16
+62,Masculino,132,Drama,Primavera,2,977,Computadora,Español,91,3403,3.63
+42,Masculino,176,Acción,Primavera,7,4895,Móvil,Inglés,179,9780,2.99
+56,Masculino,177,Comedia,Verano,3,7891,Smart TV,Inglés,177,1294,3.22
+26,Masculino,104,Comedia,Primavera,6,2623,Móvil,Inglés,35,6343,3.88
+39,Masculino,150,Acción,Verano,12,6370,Móvil,Inglés,81,2136,1.91
+60,Femenino,104,Acción,Verano,4,8683,Smart TV,Inglés,68,3064,4.99
+63,Masculino,88,Acción,Verano,4,6723,Smart TV,Español,38,8009,4.9
+21,Femenino,89,Acción,Primavera,10,5188,Smart TV,Inglés,78,5543,3.6
+43,Masculino,169,Acción,Primavera,5,7664,Móvil,Español,75,2007,1.8
+46,Masculino,104,Acción,Primavera,11,7166,Computadora,Español,60,6445,3.72
+62,Masculino,101,Drama,Verano,12,6645,Computadora,Inglés,83,6352,1.29
+51,Masculino,117,Acción,Primavera,3,2421,Computadora,Inglés,80,2435,1.12
+40,Masculino,113,Acción,Primavera,1,8249,Smart TV,Inglés,100,1571,2.03
+54,Femenino,173,Drama,Verano,5,8225,Smart TV,Inglés,184,3382,2.85
+28,Femenino,93,Acción,Verano,12,8430,Computadora,Inglés,36,6084,4.47
+23,Femenino,130,Comedia,Primavera,4,8394,Smart TV,Español,112,1277,3.91
+35,Masculino,86,Comedia,Primavera,2,5433,Móvil,Inglés,41,8059,3.97
+38,Masculino,140,Acción,Primavera,3,8775,Móvil,Inglés,88,2887,2.7
+59,Femenino,176,Drama,Primavera,2,7958,Smart TV,Español,57,2265,2.38
+53,Masculino,119,Comedia,Primavera,2,4419,Computadora,Inglés,48,8491,2.48
+58,Masculino,134,Drama,Primavera,3,5489,Computadora,Inglés,74,2040,4.95
+55,Femenino,168,Comedia,Primavera,1,1948,Móvil,Inglés,96,9073,1.16
+51,Masculino,101,Acción,Verano,3,3305,Smart TV,Español,102,3752,4.47
+34,Femenino,105,Drama,Primavera,9,2261,Computadora,Inglés,93,9213,3.31
+54,Masculino,82,Drama,Verano,10,1564,Computadora,Inglés,88,5569,2.75
+42,Femenino,139,Drama,Primavera,1,743,Smart TV,Inglés,108,7353,3.9
+55,Masculino,127,Comedia,Verano,9,5451,Smart TV,Inglés,62,3353,2.95
+29,Masculino,83,Comedia,Primavera,7,4653,Computadora,Español,46,8437,4.49
+40,Femenino,106,Comedia,Primavera,9,6618,Smart TV,Inglés,58,5799,4.6
+59,Masculino,148,Acción,Primavera,4,5823,Smart TV,Español,83,1686,2.69
+39,Masculino,137,Comedia,Verano,12,8046,Smart TV,Inglés,114,9476,2.11
+38,Femenino,109,Acción,Verano,6,710,Computadora,Inglés,78,5811,3.37
+44,Masculino,128,Drama,Primavera,10,4402,Móvil,Inglés,77,9954,4.65
+48,Femenino,149,Drama,Verano,3,1643,Smart TV,Español,62,6346,1.84
+23,Masculino,161,Acción,Primavera,9,1566,Computadora,Inglés,51,6043,3.49
+44,Masculino,85,Comedia,Primavera,5,9208,Móvil,Inglés,40,3428,3.53
+57,Masculino,131,Acción,Primavera,12,6336,Computadora,Español,50,6126,3.93
+51,Masculino,73,Drama,Primavera,11,1281,Computadora,Inglés,67,9220,1.53
+29,Femenino,114,Drama,Primavera,9,2246,Computadora,Inglés,44,8813,3.86
+62,Masculino,159,Acción,Primavera,3,2372,Móvil,Inglés,139,4356,4.64
+24,Femenino,97,Comedia,Verano,5,9143,Computadora,Inglés,59,9707,1.72
+27,Masculino,165,Comedia,Primavera,0,4636,Móvil,Español,59,8266,1.95
+62,Masculino,178,Acción,Primavera,5,819,Smart TV,Español,169,7540,4.89
+34,Masculino,135,Acción,Primavera,5,4780,Móvil,Español,103,1038,1.72
+43,Masculino,100,Comedia,Primavera,1,3572,Computadora,Inglés,48,4342,4.42
+38,Femenino,72,Drama,Primavera,11,3742,Móvil,Inglés,73,3844,2.97
+45,Femenino,77,Acción,Primavera,9,163,Computadora,Inglés,25,2098,1.99
+63,Femenino,93,Comedia,Verano,9,659,Smart TV,Inglés,42,8027,4.48
+19,Femenino,84,Comedia,Primavera,8,7546,Móvil,Español,75,2823,2.78
+60,Masculino,112,Drama,Primavera,5,1833,Smart TV,Inglés,97,4155,3.06
+18,Femenino,100,Drama,Verano,11,8961,Móvil,Español,53,4093,2.44
+53,Femenino,142,Drama,Primavera,10,3994,Computadora,Inglés,49,6658,3.37
+43,Masculino,172,Drama,Primavera,12,1642,Móvil,Inglés,169,4778,1.65
+46,Masculino,114,Drama,Verano,6,9563,Smart TV,Español,62,3896,2.56
+38,Masculino,135,Acción,Primavera,1,2515,Móvil,Inglés,61,1988,4.88
+28,Masculino,77,Comedia,Primavera,1,6190,Smart TV,Español,54,5116,2.03
+57,Femenino,140,Acción,Primavera,1,5317,Smart TV,Español,143,7446,3.63
+28,Femenino,177,Acción,Primavera,9,5487,Computadora,Inglés,59,5179,2.3
+53,Masculino,172,Acción,Verano,12,5279,Móvil,Español,156,2682,4.09
+56,Masculino,175,Acción,Verano,10,8287,Smart TV,Español,132,6626,1.52
+57,Masculino,126,Acción,Verano,8,6743,Computadora,Inglés,80,8424,4.88
+52,Femenino,149,Drama,Primavera,2,7760,Computadora,Español,133,1933,2.82
+51,Femenino,168,Drama,Verano,12,2558,Computadora,Español,180,4598,1.94
+64,Masculino,99,Comedia,Primavera,3,9455,Smart TV,Inglés,47,2980,1.29
+41,Masculino,143,Acción,Primavera,0,6128,Móvil,Español,59,4056,1.68
+39,Femenino,171,Comedia,Verano,0,5547,Smart TV,Inglés,176,9984,3.08
+22,Masculino,87,Drama,Primavera,3,4659,Computadora,Español,72,1791,2.35
+50,Masculino,138,Drama,Verano,1,2849,Smart TV,Inglés,89,6390,4.32
+53,Femenino,162,Drama,Verano,7,2048,Smart TV,Inglés,122,7635,2.72
+64,Masculino,108,Acción,Primavera,12,6406,Computadora,Inglés,96,3255,1.99
+37,Femenino,129,Acción,Verano,3,8351,Móvil,Inglés,118,4610,3.47
+36,Masculino,167,Drama,Primavera,2,8192,Computadora,Inglés,172,2607,3.83
+52,Masculino,112,Comedia,Verano,2,8624,Computadora,Español,71,6179,1.67
+60,Femenino,114,Comedia,Verano,5,289,Smart TV,Inglés,60,7573,1.67
+34,Femenino,92,Drama,Verano,11,6108,Computadora,Inglés,74,1984,1.15
+62,Masculino,138,Comedia,Verano,12,7582,Smart TV,Español,87,6776,3.95
+60,Femenino,163,Drama,Verano,5,395,Computadora,Inglés,126,4676,3.66
+51,Masculino,75,Comedia,Verano,5,8468,Computadora,Español,47,4380,2.9
+26,Masculino,125,Drama,Primavera,5,8268,Móvil,Español,52,9711,4.38
+43,Femenino,179,Comedia,Primavera,7,899,Computadora,Inglés,120,9782,4.22
+19,Masculino,177,Acción,Primavera,7,9097,Móvil,Español,150,2050,3.34
+26,Masculino,73,Drama,Verano,8,7103,Computadora,Español,68,4633,4.47
+26,Femenino,162,Drama,Primavera,0,8506,Computadora,Español,112,7342,1.82
+57,Femenino,92,Comedia,Verano,9,2800,Computadora,Inglés,39,1959,1.45
+34,Masculino,75,Drama,Verano,7,8888,Móvil,Español,47,7059,2.08
+18,Femenino,101,Drama,Primavera,4,9647,Smart TV,Inglés,93,9884,1.23
+42,Femenino,175,Drama,Verano,2,9584,Móvil,Inglés,110,6655,3.12
+60,Femenino,87,Acción,Primavera,10,5973,Computadora,Español,74,5473,4.75
+57,Femenino,84,Acción,Primavera,9,4814,Smart TV,Inglés,59,3946,1.16
+59,Masculino,109,Comedia,Primavera,2,6591,Computadora,Español,53,8725,1.49
+42,Masculino,165,Acción,Primavera,5,8433,Móvil,Español,154,1526,2.81
+56,Masculino,142,Comedia,Primavera,7,2939,Móvil,Inglés,52,4224,4.74
+52,Femenino,170,Acción,Primavera,9,3613,Smart TV,Inglés,122,2875,2.26
+20,Femenino,143,Comedia,Verano,1,1235,Móvil,Inglés,66,2763,3.03
+54,Femenino,153,Acción,Verano,11,6457,Computadora,Español,54,9712,1.17
+61,Femenino,75,Acción,Primavera,8,2347,Smart TV,Español,52,6797,1.59
+61,Femenino,132,Comedia,Primavera,4,6648,Computadora,Español,92,8099,4.95
+47,Femenino,136,Drama,Primavera,4,4616,Smart TV,Inglés,117,6109,4.86
+55,Femenino,175,Drama,Primavera,0,4202,Smart TV,Español,156,7644,1.02
+51,Masculino,80,Acción,Primavera,5,1648,Computadora,Español,70,1116,4.81
+29,Masculino,112,Comedia,Verano,12,6632,Móvil,Español,70,3433,3.56
+36,Femenino,86,Drama,Primavera,10,4611,Computadora,Español,69,6463,4.47
+54,Femenino,165,Comedia,Primavera,10,2931,Móvil,Inglés,125,1583,2.82
+61,Femenino,73,Drama,Primavera,4,9298,Móvil,Español,46,9586,3.06
+34,Masculino,132,Comedia,Primavera,6,3162,Computadora,Inglés,102,4788,2.96
+27,Masculino,137,Acción,Verano,6,8075,Smart TV,Español,144,5167,3.67
+64,Femenino,150,Comedia,Primavera,3,3152,Computadora,Español,68,9465,1.56
+29,Femenino,110,Drama,Primavera,4,7310,Smart TV,Español,112,2389,1.12
+33,Masculino,152,Acción,Verano,9,3639,Móvil,Inglés,52,9357,2.23
+41,Masculino,74,Comedia,Primavera,7,626,Smart TV,Inglés,40,7154,3.82
+36,Masculino,101,Drama,Verano,1,2907,Computadora,Inglés,53,6420,1.81
+25,Masculino,155,Acción,Primavera,0,9487,Smart TV,Español,124,9920,3.69
+48,Femenino,139,Comedia,Primavera,5,1853,Móvil,Español,56,3043,4.88
+38,Masculino,104,Drama,Primavera,10,9964,Móvil,Inglés,104,5197,1.38
+34,Masculino,91,Comedia,Primavera,3,6982,Smart TV,Español,87,4496,3.69
+40,Femenino,134,Comedia,Primavera,12,1754,Móvil,Español,110,1778,2.78
+54,Masculino,153,Acción,Primavera,9,4941,Móvil,Inglés,102,1213,4.47
+33,Masculino,91,Acción,Primavera,2,4141,Smart TV,Español,95,4762,1.71
+23,Masculino,80,Drama,Primavera,6,5124,Móvil,Español,77,7731,3.77
+25,Femenino,146,Acción,Primavera,7,9139,Smart TV,Español,102,4117,4.35
+42,Masculino,175,Drama,Verano,10,9159,Smart TV,Inglés,150,6791,4.78
+35,Femenino,72,Comedia,Verano,11,9065,Móvil,Español,54,9783,3.73
+42,Femenino,78,Comedia,Verano,3,8834,Smart TV,Inglés,60,3720,2.99
+29,Masculino,129,Drama,Primavera,11,4517,Móvil,Español,72,9905,3.47
+32,Masculino,145,Comedia,Primavera,11,9077,Móvil,Inglés,97,7047,4.48
+43,Masculino,156,Acción,Verano,9,4735,Móvil,Inglés,56,9032,3.28
+58,Masculino,83,Comedia,Primavera,11,2983,Computadora,Inglés,48,1001,1.12
+62,Femenino,166,Acción,Verano,10,5984,Móvil,Inglés,142,7368,4.72
+43,Masculino,87,Drama,Primavera,10,548,Smart TV,Español,92,2949,3.76
+64,Masculino,174,Drama,Primavera,5,3410,Smart TV,Inglés,186,7732,3.71
+49,Masculino,142,Comedia,Primavera,12,4685,Smart TV,Español,105,8833,1.86
+27,Femenino,92,Comedia,Primavera,10,8208,Computadora,Español,72,1917,3.64
+33,Masculino,143,Acción,Primavera,10,4509,Computadora,Inglés,64,4174,2.58
+24,Masculino,152,Acción,Verano,1,7973,Smart TV,Español,130,8014,3.6
+34,Femenino,116,Comedia,Primavera,7,6151,Smart TV,Español,41,1089,1.43
+40,Femenino,138,Comedia,Primavera,5,8676,Computadora,Español,72,2709,3.63
+43,Masculino,116,Drama,Primavera,10,394,Smart TV,Español,96,4041,5.0
+38,Masculino,156,Drama,Primavera,8,1338,Móvil,Inglés,85,1105,1.19
+39,Masculino,99,Drama,Primavera,10,8141,Móvil,Español,33,9619,4.91
+24,Masculino,94,Comedia,Primavera,12,2916,Smart TV,Español,90,2895,2.63
+31,Masculino,97,Comedia,Primavera,12,1198,Móvil,Español,53,7090,4.48
+32,Femenino,167,Comedia,Primavera,5,1837,Smart TV,Español,58,9508,4.13
+24,Femenino,178,Drama,Primavera,5,2289,Computadora,Español,64,7082,3.27
+26,Masculino,94,Comedia,Primavera,11,2865,Smart TV,Inglés,47,1634,3.95
+25,Masculino,143,Acción,Primavera,1,1322,Computadora,Español,63,2925,4.51
+40,Femenino,147,Comedia,Primavera,4,6649,Móvil,Inglés,135,3056,2.62
+46,Masculino,175,Comedia,Verano,8,510,Móvil,Español,97,7917,2.31
+35,Masculino,179,Comedia,Primavera,0,3045,Móvil,Inglés,168,4144,3.67
+48,Masculino,127,Comedia,Verano,3,8202,Smart TV,Español,55,1552,4.23
+47,Masculino,163,Comedia,Primavera,9,4886,Computadora,Español,113,9907,4.05
+56,Masculino,110,Acción,Verano,9,9169,Computadora,Inglés,93,6383,4.19
+52,Femenino,94,Acción,Primavera,2,886,Móvil,Inglés,77,4911,2.74
+35,Masculino,147,Comedia,Primavera,0,2209,Móvil,Inglés,114,4389,4.27
+59,Masculino,168,Drama,Verano,0,5546,Computadora,Español,174,9442,1.48
+56,Masculino,117,Comedia,Primavera,0,5935,Smart TV,Inglés,56,3430,3.18
+34,Femenino,167,Comedia,Verano,0,2086,Móvil,Inglés,116,1458,1.02
+31,Femenino,79,Comedia,Primavera,12,8226,Smart TV,Inglés,79,1207,2.3
+48,Femenino,168,Drama,Verano,1,9170,Móvil,Español,60,1899,2.47
+41,Femenino,144,Drama,Verano,10,7400,Móvil,Español,49,1021,2.58
+52,Masculino,80,Drama,Verano,4,9899,Smart TV,Español,38,9601,3.78
+61,Femenino,154,Acción,Verano,1,5809,Smart TV,Inglés,124,1894,2.55
+62,Masculino,90,Drama,Primavera,3,2503,Smart TV,Español,45,1514,2.79
+51,Masculino,155,Acción,Primavera,8,8362,Smart TV,Español,70,8294,1.95
+20,Femenino,114,Acción,Primavera,2,4501,Computadora,Español,76,5904,2.49
+54,Femenino,76,Drama,Verano,1,6801,Computadora,Español,60,8867,1.91
+60,Femenino,150,Drama,Primavera,3,3395,Móvil,Inglés,74,5109,1.29
+57,Femenino,133,Drama,Primavera,8,9053,Móvil,Español,71,8179,3.41
+43,Femenino,133,Acción,Primavera,3,2221,Móvil,Inglés,105,2560,3.67
+40,Masculino,71,Comedia,Verano,11,3682,Computadora,Inglés,75,2266,3.48
+61,Femenino,145,Drama,Primavera,4,4297,Smart TV,Inglés,121,4638,2.85
+56,Femenino,111,Drama,Verano,3,9921,Móvil,Inglés,102,9941,2.52
+32,Femenino,151,Drama,Primavera,12,5800,Computadora,Inglés,89,4427,4.45
+21,Masculino,123,Acción,Verano,7,7332,Móvil,Inglés,63,5780,3.08
+46,Femenino,144,Acción,Verano,12,4388,Computadora,Español,95,2927,2.92
+39,Masculino,85,Comedia,Primavera,3,1185,Smart TV,Inglés,80,3356,1.1
+42,Femenino,87,Drama,Primavera,1,8745,Computadora,Español,57,5790,2.36
+30,Femenino,168,Acción,Primavera,11,2721,Smart TV,Inglés,164,1306,2.52
+35,Masculino,128,Comedia,Primavera,3,8910,Móvil,Español,139,8979,2.6
+50,Femenino,159,Drama,Primavera,1,8928,Smart TV,Inglés,56,4665,3.32
+33,Masculino,85,Acción,Primavera,8,2448,Computadora,Español,28,8057,3.13
+62,Masculino,75,Drama,Primavera,10,4974,Móvil,Español,31,1661,3.43
+59,Masculino,126,Drama,Verano,7,3136,Móvil,Inglés,76,5644,4.06
+61,Femenino,177,Acción,Verano,8,2449,Computadora,Inglés,71,9503,4.25
+19,Femenino,176,Acción,Primavera,3,5843,Smart TV,Inglés,175,3920,3.87
+52,Femenino,116,Acción,Primavera,0,4532,Computadora,Inglés,36,9946,4.82
+59,Masculino,117,Drama,Primavera,2,6275,Smart TV,Español,64,7236,1.07
+51,Femenino,111,Drama,Primavera,6,7365,Smart TV,Español,49,7078,1.78
+47,Masculino,145,Comedia,Primavera,0,6203,Móvil,Inglés,151,1352,1.03
+30,Femenino,129,Drama,Primavera,10,7458,Smart TV,Inglés,107,8005,3.59
+30,Masculino,146,Acción,Verano,7,9363,Móvil,Español,150,1158,4.59
+35,Masculino,73,Drama,Verano,8,2131,Computadora,Inglés,78,1956,1.97
+49,Masculino,172,Comedia,Primavera,7,1349,Computadora,Español,120,3071,4.71
+49,Femenino,71,Comedia,Verano,4,9587,Móvil,Inglés,34,9595,1.24
+52,Masculino,159,Acción,Verano,11,6908,Móvil,Inglés,72,4453,4.74
+56,Masculino,128,Acción,Primavera,10,3656,Smart TV,Español,61,7675,2.41
+63,Masculino,96,Comedia,Primavera,11,8619,Móvil,Español,83,1955,1.41
+46,Masculino,96,Comedia,Primavera,12,9088,Computadora,Inglés,31,7295,2.94
+46,Masculino,148,Comedia,Primavera,8,5399,Móvil,Español,50,2712,2.03
+61,Masculino,141,Acción,Primavera,3,3194,Móvil,Inglés,110,5703,2.14
+33,Femenino,76,Comedia,Primavera,8,3077,Móvil,Español,61,7563,2.23
+61,Femenino,132,Comedia,Primavera,0,1062,Smart TV,Inglés,109,6631,4.21
+64,Masculino,115,Acción,Primavera,11,5825,Móvil,Inglés,68,2394,3.16
+27,Femenino,132,Drama,Primavera,10,5589,Smart TV,Inglés,124,5732,2.25
+47,Femenino,173,Drama,Primavera,2,1368,Smart TV,Español,125,4714,3.44
+42,Masculino,81,Comedia,Verano,3,5379,Móvil,Español,31,1529,3.86
+56,Masculino,82,Drama,Primavera,10,472,Smart TV,Español,76,3958,2.09
+37,Masculino,112,Drama,Primavera,9,4480,Móvil,Español,118,8904,2.65
+22,Femenino,86,Drama,Verano,0,7717,Computadora,Inglés,29,4591,1.49
+18,Masculino,132,Drama,Primavera,11,9896,Computadora,Español,80,7895,1.72
+47,Femenino,150,Comedia,Verano,5,6379,Smart TV,Español,103,1525,3.72
+20,Masculino,105,Drama,Primavera,12,195,Computadora,Español,43,7477,1.73
+62,Femenino,154,Drama,Verano,3,4469,Móvil,Inglés,153,1001,3.1
+31,Masculino,77,Acción,Verano,3,4041,Smart TV,Español,40,1374,3.84
+47,Masculino,138,Comedia,Primavera,0,7121,Móvil,Español,127,5648,1.43
+21,Femenino,159,Acción,Verano,4,9492,Smart TV,Inglés,133,3365,3.27
+35,Femenino,149,Acción,Primavera,8,4044,Smart TV,Inglés,115,2525,2.03
+54,Femenino,105,Comedia,Verano,5,5968,Smart TV,Inglés,47,2646,4.85
+42,Femenino,97,Drama,Primavera,7,5496,Smart TV,Inglés,46,1013,2.93
+18,Femenino,162,Acción,Verano,10,8141,Computadora,Inglés,54,5599,4.22
+63,Femenino,116,Comedia,Verano,3,231,Computadora,Inglés,57,3278,3.2
+32,Masculino,145,Drama,Primavera,8,7390,Computadora,Inglés,83,4155,1.17
+26,Femenino,170,Comedia,Primavera,6,9682,Smart TV,Español,164,9321,3.53
+32,Masculino,99,Acción,Primavera,6,6616,Computadora,Inglés,58,4814,4.81
+41,Masculino,92,Drama,Primavera,7,9441,Smart TV,Inglés,83,4216,3.41
+21,Femenino,85,Drama,Primavera,1,6006,Computadora,Inglés,55,9219,4.28
+29,Masculino,83,Comedia,Primavera,11,907,Smart TV,Inglés,77,3113,4.54
+54,Femenino,143,Drama,Primavera,5,150,Computadora,Inglés,154,5356,1.91
+54,Femenino,140,Acción,Primavera,6,5377,Computadora,Español,68,6543,1.85
+60,Masculino,178,Acción,Primavera,2,155,Computadora,Español,176,5555,3.44
+23,Masculino,121,Acción,Primavera,7,3764,Smart TV,Español,96,8062,2.64
+56,Femenino,106,Comedia,Primavera,0,843,Smart TV,Español,101,4374,4.36
+63,Femenino,98,Drama,Primavera,0,6130,Computadora,Español,80,7430,4.6
+41,Masculino,136,Drama,Primavera,9,8231,Smart TV,Español,86,4466,2.41
+28,Masculino,84,Drama,Verano,2,179,Móvil,Español,40,4081,1.95
+30,Masculino,169,Acción,Primavera,5,3066,Computadora,Inglés,60,1629,4.12
+51,Masculino,116,Drama,Verano,6,3828,Computadora,Inglés,84,1269,2.1
+42,Femenino,115,Acción,Primavera,1,4636,Móvil,Inglés,125,6724,4.29
+24,Femenino,121,Drama,Primavera,5,225,Smart TV,Inglés,107,6897,2.69
+21,Femenino,88,Acción,Primavera,11,5913,Smart TV,Inglés,49,4432,3.67
+25,Femenino,146,Drama,Primavera,4,8510,Smart TV,Inglés,140,7276,1.38
+37,Masculino,175,Comedia,Verano,5,1047,Computadora,Español,160,6895,3.5
+46,Masculino,90,Comedia,Verano,0,694,Computadora,Inglés,47,8115,2.81
+62,Femenino,133,Acción,Primavera,9,5130,Computadora,Inglés,41,7656,3.35
+63,Femenino,106,Acción,Verano,6,240,Computadora,Inglés,41,1575,1.67
+27,Femenino,96,Drama,Primavera,7,3155,Computadora,Español,96,8029,3.95
+60,Femenino,124,Drama,Primavera,6,9922,Smart TV,Español,120,7099,4.45
+51,Femenino,98,Comedia,Verano,8,9168,Móvil,Español,52,4192,1.87
+43,Femenino,89,Drama,Verano,0,4305,Smart TV,Inglés,47,4178,1.38
+58,Femenino,94,Acción,Verano,9,5271,Smart TV,Inglés,87,7052,1.09
+20,Femenino,139,Acción,Verano,8,7882,Computadora,Inglés,145,3734,3.57
+23,Femenino,132,Acción,Verano,10,2760,Móvil,Español,121,7116,3.43
+22,Masculino,105,Acción,Verano,10,6956,Móvil,Español,82,4568,3.19
+22,Femenino,71,Acción,Verano,12,6189,Smart TV,Inglés,35,3203,1.93
+64,Masculino,91,Comedia,Primavera,2,5418,Móvil,Español,65,2390,2.56
+40,Masculino,165,Comedia,Primavera,1,2652,Smart TV,Inglés,80,2742,3.38
+26,Femenino,85,Acción,Primavera,5,3711,Smart TV,Español,80,2925,2.99
+52,Femenino,87,Drama,Verano,10,8162,Smart TV,Español,53,1619,4.95
+37,Masculino,138,Acción,Primavera,4,1140,Smart TV,Español,133,2274,1.55
+59,Masculino,123,Comedia,Verano,3,8606,Computadora,Inglés,74,1956,3.78
+52,Femenino,169,Acción,Primavera,3,7703,Móvil,Español,162,2939,2.62
+35,Masculino,99,Comedia,Primavera,7,4272,Computadora,Inglés,56,4953,2.71
+34,Femenino,114,Comedia,Primavera,9,3046,Computadora,Inglés,74,1968,3.87
+41,Femenino,88,Acción,Primavera,12,3336,Computadora,Inglés,69,1281,3.77
+20,Femenino,156,Acción,Primavera,2,3780,Smart TV,Español,55,7262,4.97
+49,Masculino,103,Drama,Primavera,12,4907,Smart TV,Español,109,2058,1.51
+52,Masculino,82,Comedia,Primavera,0,1637,Computadora,Español,62,5293,1.42
+55,Femenino,112,Drama,Primavera,4,3972,Computadora,Inglés,79,6178,3.9
+30,Masculino,131,Acción,Primavera,7,1967,Móvil,Español,127,7980,3.31
+64,Masculino,162,Comedia,Primavera,2,1261,Computadora,Español,160,2229,2.1
+42,Masculino,169,Drama,Primavera,1,4020,Smart TV,Inglés,121,5585,1.32
+26,Masculino,91,Drama,Primavera,0,5793,Computadora,Inglés,94,9467,1.34
+21,Masculino,121,Drama,Primavera,12,3982,Móvil,Inglés,42,3740,4.58
+31,Masculino,121,Acción,Verano,3,7838,Móvil,Español,47,3289,1.77
+54,Masculino,105,Acción,Primavera,10,8556,Computadora,Español,81,2239,2.29
+51,Femenino,142,Acción,Verano,1,6431,Móvil,Inglés,82,6370,1.91
+28,Masculino,172,Comedia,Primavera,7,5282,Móvil,Español,115,1125,2.42
+58,Masculino,88,Acción,Primavera,10,9594,Smart TV,Inglés,49,8473,1.28
+20,Masculino,107,Comedia,Verano,12,9486,Móvil,Español,66,6342,3.08
+45,Masculino,139,Drama,Primavera,9,1626,Móvil,Inglés,133,8351,1.27
+46,Masculino,148,Drama,Primavera,11,8231,Computadora,Español,114,7638,4.2
+26,Masculino,126,Acción,Primavera,8,4494,Smart TV,Inglés,138,7570,1.93
+20,Masculino,89,Drama,Primavera,12,1258,Móvil,Inglés,82,4249,3.16
+42,Masculino,78,Acción,Verano,9,4467,Computadora,Inglés,40,8595,4.52
+51,Femenino,101,Comedia,Primavera,0,4730,Computadora,Español,51,7294,3.6
+29,Masculino,73,Drama,Primavera,1,3613,Computadora,Español,41,7527,3.13
+59,Masculino,119,Acción,Verano,5,1244,Computadora,Español,115,6757,2.3
+26,Masculino,151,Drama,Primavera,12,168,Computadora,Inglés,48,2969,2.33
+32,Masculino,74,Drama,Primavera,9,3817,Computadora,Inglés,35,1891,3.68
+57,Femenino,89,Acción,Primavera,11,9118,Móvil,Inglés,91,5470,4.98
+42,Femenino,156,Drama,Verano,6,9461,Smart TV,Inglés,126,8175,3.65
+22,Femenino,144,Drama,Verano,1,9275,Smart TV,Inglés,69,9320,3.23
+28,Femenino,106,Drama,Primavera,7,9744,Computadora,Inglés,50,7812,3.92
+51,Femenino,91,Drama,Primavera,12,9331,Computadora,Inglés,90,8519,2.86
+41,Femenino,127,Comedia,Verano,9,4823,Smart TV,Inglés,128,5612,1.24
+32,Femenino,137,Drama,Primavera,8,4313,Móvil,Inglés,69,2198,3.25
+55,Femenino,162,Drama,Primavera,7,6513,Computadora,Español,103,6238,4.83
+25,Femenino,113,Acción,Verano,8,3566,Smart TV,Inglés,109,7089,1.7
+22,Femenino,103,Comedia,Verano,5,3126,Smart TV,Español,94,7257,3.76
+43,Femenino,146,Acción,Verano,10,7098,Computadora,Inglés,138,8705,1.8
+35,Femenino,111,Acción,Primavera,6,2847,Smart TV,Español,79,4719,3.14
+23,Femenino,78,Acción,Primavera,5,7371,Móvil,Inglés,80,1302,1.39
+54,Femenino,175,Comedia,Primavera,6,6271,Smart TV,Español,98,1986,2.8
+30,Femenino,164,Acción,Primavera,2,3955,Computadora,Inglés,69,5440,4.02
+45,Femenino,76,Acción,Primavera,3,8853,Computadora,Inglés,65,5909,2.39
+22,Masculino,137,Acción,Primavera,8,2303,Smart TV,Inglés,100,4072,3.66
+30,Femenino,88,Drama,Primavera,2,3519,Smart TV,Español,86,4124,4.18
+34,Masculino,175,Acción,Primavera,1,1244,Computadora,Inglés,63,9125,4.71
+57,Femenino,163,Comedia,Primavera,11,2799,Móvil,Español,158,4291,1.94
+62,Femenino,100,Comedia,Primavera,12,9843,Smart TV,Español,53,5033,2.6
+49,Masculino,104,Drama,Verano,10,660,Móvil,Español,85,6105,1.61
+46,Femenino,126,Comedia,Verano,6,1287,Móvil,Español,41,1703,4.97
+20,Masculino,154,Comedia,Primavera,5,3233,Computadora,Español,121,9133,4.71
+57,Masculino,130,Drama,Primavera,2,3511,Computadora,Inglés,113,1574,3.16
+51,Masculino,100,Acción,Primavera,5,1789,Computadora,Español,59,6704,4.37
+57,Femenino,152,Drama,Primavera,6,4507,Móvil,Español,71,8848,3.08
+44,Femenino,164,Acción,Primavera,5,2523,Computadora,Español,119,6208,3.49
+30,Femenino,122,Acción,Primavera,0,1469,Computadora,Español,117,7924,1.36
+62,Masculino,101,Comedia,Primavera,11,6107,Móvil,Inglés,56,4828,4.02
+50,Masculino,135,Drama,Primavera,0,6828,Móvil,Inglés,67,4230,1.51
+23,Femenino,128,Comedia,Verano,8,8872,Móvil,Inglés,66,1488,4.3
+41,Femenino,79,Comedia,Primavera,5,1076,Móvil,Español,83,8114,4.13
+36,Femenino,71,Acción,Primavera,11,4372,Smart TV,Español,41,4173,3.83
+33,Femenino,135,Comedia,Verano,1,6597,Computadora,Español,40,2667,1.14
+57,Femenino,129,Drama,Primavera,10,218,Smart TV,Inglés,119,5114,2.21
+45,Masculino,157,Comedia,Verano,0,1642,Móvil,Español,134,4553,2.05
+50,Masculino,86,Comedia,Primavera,10,4962,Móvil,Inglés,34,8761,2.44
+58,Masculino,165,Acción,Verano,11,3143,Móvil,Español,179,2000,1.35
+30,Femenino,85,Drama,Primavera,1,1072,Móvil,Español,66,2388,4.75
+60,Masculino,85,Comedia,Primavera,7,1015,Móvil,Inglés,59,6450,3.22
+62,Masculino,115,Acción,Primavera,4,6721,Computadora,Español,69,4712,2.22
+42,Masculino,108,Comedia,Verano,6,9729,Smart TV,Inglés,110,2367,2.59
+59,Masculino,100,Drama,Verano,6,686,Smart TV,Español,49,9189,2.79
+53,Masculino,176,Comedia,Primavera,1,8642,Computadora,Inglés,93,1454,3.4
+44,Femenino,157,Comedia,Primavera,3,5725,Computadora,Español,62,3772,3.06
+55,Masculino,70,Acción,Primavera,1,7454,Computadora,Español,63,4726,4.68
+24,Femenino,80,Comedia,Verano,6,4691,Smart TV,Español,62,8232,2.99
+22,Femenino,154,Acción,Primavera,4,2662,Smart TV,Español,121,5806,4.97
+60,Femenino,73,Drama,Verano,0,6939,Móvil,Español,34,3190,4.41
+62,Femenino,140,Comedia,Verano,1,8564,Smart TV,Inglés,114,3875,1.83
+48,Femenino,95,Drama,Primavera,5,3027,Smart TV,Inglés,86,6592,4.72
+40,Masculino,119,Drama,Primavera,3,6295,Computadora,Español,69,2440,1.47
+59,Masculino,81,Comedia,Primavera,6,6376,Smart TV,Inglés,76,9927,4.27
+27,Femenino,164,Acción,Primavera,1,4390,Móvil,Inglés,94,7059,2.52
+49,Femenino,150,Drama,Verano,12,5982,Smart TV,Inglés,135,8010,4.51
+60,Femenino,166,Drama,Primavera,11,6546,Computadora,Inglés,54,8117,4.47
+47,Masculino,144,Comedia,Primavera,1,5267,Computadora,Español,106,3989,4.22
+56,Femenino,161,Comedia,Primavera,11,1622,Móvil,Inglés,173,7228,4.16
+48,Masculino,165,Comedia,Verano,5,9123,Móvil,Inglés,179,7471,2.22
+35,Femenino,134,Comedia,Primavera,7,661,Smart TV,Español,70,3863,1.32
+53,Masculino,116,Comedia,Verano,12,3640,Móvil,Español,75,2177,2.61
+19,Femenino,161,Comedia,Primavera,0,1579,Móvil,Español,56,5760,1.69
+31,Masculino,122,Acción,Primavera,4,6777,Computadora,Español,121,1011,3.78
+30,Femenino,175,Drama,Primavera,0,1305,Computadora,Español,132,6252,2.38
+46,Masculino,140,Acción,Primavera,10,6760,Smart TV,Español,85,5399,4.9
+29,Masculino,71,Acción,Primavera,5,8948,Smart TV,Español,27,9234,3.56
+56,Masculino,175,Comedia,Primavera,6,689,Smart TV,Español,185,6445,4.29
+19,Masculino,93,Drama,Primavera,5,4426,Smart TV,Inglés,67,7570,1.53
+49,Masculino,73,Acción,Primavera,12,5004,Computadora,Español,38,9212,4.45
+30,Masculino,177,Comedia,Primavera,8,9663,Smart TV,Inglés,102,1406,4.69
+63,Masculino,88,Comedia,Primavera,2,6521,Smart TV,Español,45,5431,2.95
+44,Femenino,95,Drama,Primavera,7,3859,Móvil,Español,74,6243,3.43
+58,Femenino,144,Acción,Primavera,2,9039,Smart TV,Inglés,150,7542,4.06
+34,Femenino,109,Acción,Primavera,10,8755,Móvil,Español,107,7936,1.7
+57,Femenino,119,Acción,Primavera,11,9045,Computadora,Español,79,9906,3.01
+48,Femenino,112,Comedia,Primavera,12,6036,Smart TV,Inglés,107,5146,2.59
+51,Masculino,144,Drama,Verano,12,8874,Móvil,Inglés,91,1140,1.59
+41,Masculino,178,Drama,Primavera,6,2305,Smart TV,Inglés,89,5882,2.47
+62,Masculino,136,Acción,Primavera,12,4214,Móvil,Inglés,147,7012,1.27
+52,Masculino,81,Comedia,Primavera,4,4127,Smart TV,Inglés,43,1963,1.1
+23,Masculino,136,Acción,Primavera,11,4916,Computadora,Inglés,76,8151,1.54
+36,Femenino,175,Drama,Primavera,12,7288,Computadora,Español,191,9564,4.85
+47,Femenino,96,Comedia,Primavera,0,2908,Móvil,Español,39,4610,3.2
+24,Femenino,123,Acción,Primavera,10,3703,Móvil,Español,111,7894,4.86
+27,Femenino,135,Acción,Primavera,11,4013,Computadora,Español,141,8311,2.73
+58,Masculino,118,Comedia,Primavera,3,1519,Smart TV,Español,83,1105,2.25
+49,Masculino,85,Drama,Verano,12,2267,Móvil,Inglés,25,6539,3.02
+51,Masculino,71,Comedia,Verano,10,2244,Computadora,Inglés,42,7787,2.76
+45,Femenino,129,Acción,Primavera,8,2267,Móvil,Español,50,3137,1.42
+32,Masculino,123,Acción,Primavera,7,9852,Computadora,Inglés,77,5445,3.56
+47,Femenino,99,Acción,Primavera,2,9468,Computadora,Español,92,4530,1.86
+54,Masculino,153,Acción,Primavera,1,9560,Móvil,Inglés,99,2286,3.48
+46,Masculino,107,Drama,Primavera,10,5991,Móvil,Español,69,8052,3.6
+39,Femenino,97,Drama,Primavera,8,6636,Computadora,Español,72,4654,1.61
+21,Masculino,94,Acción,Primavera,0,1266,Smart TV,Español,71,8102,1.25
+37,Masculino,165,Drama,Verano,8,3675,Computadora,Inglés,162,3359,4.12
+49,Femenino,79,Drama,Primavera,11,2941,Smart TV,Inglés,43,9105,2.84
+53,Masculino,129,Drama,Primavera,6,1970,Smart TV,Español,123,9636,1.23
+21,Femenino,111,Acción,Primavera,11,2986,Smart TV,Inglés,83,7441,4.98
+44,Masculino,109,Comedia,Primavera,1,259,Móvil,Español,58,6047,1.23
+34,Masculino,166,Comedia,Verano,10,7343,Computadora,Español,88,9227,3.78
+29,Masculino,146,Comedia,Verano,4,3863,Computadora,Inglés,85,6203,4.93
+39,Masculino,174,Acción,Primavera,1,1155,Smart TV,Español,138,2798,1.96
+34,Masculino,111,Drama,Primavera,4,433,Smart TV,Español,53,6291,1.57
+27,Masculino,116,Drama,Verano,6,3696,Smart TV,Español,120,6495,1.49
+18,Masculino,106,Acción,Verano,4,7707,Computadora,Inglés,80,7284,2.21
+39,Masculino,149,Acción,Primavera,1,9183,Smart TV,Español,154,8285,1.4
+43,Femenino,178,Comedia,Primavera,10,1462,Computadora,Español,60,2300,3.77
+35,Femenino,91,Comedia,Primavera,4,1025,Computadora,Español,52,7869,1.25
+31,Masculino,126,Acción,Primavera,11,5619,Móvil,Español,40,4097,3.04
+64,Masculino,153,Comedia,Verano,11,2543,Smart TV,Inglés,79,5616,4.99
+46,Femenino,176,Drama,Primavera,9,4080,Smart TV,Español,174,1009,4.26
+29,Masculino,96,Acción,Primavera,5,7360,Smart TV,Español,31,6752,3.46
+53,Masculino,110,Acción,Verano,4,1519,Móvil,Inglés,71,7295,2.23
+52,Femenino,149,Drama,Primavera,1,159,Smart TV,Inglés,58,5815,3.5
+29,Masculino,103,Drama,Verano,5,2624,Computadora,Inglés,65,2072,3.11
+24,Masculino,101,Drama,Verano,5,3897,Smart TV,Inglés,98,4225,2.7
+46,Femenino,159,Comedia,Primavera,11,1678,Computadora,Inglés,126,2316,1.52
+28,Masculino,158,Acción,Primavera,1,7301,Computadora,Inglés,140,6699,4.55
+50,Masculino,135,Comedia,Primavera,12,807,Computadora,Español,78,7807,2.8
+23,Femenino,81,Drama,Primavera,12,8265,Computadora,Español,85,7674,1.78
+64,Masculino,109,Comedia,Primavera,3,5377,Smart TV,Inglés,94,4683,2.47
+32,Femenino,142,Drama,Primavera,6,1880,Móvil,Español,90,8227,2.66
+49,Masculino,145,Comedia,Verano,0,2513,Móvil,Inglés,92,4273,4.31
+28,Masculino,159,Comedia,Primavera,0,7850,Computadora,Español,164,8000,3.93
+40,Femenino,142,Drama,Primavera,10,2261,Smart TV,Inglés,108,1145,4.08
+43,Femenino,79,Comedia,Primavera,11,8900,Móvil,Inglés,68,6010,1.04
+51,Masculino,165,Acción,Primavera,10,408,Smart TV,Español,104,4040,2.66
+63,Femenino,167,Comedia,Verano,5,5539,Móvil,Inglés,79,1482,2.93
+51,Femenino,117,Comedia,Primavera,6,4407,Computadora,Español,102,4179,1.08
+46,Masculino,89,Acción,Primavera,11,2464,Computadora,Inglés,69,2249,2.04
+21,Masculino,108,Drama,Primavera,4,284,Computadora,Inglés,75,1630,4.04
+34,Masculino,129,Acción,Verano,11,5424,Móvil,Español,103,9853,1.55
+52,Femenino,135,Comedia,Primavera,9,5583,Smart TV,Inglés,62,3852,3.14
+30,Femenino,134,Drama,Primavera,7,345,Computadora,Español,125,1987,1.86
+58,Femenino,120,Comedia,Primavera,10,8530,Smart TV,Español,127,8622,1.05
+56,Femenino,105,Comedia,Primavera,3,8283,Smart TV,Español,106,8327,1.96
+32,Masculino,93,Acción,Primavera,2,6024,Computadora,Español,51,9841,4.9
+46,Femenino,96,Acción,Primavera,6,619,Móvil,Español,59,2100,4.21
+46,Masculino,71,Drama,Primavera,3,4007,Computadora,Inglés,67,7652,4.84
+28,Femenino,100,Drama,Verano,0,376,Computadora,Inglés,77,9632,2.95
+49,Masculino,126,Drama,Primavera,10,5201,Móvil,Español,93,8421,1.44
+19,Masculino,147,Comedia,Primavera,7,8897,Smart TV,Inglés,153,6016,3.19
+64,Masculino,135,Acción,Primavera,4,4673,Móvil,Español,98,1769,2.82
+31,Femenino,98,Acción,Primavera,12,4703,Móvil,Inglés,69,2343,4.38
+37,Masculino,84,Acción,Primavera,7,4153,Computadora,Español,28,5358,1.39
+39,Masculino,81,Drama,Primavera,7,6912,Móvil,Inglés,28,7780,2.95
+28,Femenino,170,Acción,Primavera,11,6173,Móvil,Español,52,7602,1.6
+44,Masculino,97,Acción,Verano,4,241,Móvil,Inglés,99,3349,2.3
+20,Femenino,153,Acción,Primavera,7,1817,Smart TV,Español,95,6699,3.95
+34,Femenino,172,Drama,Verano,6,7413,Smart TV,Español,116,2241,2.9
+61,Masculino,93,Acción,Verano,12,5814,Computadora,Inglés,90,2125,2.5
+45,Masculino,90,Drama,Verano,2,499,Computadora,Español,70,7764,2.58
+46,Femenino,79,Acción,Primavera,3,4863,Smart TV,Español,62,6101,2.84
+38,Masculino,179,Acción,Verano,10,9814,Móvil,Inglés,96,8843,4.14
+64,Femenino,147,Acción,Verano,11,9626,Computadora,Inglés,142,1072,4.57
+33,Femenino,170,Drama,Primavera,12,6355,Computadora,Español,73,6472,4.82
+54,Femenino,87,Drama,Verano,6,338,Móvil,Español,29,6189,4.15
+37,Masculino,157,Acción,Primavera,3,3315,Móvil,Español,71,3472,2.26
+23,Femenino,83,Comedia,Primavera,5,7641,Móvil,Español,42,1707,3.75
+36,Masculino,103,Drama,Verano,11,3747,Móvil,Inglés,54,2804,2.75
+22,Masculino,127,Drama,Primavera,1,5508,Móvil,Español,106,7704,2.02
+20,Masculino,145,Acción,Primavera,11,9908,Smart TV,Español,68,4713,4.36
+18,Masculino,91,Comedia,Verano,1,6440,Móvil,Inglés,76,6051,1.15
+55,Femenino,139,Acción,Verano,2,2529,Computadora,Inglés,51,3475,4.61
+32,Masculino,105,Drama,Primavera,9,3752,Smart TV,Español,43,4610,2.85
+51,Femenino,114,Drama,Primavera,6,6407,Computadora,Inglés,80,5255,3.55
+52,Femenino,105,Acción,Primavera,2,9564,Móvil,Inglés,108,8397,3.64
+42,Masculino,91,Acción,Verano,11,5240,Computadora,Inglés,89,2735,4.58
+41,Femenino,147,Comedia,Verano,2,2978,Móvil,Español,158,9258,3.55
+29,Femenino,149,Comedia,Verano,12,1635,Computadora,Español,122,8979,3.46
+35,Masculino,130,Drama,Verano,3,8827,Computadora,Español,109,3428,1.27
+32,Femenino,169,Comedia,Primavera,9,6354,Móvil,Inglés,135,8426,3.07
+61,Femenino,125,Comedia,Primavera,5,1048,Computadora,Español,99,9533,1.6
+33,Femenino,158,Drama,Primavera,0,4041,Smart TV,Español,65,6249,3.95
+44,Femenino,165,Drama,Primavera,5,9313,Computadora,Español,121,6291,3.05
+25,Masculino,102,Drama,Primavera,7,6703,Smart TV,Inglés,62,3817,3.72
+63,Femenino,114,Drama,Verano,11,8725,Smart TV,Español,74,4874,1.17
+42,Femenino,105,Acción,Primavera,7,1503,Computadora,Español,75,5211,1.34
+34,Femenino,89,Drama,Primavera,5,7919,Smart TV,Español,35,1661,3.87
+46,Femenino,87,Drama,Primavera,5,3611,Smart TV,Español,51,4374,1.29
+25,Masculino,107,Drama,Primavera,12,3035,Computadora,Inglés,37,1207,1.29
+32,Femenino,136,Comedia,Primavera,2,4978,Móvil,Español,147,3665,1.05
+44,Masculino,92,Drama,Primavera,1,7606,Móvil,Español,36,3493,4.83
+63,Femenino,165,Acción,Verano,6,7691,Smart TV,Inglés,83,7813,3.95
+24,Masculino,178,Acción,Primavera,7,5160,Smart TV,Inglés,180,1632,2.41
+20,Masculino,85,Drama,Primavera,9,3433,Móvil,Inglés,58,4083,2.19
+46,Masculino,128,Acción,Primavera,12,1702,Smart TV,Inglés,52,4719,2.4
+61,Masculino,138,Comedia,Primavera,5,8520,Móvil,Inglés,83,8123,4.1
+41,Masculino,137,Drama,Verano,4,2296,Computadora,Español,53,2679,3.65
+20,Femenino,90,Acción,Primavera,3,210,Smart TV,Inglés,41,1236,1.74
+37,Femenino,173,Acción,Verano,0,9536,Computadora,Inglés,59,8446,1.7
+63,Femenino,147,Drama,Primavera,8,6123,Móvil,Inglés,95,5443,1.39
+32,Masculino,172,Acción,Verano,10,4259,Móvil,Español,162,7770,3.64
+42,Femenino,164,Drama,Verano,9,3967,Computadora,Español,126,7099,4.06
+47,Masculino,147,Acción,Primavera,3,9669,Smart TV,Español,115,9555,2.06
+31,Masculino,139,Comedia,Primavera,1,7741,Computadora,Inglés,64,3368,1.08
+24,Femenino,81,Acción,Primavera,3,5104,Computadora,Español,46,1285,1.33
+34,Femenino,85,Acción,Primavera,12,8304,Smart TV,Inglés,82,1148,4.87
+61,Masculino,150,Drama,Primavera,10,7177,Móvil,Inglés,55,5037,2.18
+37,Masculino,178,Acción,Primavera,4,3361,Computadora,Español,175,7549,4.08
+53,Femenino,156,Drama,Verano,1,762,Computadora,Español,107,8121,3.5
+26,Femenino,83,Comedia,Verano,6,8985,Móvil,Español,80,5895,2.53
+55,Femenino,130,Drama,Primavera,2,3490,Computadora,Inglés,72,6280,1.82
+39,Femenino,140,Drama,Primavera,7,9473,Móvil,Español,79,2012,1.49
+19,Masculino,115,Acción,Primavera,3,3118,Smart TV,Español,103,3785,3.46
+41,Femenino,101,Comedia,Verano,11,9796,Móvil,Español,93,4725,4.1
+25,Femenino,84,Drama,Primavera,10,2002,Móvil,Español,40,5576,3.58
+28,Femenino,113,Acción,Primavera,4,4271,Computadora,Español,121,6782,3.12
+30,Masculino,86,Acción,Primavera,2,428,Móvil,Inglés,31,7257,1.17
+34,Masculino,110,Drama,Primavera,12,9731,Móvil,Inglés,39,3408,4.87
+25,Masculino,123,Acción,Verano,10,6395,Computadora,Español,95,1340,4.19
+38,Masculino,113,Drama,Primavera,4,3946,Móvil,Inglés,99,3817,2.17
+35,Femenino,167,Drama,Primavera,8,324,Computadora,Inglés,178,3496,4.92
+47,Masculino,74,Drama,Primavera,10,2620,Smart TV,Inglés,46,6962,3.41
+35,Femenino,178,Comedia,Verano,12,8164,Móvil,Español,57,6299,3.33
+63,Femenino,96,Drama,Verano,1,3814,Smart TV,Inglés,75,8574,3.99
+64,Femenino,156,Acción,Primavera,6,2507,Móvil,Español,82,2689,4.25
+48,Femenino,173,Comedia,Primavera,9,6783,Móvil,Inglés,111,4267,3.63
+55,Masculino,147,Acción,Primavera,7,910,Smart TV,Español,101,5406,1.51
+49,Masculino,148,Comedia,Verano,2,6852,Smart TV,Inglés,52,9453,2.35
+28,Masculino,112,Comedia,Primavera,10,3217,Computadora,Inglés,77,2442,4.71
+62,Femenino,166,Comedia,Verano,3,4873,Computadora,Español,106,9597,1.9
+42,Femenino,100,Comedia,Primavera,12,3390,Smart TV,Español,87,5437,2.49
+50,Femenino,168,Acción,Primavera,10,2351,Móvil,Inglés,137,6435,2.73
+55,Femenino,86,Drama,Primavera,9,4761,Computadora,Español,38,9435,2.76
+58,Femenino,161,Acción,Primavera,1,4706,Móvil,Español,74,5107,3.45
+25,Masculino,152,Drama,Primavera,9,9215,Computadora,Español,76,1560,4.77
+28,Femenino,179,Acción,Verano,12,6521,Computadora,Español,79,9785,1.96
+39,Masculino,123,Comedia,Primavera,8,3152,Computadora,Inglés,101,6548,1.49
+41,Femenino,131,Comedia,Primavera,2,8307,Smart TV,Español,143,2826,1.79
+58,Femenino,156,Drama,Verano,8,4551,Móvil,Inglés,128,8629,4.55
+34,Masculino,101,Drama,Primavera,12,5025,Smart TV,Inglés,79,9325,3.58
+29,Masculino,109,Acción,Primavera,6,2746,Computadora,Español,68,4138,2.14
+63,Femenino,82,Drama,Primavera,5,9393,Smart TV,Español,45,8693,4.26
+49,Femenino,153,Acción,Verano,10,9382,Smart TV,Español,157,9264,4.45
+32,Femenino,104,Drama,Verano,11,3006,Smart TV,Español,111,8842,4.39
+33,Femenino,74,Drama,Primavera,10,1846,Móvil,Inglés,51,7721,4.68
+39,Masculino,142,Drama,Primavera,2,4409,Smart TV,Inglés,75,8002,2.01
+45,Femenino,98,Comedia,Primavera,10,548,Smart TV,Español,89,5225,4.02
+37,Masculino,139,Comedia,Primavera,6,3112,Smart TV,Inglés,56,3978,2.84
+50,Femenino,94,Acción,Primavera,10,1668,Smart TV,Español,85,8373,4.37
+27,Masculino,164,Drama,Primavera,2,3591,Smart TV,Inglés,156,6907,3.91
+57,Masculino,91,Acción,Verano,12,7410,Smart TV,Inglés,36,7097,4.11
+49,Femenino,135,Drama,Primavera,10,6983,Smart TV,Inglés,146,6656,3.62
+50,Masculino,114,Comedia,Primavera,5,6084,Computadora,Español,124,9984,1.71
+19,Femenino,138,Comedia,Verano,7,9339,Smart TV,Español,144,5259,3.18
+50,Masculino,160,Drama,Primavera,4,7188,Smart TV,Inglés,111,9286,4.94
+50,Femenino,158,Drama,Primavera,10,4868,Móvil,Español,78,6901,4.75
+58,Masculino,141,Comedia,Primavera,10,1164,Computadora,Español,107,5917,1.17
+30,Femenino,70,Comedia,Primavera,12,3921,Smart TV,Inglés,44,9429,1.66
+47,Femenino,153,Acción,Primavera,2,8859,Móvil,Español,71,3530,1.53
+50,Masculino,113,Comedia,Primavera,5,1536,Smart TV,Español,72,2960,3.9
+30,Masculino,156,Drama,Verano,7,6197,Smart TV,Inglés,129,8045,4.27
+43,Masculino,165,Acción,Primavera,9,2583,Smart TV,Inglés,58,2048,1.85
+39,Masculino,144,Drama,Verano,2,7819,Smart TV,Inglés,81,6772,3.02
+56,Femenino,108,Acción,Primavera,11,4900,Smart TV,Inglés,33,3529,4.36
+19,Masculino,123,Drama,Primavera,12,6482,Móvil,Español,110,3964,3.93
+55,Femenino,157,Comedia,Primavera,10,4929,Smart TV,Español,127,8137,3.17
+56,Masculino,144,Drama,Primavera,10,6253,Móvil,Inglés,50,1963,3.36
+43,Femenino,98,Acción,Verano,4,2894,Smart TV,Inglés,105,1536,3.03
+63,Femenino,123,Drama,Verano,8,7712,Móvil,Español,39,8340,2.19
+32,Femenino,159,Acción,Primavera,9,1197,Computadora,Español,122,8179,3.26
+51,Femenino,85,Drama,Verano,9,1738,Smart TV,Español,78,8967,3.76
+59,Masculino,168,Comedia,Primavera,2,9950,Computadora,Inglés,156,9734,4.49
+61,Masculino,89,Comedia,Primavera,12,9417,Computadora,Inglés,29,1845,3.55
+57,Femenino,115,Drama,Primavera,11,8555,Computadora,Inglés,117,6777,4.04
+28,Masculino,136,Drama,Verano,10,260,Smart TV,Inglés,140,4036,1.64
+20,Masculino,134,Drama,Primavera,1,9548,Computadora,Español,100,6947,2.85
+23,Femenino,127,Acción,Primavera,10,6006,Móvil,Inglés,87,3494,1.04
+26,Masculino,122,Drama,Verano,12,8602,Smart TV,Inglés,40,3719,1.99
+23,Masculino,70,Drama,Primavera,7,8518,Computadora,Español,52,2884,3.91
+26,Masculino,150,Acción,Verano,6,8564,Smart TV,Inglés,94,5349,4.97
+56,Femenino,135,Comedia,Verano,11,7181,Computadora,Español,123,6179,1.4
+48,Masculino,98,Drama,Verano,8,4512,Móvil,Inglés,61,7610,2.61
+49,Femenino,153,Drama,Primavera,3,3257,Smart TV,Español,129,7430,4.2
+58,Masculino,139,Comedia,Primavera,2,2438,Smart TV,Español,52,8154,1.82
+29,Masculino,77,Comedia,Primavera,9,5688,Computadora,Español,31,7488,3.22
+25,Masculino,98,Acción,Primavera,4,1701,Móvil,Inglés,40,5737,3.93
+25,Femenino,120,Drama,Primavera,10,5988,Smart TV,Inglés,40,7525,3.46
+45,Femenino,102,Drama,Primavera,0,3818,Computadora,Inglés,74,4850,1.75
+37,Masculino,72,Acción,Primavera,4,5646,Móvil,Inglés,67,1689,2.42
+64,Femenino,129,Comedia,Primavera,12,2025,Móvil,Inglés,101,6175,4.14
+24,Masculino,104,Acción,Primavera,12,8858,Móvil,Inglés,79,9648,3.22
+28,Femenino,138,Comedia,Primavera,2,3015,Móvil,Español,116,6078,1.02
+37,Femenino,160,Acción,Verano,0,6998,Smart TV,Inglés,91,6448,4.04
+33,Masculino,177,Comedia,Primavera,2,8543,Smart TV,Inglés,104,2179,1.14
+21,Masculino,145,Acción,Primavera,4,5752,Móvil,Español,79,7406,3.98
+23,Masculino,153,Comedia,Primavera,4,3601,Computadora,Español,133,9591,1.81
+39,Masculino,178,Comedia,Primavera,9,7374,Computadora,Inglés,76,7907,4.83
+43,Femenino,89,Comedia,Primavera,11,1702,Móvil,Español,27,9800,2.47
+20,Femenino,142,Comedia,Primavera,7,7459,Móvil,Inglés,110,2638,2.31
+58,Femenino,108,Comedia,Verano,10,613,Computadora,Español,113,6671,1.6
+59,Masculino,73,Drama,Verano,0,8733,Móvil,Inglés,57,7928,2.22
+31,Masculino,88,Comedia,Primavera,6,8292,Móvil,Español,81,2382,4.51
+28,Femenino,171,Drama,Verano,4,6601,Smart TV,Español,143,2403,4.99
+35,Masculino,160,Comedia,Verano,2,1002,Smart TV,Inglés,111,4292,2.47
+29,Femenino,114,Drama,Primavera,3,5819,Móvil,Inglés,99,1419,2.79
+40,Femenino,112,Drama,Primavera,2,9512,Móvil,Español,107,5517,3.89
+29,Femenino,82,Acción,Verano,7,8248,Smart TV,Español,39,4302,4.54
+30,Femenino,82,Comedia,Primavera,3,2421,Móvil,Español,46,8857,3.37
+42,Femenino,129,Acción,Primavera,2,955,Smart TV,Español,61,8870,2.57
+62,Masculino,126,Acción,Primavera,1,1117,Smart TV,Inglés,83,6693,2.65
+36,Masculino,155,Comedia,Verano,2,5379,Computadora,Español,156,1767,3.78
+63,Masculino,161,Acción,Primavera,6,7812,Smart TV,Español,92,3044,1.01
+53,Femenino,121,Comedia,Primavera,5,4780,Computadora,Inglés,72,2549,3.48
+62,Femenino,122,Acción,Primavera,9,7172,Computadora,Inglés,120,7140,2.42
+25,Femenino,178,Comedia,Verano,11,6724,Smart TV,Inglés,126,4716,4.18
+46,Femenino,155,Comedia,Verano,12,295,Móvil,Inglés,112,5481,1.37
+49,Masculino,112,Comedia,Verano,4,4794,Smart TV,Inglés,110,8898,3.35
+61,Masculino,152,Drama,Primavera,7,9624,Computadora,Inglés,105,7548,2.92
+35,Femenino,141,Acción,Primavera,10,4751,Smart TV,Español,119,3293,3.57
+23,Femenino,141,Drama,Primavera,0,7091,Smart TV,Español,51,5837,1.26
+35,Femenino,111,Acción,Verano,2,9809,Computadora,Español,49,8758,3.32
+36,Masculino,159,Acción,Primavera,1,2797,Smart TV,Inglés,99,7793,3.25
+39,Masculino,95,Acción,Primavera,1,1157,Smart TV,Inglés,66,8638,3.24
+54,Masculino,92,Drama,Verano,11,5307,Computadora,Español,98,8993,3.41
+49,Femenino,112,Acción,Primavera,10,2892,Móvil,Español,120,7007,3.71
+58,Femenino,146,Drama,Primavera,11,520,Computadora,Inglés,143,6542,4.22
+20,Masculino,97,Comedia,Verano,0,2914,Computadora,Inglés,53,7356,2.08
+45,Femenino,78,Acción,Primavera,4,2940,Smart TV,Español,83,9433,4.3
+27,Masculino,89,Acción,Primavera,4,1131,Computadora,Español,75,8380,2.99
+52,Femenino,125,Comedia,Verano,2,7739,Smart TV,Español,76,3385,1.31
+46,Masculino,152,Comedia,Primavera,11,1591,Smart TV,Español,130,5268,1.23
+32,Femenino,108,Acción,Primavera,11,5075,Smart TV,Español,33,1671,2.34
+50,Masculino,120,Comedia,Primavera,8,5047,Computadora,Inglés,50,1163,4.14
+24,Masculino,81,Drama,Primavera,11,609,Computadora,Español,78,9656,3.83
+29,Masculino,148,Drama,Verano,5,1959,Smart TV,Español,120,5592,4.15
+47,Masculino,164,Acción,Primavera,9,5161,Móvil,Inglés,96,5795,3.07
+38,Masculino,124,Drama,Primavera,5,1958,Móvil,Español,86,5798,2.76
+48,Masculino,147,Drama,Primavera,9,9205,Computadora,Inglés,150,7036,1.59
+41,Femenino,80,Acción,Verano,5,5707,Smart TV,Inglés,64,3355,2.31
+37,Femenino,95,Comedia,Verano,1,2165,Smart TV,Español,58,6887,2.74
+54,Femenino,111,Acción,Primavera,10,3066,Computadora,Español,43,8961,1.35
+21,Masculino,96,Drama,Primavera,9,6873,Móvil,Inglés,51,6827,1.88
+45,Masculino,80,Acción,Primavera,9,7992,Computadora,Inglés,86,9737,3.39
+61,Femenino,107,Acción,Verano,7,9888,Computadora,Inglés,69,5719,3.94
+37,Masculino,167,Drama,Verano,5,4542,Smart TV,Español,113,1593,4.99
+41,Masculino,112,Drama,Primavera,12,9347,Computadora,Español,78,5839,4.73
+49,Masculino,88,Acción,Verano,2,9315,Móvil,Español,88,8394,3.57
+58,Masculino,133,Drama,Verano,9,3304,Computadora,Español,104,4493,2.68
+53,Masculino,75,Drama,Verano,8,675,Smart TV,Español,64,7164,3.54
+51,Femenino,115,Drama,Primavera,1,298,Móvil,Inglés,70,3672,4.14
+53,Femenino,171,Drama,Verano,6,7523,Smart TV,Español,55,5200,1.47
+19,Femenino,111,Drama,Primavera,2,1465,Computadora,Español,115,1016,2.64
+32,Femenino,161,Drama,Primavera,11,7934,Computadora,Inglés,170,4191,4.36
+51,Femenino,134,Comedia,Primavera,5,2098,Computadora,Español,141,1392,2.54
+53,Masculino,168,Acción,Primavera,4,5450,Smart TV,Español,177,9616,3.29
+23,Masculino,173,Drama,Primavera,12,6544,Computadora,Español,164,7272,3.35
+56,Masculino,141,Acción,Primavera,5,1116,Móvil,Inglés,119,1571,1.74
+59,Masculino,128,Comedia,Primavera,7,3718,Móvil,Inglés,124,4631,2.45
+29,Femenino,121,Drama,Primavera,2,125,Smart TV,Español,94,7172,2.34
+20,Femenino,116,Acción,Primavera,1,9850,Smart TV,Español,47,8177,1.1
+62,Femenino,76,Drama,Verano,7,3824,Smart TV,Español,46,9433,1.1
+35,Masculino,80,Drama,Verano,0,3558,Computadora,Inglés,86,4897,4.33
+57,Femenino,172,Drama,Primavera,1,6693,Móvil,Inglés,99,9123,2.09
+38,Masculino,130,Drama,Verano,9,8762,Móvil,Español,129,3279,3.07
+32,Femenino,137,Drama,Primavera,0,7380,Móvil,Español,51,9980,2.19
+50,Femenino,94,Drama,Primavera,4,8169,Smart TV,Español,53,8451,4.76
+52,Masculino,81,Drama,Verano,7,4846,Smart TV,Español,47,9906,2.04
+43,Masculino,95,Comedia,Verano,1,7689,Computadora,Inglés,32,1775,2.72
+25,Femenino,171,Comedia,Primavera,3,9177,Smart TV,Inglés,67,7869,4.49
+53,Femenino,179,Drama,Verano,3,7078,Móvil,Español,81,3247,4.37
+47,Masculino,81,Drama,Verano,10,9167,Computadora,Inglés,78,8088,1.74
+40,Femenino,112,Comedia,Primavera,10,9233,Smart TV,Inglés,39,1078,4.21
+59,Femenino,120,Comedia,Verano,6,3141,Smart TV,Español,64,9080,2.83
+61,Masculino,106,Comedia,Verano,0,7865,Móvil,Español,32,8099,2.93
+31,Femenino,115,Drama,Verano,8,5504,Computadora,Español,98,4926,1.53
+31,Masculino,122,Acción,Verano,2,671,Smart TV,Español,97,8340,1.32
+19,Femenino,157,Acción,Primavera,5,8896,Smart TV,Inglés,128,8083,3.91
+54,Masculino,149,Acción,Primavera,9,5080,Computadora,Español,89,7230,2.99
+22,Femenino,82,Acción,Primavera,4,8673,Computadora,Español,38,5940,2.75
+55,Masculino,158,Drama,Verano,3,1336,Smart TV,Español,138,4271,3.92
+62,Femenino,123,Acción,Verano,8,2480,Smart TV,Español,116,4456,4.06
+58,Masculino,126,Comedia,Primavera,10,7277,Móvil,Inglés,51,8788,1.64
+64,Femenino,73,Comedia,Verano,11,1617,Computadora,Español,50,9599,3.44
+31,Femenino,144,Acción,Primavera,8,1633,Smart TV,Español,71,8650,1.54
+56,Femenino,165,Comedia,Primavera,0,5987,Smart TV,Inglés,71,3711,4.01
+42,Femenino,118,Drama,Primavera,6,7959,Smart TV,Español,104,2668,3.63
+37,Femenino,76,Acción,Primavera,9,3589,Smart TV,Español,55,1147,4.83
+19,Femenino,179,Acción,Primavera,8,4742,Móvil,Español,84,7420,1.28
+56,Femenino,80,Drama,Primavera,4,9162,Computadora,Inglés,43,1365,1.23
+23,Femenino,161,Comedia,Primavera,0,2250,Smart TV,Español,172,5531,2.13
+34,Femenino,123,Drama,Primavera,7,5419,Computadora,Español,120,6330,2.05
+42,Masculino,174,Drama,Verano,4,3866,Computadora,Español,174,6510,1.99
+45,Masculino,156,Comedia,Primavera,5,5060,Smart TV,Inglés,104,9754,4.63
+19,Femenino,114,Drama,Primavera,6,6161,Smart TV,Español,91,9964,2.0
+52,Masculino,92,Comedia,Verano,9,5957,Smart TV,Español,55,7493,2.09
+54,Femenino,97,Comedia,Verano,6,4587,Móvil,Español,35,6439,4.04
+22,Femenino,176,Drama,Primavera,12,7850,Smart TV,Inglés,109,7511,2.8
+18,Masculino,126,Comedia,Primavera,11,9904,Computadora,Inglés,97,8504,4.11
+57,Femenino,95,Drama,Primavera,6,1177,Computadora,Español,50,2246,1.26
+29,Femenino,94,Comedia,Primavera,0,1400,Móvil,Español,91,4839,2.95
+53,Masculino,123,Acción,Primavera,6,6749,Smart TV,Inglés,51,9551,1.13
+62,Masculino,98,Comedia,Primavera,10,7281,Smart TV,Español,58,3376,1.25
+40,Femenino,152,Comedia,Verano,2,8238,Móvil,Inglés,60,4009,4.63
+64,Masculino,166,Drama,Primavera,4,2629,Móvil,Inglés,103,2827,1.56
+48,Masculino,105,Comedia,Primavera,9,3360,Smart TV,Inglés,34,7979,3.13
+28,Femenino,83,Acción,Verano,4,463,Smart TV,Español,42,9569,2.64
+27,Masculino,147,Acción,Primavera,7,945,Computadora,Inglés,91,5285,2.39
+20,Masculino,104,Comedia,Primavera,6,3132,Smart TV,Inglés,70,7910,4.6
+31,Femenino,99,Comedia,Verano,6,1427,Smart TV,Español,72,9561,1.09
+33,Masculino,161,Acción,Verano,5,8683,Computadora,Español,83,3196,3.66
+27,Masculino,86,Drama,Primavera,6,3355,Computadora,Español,61,4747,4.85
+46,Femenino,136,Acción,Primavera,6,5236,Computadora,Inglés,96,9843,3.24
+27,Femenino,149,Acción,Primavera,4,7208,Computadora,Inglés,82,6978,4.75
+29,Femenino,179,Comedia,Primavera,4,3337,Móvil,Español,172,6607,1.21
+47,Masculino,99,Comedia,Verano,3,9597,Computadora,Inglés,72,1769,2.68
+58,Femenino,162,Acción,Primavera,3,5768,Móvil,Español,91,1780,2.04
+18,Femenino,114,Drama,Primavera,4,6412,Computadora,Español,120,7303,3.92
+22,Masculino,148,Acción,Primavera,9,9056,Computadora,Español,144,4983,4.93
+37,Femenino,179,Acción,Primavera,8,5565,Computadora,Español,194,9714,2.03
+25,Femenino,158,Drama,Primavera,10,598,Smart TV,Español,134,1521,3.62
+60,Femenino,120,Acción,Primavera,11,6162,Móvil,Inglés,72,8569,1.79
+29,Femenino,171,Acción,Primavera,5,3044,Computadora,Inglés,89,6784,3.26
+18,Masculino,175,Comedia,Primavera,7,8052,Smart TV,Español,145,5583,2.86
+37,Femenino,116,Drama,Primavera,8,5956,Móvil,Inglés,125,6946,4.89
+45,Femenino,122,Comedia,Verano,11,7938,Móvil,Inglés,97,5941,3.43
+60,Masculino,133,Comedia,Verano,3,6177,Smart TV,Español,133,7267,2.4
+54,Femenino,107,Drama,Verano,11,235,Móvil,Inglés,60,8128,1.46
+64,Masculino,133,Drama,Primavera,12,9392,Smart TV,Inglés,83,3461,1.6
+54,Masculino,156,Acción,Primavera,6,4133,Computadora,Español,159,1685,1.9
+29,Masculino,158,Comedia,Primavera,4,6800,Smart TV,Inglés,143,3160,2.0
+54,Femenino,175,Drama,Primavera,3,4213,Móvil,Inglés,189,8031,4.4
+61,Masculino,76,Comedia,Primavera,11,6646,Móvil,Inglés,69,6341,3.24
+45,Masculino,91,Comedia,Primavera,6,8496,Computadora,Inglés,59,1038,3.09
+64,Masculino,150,Drama,Verano,2,4694,Smart TV,Inglés,108,5875,1.46
+32,Femenino,151,Acción,Verano,0,661,Computadora,Español,154,2256,4.44
+23,Femenino,110,Comedia,Primavera,6,5500,Smart TV,Español,81,8697,3.89
+61,Femenino,143,Drama,Verano,8,7433,Smart TV,Español,72,3196,1.27
+37,Femenino,79,Acción,Primavera,1,3414,Smart TV,Español,51,8165,3.83
+31,Femenino,126,Comedia,Primavera,6,4060,Computadora,Español,89,1301,3.17
+19,Femenino,76,Drama,Verano,9,2311,Computadora,Inglés,28,8527,1.33
+26,Femenino,119,Comedia,Verano,1,2471,Móvil,Inglés,106,7381,2.83
+54,Masculino,171,Drama,Verano,12,7074,Computadora,Español,66,1646,2.94
+37,Masculino,160,Drama,Verano,12,2781,Smart TV,Español,99,9789,1.66
+43,Masculino,121,Comedia,Primavera,2,2906,Smart TV,Español,114,9853,4.78
+46,Masculino,102,Comedia,Verano,12,2355,Smart TV,Inglés,68,5330,4.4
+18,Femenino,70,Drama,Verano,9,9192,Computadora,Inglés,68,8003,3.68
+52,Masculino,177,Acción,Primavera,11,6482,Móvil,Inglés,101,4537,2.85
+23,Masculino,122,Comedia,Verano,9,4999,Computadora,Inglés,130,5558,2.65
+54,Masculino,129,Drama,Verano,2,3259,Móvil,Inglés,60,7579,3.6
+22,Masculino,103,Drama,Primavera,11,5756,Computadora,Inglés,34,9474,3.18
+50,Femenino,73,Acción,Primavera,12,1552,Smart TV,Español,72,5082,1.25
+31,Femenino,86,Acción,Primavera,3,9535,Móvil,Inglés,77,5183,3.05
+29,Femenino,73,Acción,Verano,5,2422,Computadora,Español,35,9652,4.23
+59,Masculino,112,Comedia,Verano,2,9962,Smart TV,Español,121,4754,2.84
+37,Femenino,159,Drama,Verano,12,7197,Móvil,Inglés,111,2724,1.21
+41,Masculino,73,Drama,Verano,8,1868,Móvil,Inglés,77,2376,4.15
+60,Femenino,70,Drama,Verano,1,6196,Smart TV,Inglés,49,9706,1.81
+51,Femenino,140,Acción,Verano,6,5285,Smart TV,Inglés,94,9894,2.03
+42,Femenino,163,Drama,Primavera,5,1269,Computadora,Inglés,107,2653,1.66
+46,Femenino,119,Comedia,Verano,1,4810,Computadora,Inglés,67,3066,2.32
+56,Femenino,142,Acción,Verano,10,6690,Smart TV,Inglés,103,1022,4.03
+48,Masculino,130,Acción,Verano,2,486,Computadora,Inglés,86,3460,3.08
+64,Femenino,104,Acción,Primavera,5,2530,Smart TV,Español,34,6926,1.82
+60,Masculino,77,Acción,Verano,9,1505,Smart TV,Español,39,7251,4.51
+40,Masculino,93,Comedia,Primavera,3,223,Computadora,Inglés,43,8295,4.52
+61,Masculino,152,Drama,Primavera,0,4097,Computadora,Español,151,4300,4.48
+55,Masculino,105,Comedia,Verano,0,6009,Móvil,Inglés,81,7279,1.96
+37,Masculino,119,Drama,Primavera,2,3996,Móvil,Español,108,9553,2.8
+40,Femenino,112,Comedia,Primavera,7,9916,Computadora,Español,119,8353,4.94
+62,Femenino,96,Acción,Primavera,10,8166,Computadora,Inglés,78,4727,4.09
+33,Femenino,101,Acción,Primavera,3,9473,Computadora,Inglés,109,7272,1.11
+59,Femenino,147,Comedia,Primavera,10,827,Móvil,Inglés,80,6995,1.26
+25,Masculino,87,Comedia,Verano,0,7139,Computadora,Español,39,1514,2.86
+38,Femenino,97,Drama,Verano,7,7815,Móvil,Español,60,1448,4.64
+18,Femenino,98,Comedia,Primavera,9,3770,Móvil,Inglés,66,7019,3.15
+25,Masculino,85,Comedia,Primavera,5,1241,Móvil,Español,86,6343,2.99
+46,Masculino,168,Drama,Verano,0,4131,Móvil,Inglés,125,9033,1.42
+49,Femenino,116,Drama,Primavera,11,8650,Smart TV,Español,61,3520,3.63
+55,Femenino,128,Drama,Primavera,9,3842,Computadora,Inglés,114,4081,4.29
+22,Masculino,100,Comedia,Primavera,9,2944,Computadora,Español,70,2428,2.52
+64,Femenino,73,Drama,Primavera,5,2311,Smart TV,Inglés,31,4967,4.1
+39,Femenino,106,Acción,Verano,0,1072,Computadora,Inglés,80,7445,4.86
+64,Femenino,86,Acción,Verano,9,460,Móvil,Inglés,88,3159,1.82
+51,Femenino,108,Acción,Primavera,9,2732,Smart TV,Español,105,6132,3.09
+18,Masculino,117,Comedia,Verano,2,3290,Móvil,Inglés,90,3547,2.15
+43,Masculino,115,Acción,Verano,1,5048,Smart TV,Español,69,3979,4.17
+60,Masculino,159,Comedia,Primavera,3,1724,Móvil,Inglés,58,3649,3.31
+27,Femenino,117,Comedia,Verano,1,1856,Computadora,Inglés,79,9505,3.54
+47,Femenino,108,Acción,Primavera,10,7918,Computadora,Inglés,97,4083,4.19
+35,Femenino,174,Drama,Primavera,12,5219,Computadora,Español,102,2037,2.58
+34,Femenino,73,Comedia,Primavera,4,6126,Smart TV,Español,35,4489,4.66
+43,Femenino,99,Acción,Primavera,3,8532,Computadora,Español,103,8604,3.13
+25,Masculino,99,Comedia,Verano,5,7075,Smart TV,Inglés,94,8544,1.63
+64,Femenino,91,Drama,Primavera,6,1075,Móvil,Español,73,3634,3.78
+57,Femenino,144,Drama,Primavera,11,4418,Computadora,Inglés,58,4983,4.17
+29,Masculino,135,Acción,Primavera,1,6023,Móvil,Inglés,56,2778,2.27
+44,Femenino,177,Comedia,Verano,1,2413,Computadora,Inglés,67,8902,4.43
+25,Masculino,81,Comedia,Verano,7,9597,Móvil,Inglés,64,6110,4.62
+42,Masculino,163,Comedia,Verano,12,887,Smart TV,Inglés,63,6189,2.11
+63,Masculino,105,Comedia,Primavera,12,2528,Computadora,Español,102,8378,4.93
+21,Masculino,87,Acción,Verano,8,8847,Smart TV,Español,95,2124,1.56
+50,Masculino,159,Drama,Verano,4,6764,Smart TV,Inglés,94,1697,1.81
+18,Femenino,122,Acción,Primavera,6,9851,Móvil,Inglés,80,3179,1.74
+36,Masculino,140,Comedia,Primavera,12,7583,Computadora,Español,121,6251,4.58
+48,Masculino,70,Comedia,Primavera,11,1463,Smart TV,Inglés,73,2929,3.62
+33,Femenino,127,Drama,Primavera,8,4059,Móvil,Inglés,128,2013,1.61
+31,Femenino,159,Comedia,Primavera,0,8881,Móvil,Inglés,55,1226,2.76
+22,Masculino,156,Acción,Primavera,7,1849,Móvil,Inglés,67,8321,3.46
+58,Femenino,159,Acción,Primavera,9,6771,Computadora,Español,143,2828,1.33
+43,Femenino,178,Drama,Verano,9,640,Computadora,Inglés,151,8909,4.53
+45,Masculino,75,Acción,Primavera,8,7734,Móvil,Español,30,6588,4.21
+19,Masculino,139,Acción,Verano,8,8582,Computadora,Español,97,3023,3.02
+23,Femenino,113,Acción,Primavera,9,4035,Móvil,Español,104,5966,4.87
+26,Masculino,141,Acción,Verano,6,4058,Computadora,Español,66,6891,2.67
+50,Masculino,93,Comedia,Primavera,11,3959,Computadora,Inglés,92,2080,4.94
+58,Femenino,155,Acción,Primavera,11,8150,Móvil,Inglés,53,6036,3.67
+42,Masculino,88,Drama,Primavera,11,9547,Móvil,Inglés,81,3563,3.54
+30,Masculino,170,Drama,Verano,11,5431,Computadora,Español,134,4292,1.66
+26,Masculino,87,Acción,Primavera,9,8299,Móvil,Español,48,4586,4.53
+30,Masculino,164,Drama,Primavera,2,1757,Móvil,Español,143,5431,2.71
+48,Masculino,170,Acción,Primavera,12,6285,Móvil,Inglés,157,7841,1.65
+58,Femenino,99,Drama,Primavera,12,4528,Móvil,Inglés,103,7643,1.05
+28,Femenino,111,Drama,Primavera,4,9548,Computadora,Inglés,65,4959,3.24
+21,Masculino,102,Acción,Verano,12,7337,Smart TV,Español,86,1161,3.11
+51,Femenino,143,Acción,Primavera,1,1139,Computadora,Español,111,1593,3.88
+55,Masculino,170,Comedia,Primavera,10,2216,Móvil,Inglés,122,4390,4.56
+63,Masculino,81,Acción,Primavera,9,8976,Móvil,Español,81,6997,1.32
+21,Masculino,163,Acción,Primavera,2,4118,Computadora,Español,49,7354,3.93
+55,Masculino,96,Comedia,Primavera,9,7646,Móvil,Inglés,50,1663,1.75
+36,Masculino,108,Acción,Primavera,6,1924,Computadora,Español,78,1541,4.43
+23,Femenino,78,Acción,Primavera,0,3634,Smart TV,Español,34,6433,4.28
+51,Femenino,90,Comedia,Verano,2,6770,Móvil,Inglés,92,6093,3.16
+35,Masculino,145,Acción,Primavera,4,8354,Smart TV,Español,118,1867,3.84
+30,Femenino,98,Acción,Primavera,10,8552,Smart TV,Español,66,9623,2.26
+58,Masculino,102,Comedia,Primavera,3,3671,Móvil,Español,97,6469,2.88
+40,Femenino,176,Comedia,Primavera,2,3292,Móvil,Español,116,7256,4.29
+36,Masculino,131,Drama,Verano,5,5053,Computadora,Inglés,97,2169,2.84
+62,Femenino,84,Acción,Primavera,11,9780,Computadora,Inglés,25,1830,2.43
+28,Masculino,71,Drama,Primavera,5,9422,Móvil,Español,42,2651,2.98
+18,Masculino,121,Drama,Primavera,3,4375,Computadora,Inglés,49,2136,4.31
+41,Femenino,172,Comedia,Verano,8,454,Smart TV,Inglés,146,3810,2.34
+24,Femenino,113,Acción,Verano,10,5129,Smart TV,Inglés,77,9667,1.7
+42,Masculino,123,Acción,Primavera,5,2874,Móvil,Español,66,2019,3.85
+38,Femenino,87,Comedia,Primavera,8,688,Computadora,Español,58,6237,4.3
+32,Masculino,72,Drama,Primavera,12,704,Móvil,Inglés,33,2283,1.4
+18,Femenino,76,Comedia,Primavera,10,8465,Smart TV,Inglés,79,1659,1.96
+29,Femenino,112,Acción,Verano,9,453,Móvil,Inglés,38,3010,1.57
+24,Masculino,151,Comedia,Primavera,9,5534,Móvil,Inglés,149,9590,2.39
+32,Femenino,177,Acción,Verano,1,533,Móvil,Español,125,2733,2.8
+38,Femenino,107,Drama,Primavera,5,8550,Móvil,Inglés,85,3125,4.0
+36,Masculino,106,Acción,Primavera,3,967,Smart TV,Español,57,3171,3.6
+46,Femenino,127,Drama,Primavera,1,8887,Móvil,Español,136,9266,3.48
+42,Masculino,102,Drama,Primavera,4,5864,Móvil,Español,53,4471,2.41
+50,Masculino,177,Acción,Primavera,2,493,Computadora,Español,136,6624,4.37
+49,Masculino,128,Acción,Verano,5,3854,Móvil,Español,140,9691,2.89
+52,Masculino,164,Drama,Primavera,10,4470,Computadora,Español,164,9329,4.92
+61,Masculino,80,Comedia,Primavera,7,4621,Móvil,Español,58,3097,3.54
+55,Femenino,137,Acción,Verano,3,7799,Computadora,Inglés,149,6068,1.51
+43,Masculino,151,Drama,Primavera,11,4678,Móvil,Español,130,7397,3.7
+28,Masculino,137,Drama,Primavera,3,8505,Computadora,Inglés,63,3757,2.3
+52,Femenino,167,Comedia,Verano,4,2226,Móvil,Inglés,104,4920,3.75
+25,Femenino,162,Acción,Primavera,5,8430,Móvil,Inglés,91,9186,1.28
+63,Femenino,157,Drama,Primavera,10,4293,Computadora,Inglés,90,2900,1.7
+31,Masculino,91,Comedia,Primavera,6,4060,Móvil,Inglés,82,3610,4.42
+27,Masculino,135,Drama,Primavera,5,763,Móvil,Español,103,7900,1.91
+19,Masculino,113,Acción,Verano,6,2932,Móvil,Español,37,2449,4.35
+63,Femenino,75,Comedia,Primavera,8,9365,Móvil,Inglés,75,9738,2.12
+26,Masculino,111,Drama,Verano,3,4674,Smart TV,Inglés,59,6017,3.57
+20,Femenino,94,Comedia,Primavera,9,6471,Móvil,Inglés,103,8999,3.78
+38,Masculino,126,Acción,Verano,0,7724,Smart TV,Español,133,7052,3.05
+43,Femenino,154,Comedia,Primavera,8,6392,Smart TV,Inglés,162,3096,2.22
+25,Masculino,124,Acción,Primavera,6,5277,Móvil,Español,117,9895,1.85
+19,Masculino,85,Drama,Verano,3,8453,Computadora,Español,40,7404,1.13
+23,Masculino,164,Acción,Verano,9,7106,Computadora,Inglés,119,4331,2.22
+45,Femenino,83,Drama,Verano,7,9792,Móvil,Español,39,8462,3.61
+46,Femenino,108,Drama,Primavera,11,3278,Smart TV,Español,54,6105,4.75
+43,Masculino,97,Acción,Verano,6,5646,Computadora,Español,76,3978,4.48
+42,Masculino,165,Drama,Primavera,11,4590,Móvil,Inglés,54,3839,4.06
+29,Masculino,161,Comedia,Primavera,1,4996,Móvil,Inglés,173,4384,4.15
+22,Femenino,120,Drama,Primavera,0,285,Smart TV,Inglés,124,1685,3.66
+51,Masculino,118,Acción,Verano,8,4753,Computadora,Inglés,71,8531,2.04
+54,Masculino,78,Comedia,Primavera,6,2080,Móvil,Inglés,55,5283,4.63
+32,Masculino,127,Comedia,Primavera,9,4641,Computadora,Inglés,85,8736,3.68
+61,Masculino,114,Drama,Verano,0,7908,Móvil,Inglés,114,8710,3.24
+53,Femenino,91,Drama,Primavera,12,929,Móvil,Inglés,77,2619,1.44
+32,Femenino,101,Acción,Verano,3,3619,Móvil,Español,52,7868,2.79
+60,Masculino,138,Comedia,Verano,4,8108,Smart TV,Inglés,90,2431,2.84
+40,Masculino,156,Acción,Primavera,4,6009,Smart TV,Español,100,5713,4.46
+23,Femenino,138,Drama,Primavera,4,1325,Smart TV,Español,147,5998,3.19
+63,Femenino,111,Comedia,Verano,10,5874,Computadora,Inglés,48,1162,2.52
+61,Masculino,122,Acción,Primavera,2,2944,Smart TV,Español,45,2974,4.91
+60,Femenino,165,Acción,Primavera,4,7447,Smart TV,Español,165,4291,1.44
+62,Femenino,128,Acción,Primavera,3,2833,Computadora,Inglés,130,9461,2.69
+38,Masculino,143,Acción,Primavera,4,4520,Computadora,Español,142,1631,1.17
+40,Femenino,108,Acción,Verano,6,4096,Computadora,Inglés,76,1905,3.96
+60,Femenino,84,Comedia,Verano,4,9790,Computadora,Español,69,3014,4.67
+33,Masculino,140,Acción,Verano,7,1788,Smart TV,Español,105,8896,2.12
+64,Masculino,98,Comedia,Verano,7,2547,Smart TV,Inglés,34,1204,4.43
+32,Femenino,72,Acción,Primavera,2,967,Computadora,Español,55,1581,2.17
+42,Masculino,152,Drama,Primavera,4,7052,Smart TV,Español,47,6675,4.64
+53,Femenino,79,Drama,Primavera,11,6184,Móvil,Inglés,44,6347,4.02
+28,Masculino,161,Acción,Verano,3,8531,Smart TV,Inglés,168,3643,4.22
+32,Femenino,98,Drama,Verano,4,5405,Móvil,Español,53,9017,1.07
+21,Masculino,148,Comedia,Primavera,7,8339,Computadora,Español,155,3297,4.85
+38,Femenino,104,Acción,Primavera,3,4149,Computadora,Inglés,52,1874,3.91
+30,Femenino,75,Comedia,Verano,4,3557,Smart TV,Español,41,6560,2.22
+39,Femenino,81,Acción,Primavera,6,3328,Computadora,Inglés,65,1689,4.32
+36,Masculino,107,Drama,Verano,2,1348,Smart TV,Inglés,97,5000,2.13
+51,Masculino,146,Comedia,Primavera,12,1267,Smart TV,Inglés,102,1671,4.49
+31,Femenino,162,Drama,Verano,5,3590,Smart TV,Español,162,8927,1.45
+21,Femenino,88,Drama,Verano,8,1997,Smart TV,Español,29,2171,3.81
+63,Masculino,136,Acción,Primavera,10,2279,Móvil,Español,141,6591,3.16
+44,Masculino,77,Comedia,Verano,3,6055,Móvil,Inglés,35,7342,1.39
+46,Masculino,77,Drama,Verano,3,2820,Computadora,Español,77,2449,1.97
+64,Masculino,153,Acción,Verano,5,2043,Móvil,Inglés,94,3539,1.05
+45,Masculino,116,Acción,Primavera,5,6012,Computadora,Español,112,4959,2.88
+52,Masculino,73,Acción,Primavera,2,7786,Computadora,Inglés,61,7285,2.21
+25,Femenino,120,Drama,Primavera,0,3796,Smart TV,Inglés,52,6432,3.39
+33,Masculino,154,Acción,Verano,2,2925,Smart TV,Español,159,5260,2.19
+59,Femenino,136,Comedia,Primavera,7,8514,Smart TV,Inglés,67,3361,2.2
+53,Masculino,114,Comedia,Primavera,7,1846,Smart TV,Español,56,7164,3.97
+47,Masculino,77,Drama,Verano,5,629,Smart TV,Español,73,4670,1.19
+35,Femenino,156,Comedia,Primavera,6,6484,Smart TV,Español,60,2753,4.61
+19,Femenino,85,Acción,Primavera,1,8425,Móvil,Español,40,9100,4.41
+30,Masculino,146,Drama,Primavera,8,4586,Computadora,Español,102,2938,3.67
+21,Femenino,136,Acción,Primavera,2,201,Computadora,Inglés,131,9562,3.37
+43,Femenino,78,Drama,Primavera,1,3823,Smart TV,Español,32,6976,4.57
+42,Femenino,129,Drama,Primavera,4,2828,Móvil,Inglés,95,7588,1.74
+47,Femenino,147,Acción,Primavera,0,2645,Smart TV,Español,127,9616,1.32
+28,Masculino,146,Comedia,Verano,4,2658,Móvil,Inglés,144,7304,1.96
+24,Femenino,140,Comedia,Verano,9,6946,Móvil,Inglés,146,8345,4.18
+48,Masculino,84,Drama,Primavera,3,1048,Computadora,Español,77,8875,1.14
+61,Masculino,140,Acción,Verano,11,9860,Computadora,Inglés,115,7633,3.33
+27,Masculino,171,Acción,Primavera,5,5036,Móvil,Español,110,1597,4.98
+56,Masculino,167,Drama,Verano,11,2153,Computadora,Español,65,4062,4.42
+30,Femenino,110,Comedia,Primavera,4,293,Móvil,Español,95,3336,3.09
+48,Femenino,91,Acción,Primavera,8,9033,Móvil,Inglés,99,1572,1.25
+24,Masculino,93,Comedia,Primavera,4,7404,Móvil,Inglés,82,8521,4.33
+59,Masculino,170,Comedia,Primavera,12,3059,Computadora,Inglés,53,7171,3.4
+59,Masculino,113,Drama,Primavera,7,8274,Smart TV,Inglés,78,8097,1.46
+53,Masculino,70,Drama,Primavera,11,3023,Computadora,Español,55,3090,1.38
+37,Femenino,79,Comedia,Primavera,12,3339,Smart TV,Español,67,7566,4.64
+21,Masculino,176,Acción,Primavera,1,3965,Computadora,Inglés,154,5624,3.68
+24,Femenino,149,Acción,Primavera,2,8329,Computadora,Inglés,111,2633,4.32
+18,Masculino,179,Drama,Primavera,2,9990,Smart TV,Español,85,2517,4.52
+61,Masculino,141,Comedia,Primavera,2,4666,Móvil,Inglés,148,4648,3.29
+62,Masculino,125,Acción,Verano,5,6695,Smart TV,Español,107,2537,3.07
+59,Masculino,158,Acción,Verano,6,5709,Móvil,Inglés,77,4137,2.72
+64,Femenino,119,Drama,Primavera,6,3313,Móvil,Inglés,66,7985,2.27
+30,Femenino,81,Comedia,Primavera,11,5208,Computadora,Inglés,84,1097,2.74
+39,Femenino,158,Acción,Primavera,6,1883,Computadora,Español,159,4750,4.1
+38,Masculino,150,Drama,Primavera,11,8394,Computadora,Español,93,9535,3.41
+39,Masculino,129,Acción,Verano,2,5930,Computadora,Inglés,42,9174,4.57
+45,Femenino,95,Acción,Primavera,0,5931,Computadora,Inglés,32,9103,2.77
+26,Femenino,179,Acción,Primavera,5,141,Smart TV,Inglés,94,6413,3.43
+43,Masculino,147,Drama,Primavera,2,6309,Smart TV,Inglés,118,5666,3.53
+26,Masculino,110,Comedia,Verano,12,1161,Smart TV,Inglés,84,1610,3.37
+32,Femenino,105,Drama,Primavera,2,9968,Smart TV,Inglés,84,2727,3.81
+27,Masculino,92,Comedia,Primavera,2,3789,Computadora,Inglés,80,2854,1.95
+41,Masculino,112,Acción,Verano,8,7695,Smart TV,Inglés,35,6055,3.05
+59,Femenino,75,Comedia,Primavera,11,6907,Smart TV,Español,28,3324,1.42
+25,Masculino,138,Acción,Primavera,3,4097,Móvil,Español,81,6774,2.54
+41,Femenino,112,Acción,Verano,4,425,Computadora,Español,47,7519,2.95
+33,Masculino,94,Drama,Primavera,2,7305,Smart TV,Español,33,2749,3.61
+43,Femenino,87,Acción,Primavera,9,1220,Smart TV,Inglés,70,1781,4.8
+44,Masculino,131,Drama,Primavera,12,207,Smart TV,Español,124,8548,3.4
+54,Femenino,82,Comedia,Primavera,11,6394,Computadora,Español,73,7823,3.97
+21,Femenino,112,Comedia,Verano,0,5293,Smart TV,Inglés,106,3105,3.03
+41,Femenino,147,Acción,Primavera,11,7324,Móvil,Español,122,4867,3.54
+36,Femenino,97,Drama,Primavera,3,8626,Computadora,Español,86,8193,1.28
+53,Masculino,87,Acción,Primavera,0,2139,Móvil,Español,45,5976,2.02
+56,Masculino,128,Drama,Verano,10,903,Computadora,Español,140,3113,2.45
+27,Femenino,129,Drama,Primavera,10,866,Smart TV,Español,57,6879,2.89
+42,Masculino,132,Drama,Verano,6,3627,Computadora,Inglés,62,4970,1.18
+35,Masculino,126,Comedia,Verano,6,2406,Computadora,Inglés,66,8264,1.56
+36,Masculino,161,Drama,Primavera,3,1588,Computadora,Inglés,173,2577,2.11
+53,Masculino,120,Comedia,Primavera,4,4229,Móvil,Español,130,3274,4.89
+27,Masculino,125,Drama,Verano,9,2473,Computadora,Español,116,5869,2.33
+50,Femenino,96,Comedia,Verano,6,9128,Smart TV,Español,77,7744,2.93
+22,Femenino,101,Comedia,Primavera,12,3409,Computadora,Inglés,72,3426,1.78
+64,Femenino,78,Comedia,Verano,5,6934,Computadora,Español,83,6546,3.44
+52,Femenino,173,Acción,Verano,12,5835,Smart TV,Español,148,7852,2.12
+61,Masculino,165,Drama,Primavera,3,4934,Smart TV,Español,174,3551,1.83
+51,Masculino,153,Acción,Verano,3,7090,Móvil,Español,84,7411,3.07
+50,Femenino,161,Drama,Verano,1,4083,Smart TV,Inglés,91,1007,1.02
+38,Masculino,166,Drama,Primavera,9,3868,Smart TV,Inglés,163,9087,1.03
+34,Masculino,137,Acción,Primavera,1,1604,Smart TV,Español,57,3555,1.88
+39,Femenino,115,Comedia,Primavera,11,6893,Computadora,Inglés,121,1475,1.15
+54,Masculino,167,Drama,Primavera,3,2550,Móvil,Inglés,117,6416,1.43
+32,Femenino,136,Comedia,Verano,4,2133,Smart TV,Inglés,141,9676,2.36
+52,Femenino,95,Acción,Verano,3,8102,Smart TV,Español,54,8239,4.21
+45,Masculino,77,Comedia,Primavera,2,9991,Smart TV,Inglés,67,7710,3.29
+24,Masculino,75,Drama,Verano,10,6119,Computadora,Inglés,51,6000,3.05
+49,Femenino,149,Drama,Primavera,1,1407,Computadora,Español,119,5654,2.17
+28,Femenino,93,Drama,Primavera,3,1075,Móvil,Inglés,65,9078,4.73
+27,Masculino,117,Acción,Primavera,10,5039,Móvil,Inglés,125,7063,2.59
+26,Femenino,172,Drama,Primavera,4,3833,Computadora,Inglés,146,3285,1.35
+31,Femenino,163,Acción,Verano,0,8651,Smart TV,Español,81,6223,3.47
+30,Femenino,114,Comedia,Primavera,12,2323,Smart TV,Español,117,7971,1.46
+42,Masculino,82,Drama,Primavera,0,584,Móvil,Inglés,43,4525,2.38
+19,Femenino,138,Drama,Verano,5,1528,Smart TV,Español,82,3822,3.03
+52,Masculino,94,Drama,Verano,4,2180,Computadora,Español,35,5943,4.5
+24,Femenino,89,Comedia,Primavera,10,795,Móvil,Español,90,7530,2.97
+38,Masculino,151,Drama,Verano,3,6400,Computadora,Inglés,79,1258,3.81
+35,Femenino,151,Acción,Primavera,0,4760,Computadora,Inglés,76,1282,4.97
+20,Masculino,135,Comedia,Verano,11,301,Smart TV,Español,139,2898,1.53
+59,Masculino,143,Comedia,Verano,6,9490,Computadora,Inglés,135,5135,2.1
+56,Masculino,114,Comedia,Primavera,3,9559,Computadora,Español,47,7629,2.58
+58,Femenino,116,Comedia,Primavera,2,8365,Smart TV,Español,106,4200,2.69
+28,Femenino,132,Comedia,Primavera,6,8387,Computadora,Inglés,136,6110,2.64
+56,Femenino,145,Acción,Primavera,1,3577,Smart TV,Español,52,8167,4.63
+41,Masculino,146,Comedia,Primavera,9,2302,Computadora,Español,140,1612,3.86
+63,Femenino,124,Drama,Verano,0,7590,Smart TV,Español,91,1687,3.43
+36,Masculino,144,Comedia,Verano,10,8549,Smart TV,Español,120,4690,2.24
+21,Femenino,88,Comedia,Primavera,3,6417,Móvil,Inglés,61,9804,4.3
+43,Masculino,104,Comedia,Primavera,12,4525,Computadora,Español,89,3307,4.82
+55,Masculino,172,Comedia,Primavera,7,5450,Computadora,Inglés,56,8133,4.28
+59,Masculino,122,Comedia,Verano,12,2906,Móvil,Español,111,7509,1.01
+49,Femenino,95,Acción,Primavera,5,7263,Smart TV,Inglés,31,6906,3.55
+56,Femenino,179,Acción,Verano,8,285,Smart TV,Español,118,3591,1.2
+62,Femenino,83,Comedia,Verano,0,8170,Móvil,Español,34,8183,2.03
+63,Masculino,114,Acción,Primavera,0,8434,Móvil,Inglés,109,6248,1.24
+53,Masculino,113,Drama,Primavera,10,7150,Smart TV,Inglés,62,9766,3.42
+57,Femenino,157,Comedia,Verano,4,8931,Smart TV,Español,104,6108,3.75
+54,Femenino,174,Drama,Primavera,5,2174,Móvil,Español,111,4604,1.46
+50,Femenino,134,Drama,Primavera,7,7754,Computadora,Español,123,1669,2.54
+53,Masculino,120,Comedia,Verano,2,301,Smart TV,Español,82,5364,2.82
+20,Masculino,112,Drama,Verano,5,5810,Móvil,Español,104,8329,2.48
+26,Masculino,155,Drama,Primavera,2,3265,Computadora,Inglés,55,2283,1.48
+25,Masculino,92,Drama,Primavera,7,2202,Computadora,Inglés,41,1923,2.68
+50,Masculino,125,Comedia,Primavera,11,9202,Computadora,Español,92,2125,4.0
+23,Femenino,88,Comedia,Verano,10,1671,Computadora,Inglés,93,2529,1.28
+58,Masculino,151,Drama,Primavera,10,5225,Móvil,Inglés,54,9438,1.32
+56,Masculino,145,Comedia,Primavera,3,6797,Smart TV,Español,48,4711,2.42
+21,Masculino,124,Comedia,Primavera,1,5269,Computadora,Inglés,52,9004,4.77
+30,Masculino,161,Drama,Primavera,11,2259,Computadora,Español,130,7274,3.67
+19,Masculino,161,Comedia,Verano,8,1429,Móvil,Inglés,99,4864,3.71
+22,Femenino,129,Acción,Primavera,9,3713,Computadora,Inglés,123,8833,2.45
+61,Masculino,128,Comedia,Primavera,12,8752,Móvil,Inglés,45,7788,3.37
+44,Masculino,102,Acción,Primavera,7,9098,Móvil,Inglés,46,1226,1.04
+49,Masculino,88,Drama,Verano,5,3799,Smart TV,Inglés,47,1264,3.54
+38,Femenino,97,Comedia,Primavera,2,6127,Computadora,Español,77,1645,4.65
+25,Femenino,121,Drama,Verano,1,2373,Smart TV,Inglés,102,8544,3.45
+55,Femenino,118,Drama,Primavera,12,8350,Móvil,Español,47,6569,4.49
+25,Masculino,106,Drama,Primavera,3,4923,Computadora,Inglés,111,3990,3.9
+20,Femenino,95,Drama,Verano,3,9447,Móvil,Inglés,54,3504,1.48
+61,Masculino,168,Drama,Primavera,0,7175,Móvil,Inglés,146,1587,4.61
+20,Masculino,167,Comedia,Primavera,8,597,Móvil,Español,120,5079,1.27
+39,Femenino,168,Acción,Primavera,9,7059,Computadora,Inglés,80,4348,3.14
+23,Masculino,109,Comedia,Primavera,7,6310,Móvil,Inglés,106,7299,1.57
+19,Masculino,149,Comedia,Primavera,6,7226,Móvil,Español,142,4831,1.05
+40,Masculino,107,Comedia,Primavera,5,4076,Computadora,Español,66,9381,2.69
+61,Femenino,146,Comedia,Primavera,2,6520,Smart TV,Español,112,2715,2.18
+19,Masculino,156,Acción,Primavera,3,1707,Móvil,Inglés,78,7450,2.94
+55,Masculino,123,Comedia,Primavera,1,9012,Smart TV,Inglés,104,6433,3.31
+34,Femenino,91,Drama,Verano,6,1374,Smart TV,Inglés,49,2098,1.17
+52,Masculino,85,Comedia,Primavera,1,790,Smart TV,Inglés,82,8096,1.49
+51,Masculino,97,Comedia,Verano,9,4123,Smart TV,Español,45,3326,3.23
+40,Femenino,104,Acción,Primavera,0,7347,Smart TV,Español,32,7416,2.37
+47,Masculino,129,Acción,Primavera,5,3537,Smart TV,Inglés,66,7980,3.92
+25,Masculino,114,Drama,Verano,3,2455,Computadora,Español,51,7763,3.61
+39,Masculino,115,Comedia,Primavera,7,5681,Computadora,Español,81,2674,4.38
+61,Masculino,141,Comedia,Primavera,0,849,Smart TV,Español,65,8950,3.77
+53,Masculino,177,Comedia,Primavera,8,3151,Computadora,Inglés,161,9915,2.72
+22,Femenino,124,Drama,Primavera,5,7863,Computadora,Español,61,7049,3.69
+30,Femenino,155,Acción,Verano,1,3664,Smart TV,Inglés,134,2089,2.1
+46,Femenino,154,Drama,Primavera,7,5858,Smart TV,Inglés,117,5578,2.23
+48,Femenino,95,Comedia,Verano,4,1804,Móvil,Inglés,103,1155,4.16
+64,Masculino,173,Acción,Primavera,4,6174,Computadora,Español,190,2958,2.79
+33,Masculino,154,Acción,Verano,4,2477,Smart TV,Español,153,7344,4.19
+59,Masculino,94,Drama,Primavera,6,8119,Computadora,Español,85,6779,4.29
+47,Masculino,174,Acción,Primavera,6,5374,Computadora,Español,105,7144,4.43
+33,Masculino,134,Acción,Primavera,9,3331,Computadora,Inglés,120,6063,4.67
+29,Femenino,75,Comedia,Primavera,10,6509,Móvil,Inglés,79,4830,2.72
+34,Femenino,92,Comedia,Primavera,6,2315,Smart TV,Inglés,29,9831,2.28
+33,Masculino,133,Acción,Verano,11,6388,Computadora,Español,97,7659,3.33
+29,Masculino,156,Acción,Verano,9,6429,Smart TV,Español,74,1441,2.48
+25,Masculino,112,Drama,Primavera,1,985,Computadora,Español,83,7040,3.4
+37,Femenino,176,Drama,Primavera,7,964,Smart TV,Inglés,118,6925,3.82
+20,Masculino,92,Acción,Primavera,0,7017,Smart TV,Inglés,69,8358,3.75
+33,Masculino,165,Comedia,Primavera,12,3154,Smart TV,Español,122,5628,2.5
+47,Masculino,99,Acción,Primavera,1,9077,Computadora,Inglés,105,7370,1.67
+62,Femenino,146,Acción,Verano,10,8748,Móvil,Inglés,108,1948,2.72
+40,Masculino,176,Comedia,Primavera,6,8636,Smart TV,Español,171,9179,1.57
+45,Femenino,87,Comedia,Verano,3,653,Móvil,Español,48,7115,4.56
+57,Femenino,156,Drama,Primavera,10,5216,Smart TV,Inglés,101,1459,2.38
+22,Femenino,148,Drama,Primavera,9,7783,Móvil,Español,100,8568,1.62
+37,Femenino,166,Drama,Primavera,9,887,Smart TV,Inglés,86,5646,1.1
+57,Femenino,90,Drama,Verano,8,8996,Móvil,Español,54,1392,3.58
+61,Femenino,126,Comedia,Primavera,10,5007,Smart TV,Inglés,98,2787,3.55
+18,Masculino,172,Acción,Primavera,8,7290,Smart TV,Español,131,8374,2.36
+47,Masculino,92,Drama,Verano,2,9244,Móvil,Español,74,2138,1.29
+38,Masculino,160,Drama,Verano,12,914,Smart TV,Español,93,5741,2.64
+37,Femenino,114,Comedia,Primavera,12,9840,Computadora,Inglés,63,8418,2.24
+23,Masculino,113,Comedia,Verano,2,8435,Smart TV,Inglés,89,7362,3.71
+39,Femenino,151,Acción,Primavera,8,2877,Smart TV,Español,61,3454,3.42
+35,Femenino,157,Acción,Primavera,12,3866,Computadora,Inglés,78,4674,2.46
+25,Femenino,116,Comedia,Verano,9,5058,Computadora,Inglés,38,2377,1.87
+56,Masculino,109,Drama,Primavera,11,3925,Computadora,Español,39,7701,4.95
+49,Femenino,120,Drama,Verano,7,1316,Móvil,Español,59,3597,2.82
+50,Femenino,111,Drama,Primavera,0,4570,Computadora,Español,35,1141,3.75
+33,Masculino,76,Acción,Verano,5,6872,Móvil,Inglés,37,3659,1.56
+29,Masculino,119,Drama,Verano,6,9581,Computadora,Español,98,5596,2.94
+55,Femenino,117,Drama,Verano,10,7817,Móvil,Inglés,40,6661,1.11
+51,Femenino,153,Comedia,Primavera,7,8847,Computadora,Inglés,99,7142,3.02
+31,Masculino,160,Drama,Verano,11,962,Computadora,Inglés,164,6626,4.86
+53,Masculino,75,Comedia,Verano,11,6317,Smart TV,Español,69,9787,2.54
+50,Masculino,160,Drama,Primavera,1,6038,Computadora,Español,87,9472,1.16
+40,Femenino,78,Acción,Primavera,0,2455,Smart TV,Inglés,81,1423,1.12
+62,Masculino,178,Drama,Verano,3,9257,Computadora,Inglés,100,7999,2.55
+19,Masculino,126,Drama,Primavera,0,2495,Computadora,Español,45,5249,1.64
+58,Masculino,100,Comedia,Verano,1,8767,Smart TV,Español,109,2750,1.09
+38,Femenino,90,Comedia,Primavera,2,9630,Smart TV,Español,89,5757,4.02
+19,Masculino,159,Comedia,Primavera,3,624,Móvil,Español,106,2967,2.83
+44,Masculino,109,Drama,Primavera,11,661,Smart TV,Español,90,5088,2.16
+26,Masculino,114,Drama,Verano,11,8267,Móvil,Español,95,5178,4.6
+18,Masculino,146,Acción,Verano,5,8213,Computadora,Español,66,8789,1.46
+28,Masculino,118,Drama,Primavera,7,7516,Smart TV,Español,54,3946,4.82
+20,Femenino,156,Acción,Primavera,8,4764,Smart TV,Español,105,6394,2.26
+40,Femenino,89,Comedia,Primavera,3,1305,Computadora,Inglés,91,8880,4.55
+43,Femenino,170,Comedia,Verano,0,2338,Computadora,Español,52,6075,3.41
+21,Masculino,161,Comedia,Primavera,4,1260,Computadora,Español,149,8230,4.31
+35,Femenino,86,Acción,Primavera,4,5339,Computadora,Inglés,29,2531,4.94
+23,Femenino,97,Drama,Verano,8,7074,Smart TV,Español,66,3990,2.15
+52,Femenino,110,Comedia,Primavera,5,171,Computadora,Español,89,8155,4.84
+39,Masculino,135,Drama,Primavera,4,854,Computadora,Inglés,114,5493,2.56
+60,Masculino,94,Drama,Primavera,9,7398,Smart TV,Español,32,1933,2.54
+32,Femenino,127,Comedia,Primavera,9,6700,Móvil,Inglés,80,2460,2.36
+39,Femenino,110,Acción,Primavera,4,9196,Smart TV,Inglés,84,3723,3.17
+54,Masculino,75,Drama,Verano,7,8252,Móvil,Español,26,1285,1.62
+59,Masculino,144,Comedia,Verano,10,8343,Computadora,Inglés,58,1264,3.21
+29,Femenino,107,Drama,Primavera,0,2721,Smart TV,Inglés,88,7816,3.17
+64,Masculino,75,Drama,Primavera,4,3290,Computadora,Inglés,53,2762,4.05
+59,Femenino,114,Drama,Primavera,0,4048,Smart TV,Inglés,48,1040,4.33
+55,Masculino,144,Drama,Verano,6,1387,Móvil,Español,104,6827,2.76
+35,Femenino,83,Drama,Verano,6,5458,Smart TV,Inglés,85,9259,2.21
+62,Femenino,135,Acción,Verano,12,7618,Computadora,Inglés,42,1987,2.04
+52,Masculino,109,Acción,Primavera,9,7136,Smart TV,Español,88,8804,1.78
+47,Femenino,72,Comedia,Primavera,7,4880,Computadora,Inglés,25,8789,1.23
+41,Femenino,168,Acción,Primavera,6,1872,Smart TV,Español,51,6717,2.37
+59,Femenino,166,Acción,Primavera,10,4002,Móvil,Inglés,69,4198,2.08
+47,Masculino,93,Acción,Verano,8,5826,Smart TV,Español,59,6374,4.87
+31,Masculino,88,Drama,Primavera,7,6300,Smart TV,Inglés,82,5790,3.23
+23,Masculino,87,Drama,Primavera,7,9241,Smart TV,Español,45,8183,2.39
+20,Femenino,133,Comedia,Primavera,2,3238,Smart TV,Inglés,106,3524,3.32
+33,Masculino,157,Comedia,Verano,9,7313,Móvil,Español,98,3479,1.56
+24,Femenino,178,Comedia,Primavera,3,2516,Computadora,Español,86,6154,2.78
+31,Femenino,104,Drama,Verano,3,9717,Smart TV,Español,73,1778,3.5
+26,Masculino,131,Acción,Verano,0,7151,Smart TV,Español,122,2492,2.96
+32,Masculino,70,Acción,Verano,5,1684,Smart TV,Español,67,1660,2.61
+38,Femenino,169,Drama,Primavera,1,1146,Móvil,Inglés,165,2348,4.98
+52,Femenino,94,Comedia,Verano,8,7084,Computadora,Inglés,53,8851,4.52
+19,Masculino,114,Comedia,Verano,0,2265,Computadora,Español,106,8156,3.49
+44,Masculino,118,Comedia,Verano,0,5819,Smart TV,Español,55,3044,3.28
+19,Masculino,176,Drama,Primavera,10,7322,Smart TV,Inglés,156,8368,3.48
+52,Femenino,167,Comedia,Primavera,12,1276,Computadora,Inglés,176,4516,1.81
+35,Femenino,158,Comedia,Primavera,9,6511,Smart TV,Español,49,5577,2.58
+31,Femenino,85,Drama,Primavera,10,8174,Smart TV,Inglés,55,1727,1.16
+37,Femenino,167,Acción,Primavera,5,9323,Smart TV,Español,136,8468,2.9
+35,Femenino,162,Drama,Verano,12,3388,Móvil,Español,139,1342,3.17
+27,Masculino,88,Drama,Verano,0,1415,Móvil,Español,38,2447,1.91
+42,Masculino,92,Drama,Primavera,11,992,Computadora,Inglés,99,7581,4.86
+19,Femenino,152,Drama,Primavera,2,5269,Móvil,Español,120,7317,4.64
+42,Femenino,94,Acción,Verano,9,8398,Móvil,Inglés,40,1526,3.89
+50,Masculino,85,Comedia,Verano,1,3180,Computadora,Inglés,26,7748,3.13
+53,Masculino,123,Drama,Verano,12,9036,Móvil,Inglés,113,1405,4.48
+48,Masculino,142,Acción,Verano,10,6566,Computadora,Inglés,51,8986,1.52
+31,Masculino,70,Comedia,Primavera,8,8913,Smart TV,Español,28,4740,4.16
+18,Femenino,111,Comedia,Primavera,4,5190,Computadora,Español,84,2846,1.5
+63,Masculino,88,Comedia,Verano,5,4340,Computadora,Inglés,68,2478,4.18
+33,Femenino,166,Drama,Verano,1,9112,Computadora,Español,141,1771,2.1
+63,Masculino,103,Drama,Verano,7,511,Smart TV,Inglés,63,6525,4.51
+20,Masculino,149,Comedia,Verano,5,8405,Smart TV,Español,136,9770,4.78
+52,Masculino,177,Comedia,Verano,10,2546,Smart TV,Español,191,1193,1.6
+58,Femenino,173,Comedia,Primavera,11,3446,Computadora,Español,89,3007,2.85
+23,Femenino,124,Comedia,Primavera,7,185,Computadora,Español,106,2185,4.92
+42,Masculino,87,Comedia,Primavera,7,7849,Computadora,Español,90,3394,2.93
+30,Femenino,103,Comedia,Primavera,0,4242,Computadora,Español,87,5005,4.45
+51,Femenino,158,Acción,Verano,6,7187,Computadora,Inglés,133,8429,3.35
+25,Masculino,114,Comedia,Primavera,1,7468,Computadora,Español,54,3261,2.5
+38,Masculino,75,Drama,Primavera,10,9864,Computadora,Español,54,4736,2.14
+51,Femenino,90,Drama,Primavera,7,5934,Móvil,Español,67,7716,1.81
+21,Femenino,139,Drama,Primavera,11,903,Smart TV,Inglés,119,5875,4.05
+42,Femenino,165,Comedia,Primavera,1,6819,Móvil,Español,181,9921,2.55
+32,Masculino,174,Drama,Verano,3,6185,Smart TV,Español,56,5378,3.05
+21,Masculino,117,Acción,Primavera,1,9361,Computadora,Español,41,8815,2.97
+62,Femenino,176,Comedia,Primavera,12,4282,Móvil,Inglés,63,4451,3.31
+29,Masculino,108,Drama,Verano,6,9700,Computadora,Español,96,8616,4.46
+49,Masculino,100,Acción,Primavera,4,364,Móvil,Inglés,40,3800,4.92
+49,Femenino,175,Acción,Verano,12,3193,Móvil,Inglés,139,9333,2.63
+45,Femenino,79,Drama,Primavera,10,4898,Computadora,Español,44,6410,4.31
+30,Masculino,99,Acción,Primavera,12,9765,Móvil,Español,65,2455,4.06
+48,Masculino,87,Drama,Primavera,10,8243,Móvil,Inglés,41,7892,3.29
+31,Femenino,129,Acción,Primavera,8,425,Smart TV,Inglés,128,6808,4.82
+37,Masculino,157,Comedia,Primavera,4,1306,Computadora,Español,120,7796,1.8
+35,Masculino,142,Comedia,Verano,10,9796,Computadora,Español,149,5796,1.44
+46,Femenino,164,Comedia,Primavera,7,1540,Móvil,Inglés,124,6093,4.42
+23,Femenino,84,Comedia,Verano,1,5284,Computadora,Inglés,33,2325,2.76
+49,Masculino,73,Comedia,Primavera,2,9247,Smart TV,Inglés,31,5976,4.39
+46,Masculino,132,Drama,Verano,5,8846,Smart TV,Inglés,144,2159,4.57
+60,Masculino,109,Comedia,Primavera,10,5236,Computadora,Español,95,5650,1.25
+19,Femenino,78,Comedia,Primavera,6,8240,Computadora,Inglés,26,5987,4.53
+40,Masculino,178,Comedia,Primavera,9,5919,Smart TV,Español,153,5697,2.79
+36,Masculino,78,Comedia,Verano,7,8169,Computadora,Inglés,49,1340,3.04
+48,Femenino,95,Acción,Primavera,2,2136,Móvil,Inglés,51,4828,3.51
+22,Femenino,73,Comedia,Primavera,6,9578,Computadora,Español,30,2968,4.71
+36,Masculino,150,Comedia,Primavera,7,9489,Móvil,Español,145,1703,1.08
+51,Femenino,85,Drama,Primavera,9,5660,Smart TV,Español,29,6482,2.91
+27,Femenino,84,Acción,Primavera,5,3729,Computadora,Español,44,7376,3.75
+42,Masculino,168,Drama,Primavera,3,9063,Smart TV,Inglés,91,2800,3.89
+19,Femenino,121,Comedia,Primavera,12,5414,Computadora,Español,51,6463,3.77
+28,Femenino,138,Drama,Verano,5,2556,Móvil,Español,97,5912,1.54
+48,Masculino,74,Drama,Primavera,8,8762,Computadora,Español,22,5648,2.2
+32,Femenino,89,Comedia,Primavera,2,1470,Smart TV,Inglés,48,1855,2.43
+26,Masculino,148,Acción,Primavera,1,7729,Móvil,Inglés,154,3866,4.22
+40,Masculino,87,Acción,Primavera,4,8963,Computadora,Español,47,1182,2.12
+36,Femenino,71,Drama,Verano,6,1274,Smart TV,Inglés,41,4112,1.84
+26,Femenino,162,Comedia,Primavera,2,210,Smart TV,Inglés,109,6670,4.83
+52,Femenino,82,Drama,Primavera,4,3659,Computadora,Español,61,5492,1.04
+38,Masculino,73,Drama,Verano,3,6792,Smart TV,Inglés,69,6823,4.99
+26,Femenino,111,Drama,Verano,10,9318,Móvil,Español,50,2517,3.71
+45,Masculino,178,Comedia,Primavera,6,3333,Computadora,Español,177,6002,4.31
+63,Femenino,143,Comedia,Primavera,1,1572,Móvil,Español,129,2356,2.18
+24,Femenino,130,Acción,Verano,11,4972,Smart TV,Inglés,114,4629,1.06
+33,Femenino,164,Comedia,Primavera,10,4853,Smart TV,Español,60,4628,3.95
+33,Masculino,174,Drama,Primavera,12,1933,Smart TV,Inglés,55,9210,4.34
+50,Femenino,77,Drama,Verano,6,6028,Móvil,Inglés,59,7132,3.96
+21,Femenino,136,Acción,Primavera,11,8745,Smart TV,Inglés,134,7588,1.57
+21,Masculino,132,Comedia,Verano,1,6916,Computadora,Inglés,101,4311,4.01
+56,Masculino,179,Drama,Verano,2,840,Computadora,Español,84,7048,4.08
+57,Femenino,78,Acción,Primavera,4,7356,Smart TV,Español,29,7246,3.63
+34,Femenino,163,Acción,Verano,6,2480,Computadora,Inglés,140,1987,4.06
+54,Femenino,80,Drama,Primavera,12,9735,Móvil,Español,70,4321,4.38
+56,Masculino,168,Drama,Primavera,5,3780,Móvil,Inglés,73,5615,3.45
+46,Masculino,170,Comedia,Primavera,11,2501,Smart TV,Inglés,54,9365,1.35
+53,Masculino,111,Acción,Primavera,6,7277,Computadora,Español,69,4741,2.95
+55,Masculino,82,Drama,Verano,10,2106,Computadora,Inglés,62,4052,1.31
+56,Femenino,105,Acción,Primavera,5,1509,Smart TV,Español,90,7574,2.63
+54,Masculino,82,Comedia,Primavera,12,1862,Móvil,Inglés,77,1726,2.63
+52,Masculino,81,Drama,Primavera,11,1009,Smart TV,Inglés,63,4760,1.26
+24,Masculino,106,Comedia,Primavera,0,860,Computadora,Inglés,41,6806,2.4
+44,Femenino,143,Acción,Primavera,4,6738,Computadora,Inglés,120,2875,1.44
+45,Femenino,142,Comedia,Primavera,11,5712,Smart TV,Español,154,7993,4.23
+39,Masculino,121,Comedia,Verano,0,3340,Móvil,Inglés,123,5033,4.79
+31,Masculino,140,Acción,Verano,6,630,Móvil,Inglés,139,6443,1.29
+24,Femenino,71,Comedia,Verano,3,9651,Smart TV,Español,38,1989,4.82
+54,Femenino,125,Acción,Verano,4,2660,Computadora,Inglés,112,4744,3.09
+39,Femenino,129,Drama,Primavera,0,2277,Móvil,Inglés,126,9611,2.2
+22,Femenino,92,Acción,Primavera,7,5203,Smart TV,Inglés,77,1593,1.31
+19,Femenino,172,Acción,Primavera,3,7806,Computadora,Inglés,86,2774,3.0
+44,Femenino,109,Drama,Primavera,2,1637,Móvil,Inglés,115,1935,4.18
+38,Femenino,133,Acción,Primavera,0,9565,Móvil,Inglés,87,4808,3.83
+55,Femenino,172,Drama,Verano,3,2881,Smart TV,Español,69,1331,1.2
+32,Masculino,154,Drama,Primavera,2,1046,Computadora,Inglés,59,8922,1.29
+38,Masculino,92,Acción,Primavera,7,5357,Móvil,Español,75,3702,2.61
+27,Masculino,98,Comedia,Primavera,8,9590,Smart TV,Inglés,63,6889,2.18
+40,Masculino,147,Comedia,Primavera,11,5197,Móvil,Español,55,6054,1.93
+56,Masculino,159,Drama,Primavera,4,2611,Computadora,Español,141,4868,2.12
+22,Masculino,120,Comedia,Primavera,8,2288,Móvil,Español,112,5200,4.21
+18,Femenino,138,Comedia,Primavera,0,6163,Computadora,Español,121,1201,4.72
+30,Femenino,164,Acción,Primavera,6,981,Móvil,Inglés,75,3497,2.62
+38,Masculino,158,Drama,Primavera,10,1947,Móvil,Inglés,134,2842,4.62
+43,Masculino,100,Drama,Verano,6,6699,Smart TV,Inglés,30,5658,2.29
+62,Femenino,119,Acción,Primavera,5,2075,Móvil,Español,64,8544,2.91
+38,Femenino,89,Comedia,Verano,3,6677,Computadora,Español,55,8718,1.9
+35,Femenino,177,Drama,Verano,12,5826,Smart TV,Español,171,1770,3.56
+54,Masculino,124,Comedia,Verano,10,4668,Computadora,Español,75,4155,4.92
+62,Femenino,150,Drama,Primavera,8,7263,Computadora,Español,46,2628,3.41
+49,Masculino,178,Drama,Primavera,2,6682,Smart TV,Español,103,1386,2.43
+53,Masculino,71,Drama,Primavera,10,8789,Computadora,Español,49,7031,3.59
+34,Femenino,94,Drama,Verano,10,2316,Móvil,Inglés,99,7439,1.49
+52,Femenino,82,Comedia,Verano,0,9280,Smart TV,Español,86,7401,4.55
+28,Masculino,172,Comedia,Primavera,1,5801,Móvil,Inglés,76,5008,3.01
+38,Femenino,161,Comedia,Verano,2,8117,Móvil,Inglés,72,3466,2.8
+43,Femenino,175,Comedia,Verano,1,2708,Computadora,Español,75,3282,3.34
+21,Masculino,139,Acción,Primavera,5,9662,Computadora,Español,129,2856,3.5
+51,Femenino,136,Drama,Primavera,12,4909,Móvil,Español,41,8980,1.29
+35,Masculino,127,Drama,Primavera,6,6445,Smart TV,Español,51,2998,3.73
+57,Masculino,168,Drama,Primavera,4,278,Móvil,Inglés,122,6476,1.97
+52,Femenino,151,Acción,Primavera,4,7871,Móvil,Español,75,5669,3.86
+58,Masculino,144,Comedia,Primavera,6,8071,Computadora,Inglés,53,5318,4.29
+46,Masculino,153,Drama,Primavera,5,2029,Computadora,Español,89,8064,4.22
+46,Femenino,133,Comedia,Primavera,11,2648,Móvil,Inglés,69,8446,3.21
+55,Femenino,138,Comedia,Primavera,7,4934,Móvil,Inglés,97,2431,3.08
+59,Femenino,152,Acción,Verano,8,211,Computadora,Inglés,164,6624,1.57
+38,Masculino,155,Acción,Verano,1,8048,Móvil,Inglés,61,8461,4.1
+59,Masculino,128,Comedia,Verano,11,814,Computadora,Inglés,76,2819,2.09
+30,Femenino,129,Drama,Verano,1,9693,Móvil,Español,134,2130,2.99
+58,Masculino,152,Drama,Verano,0,6134,Smart TV,Español,152,7563,2.14
+34,Femenino,131,Acción,Verano,6,1481,Smart TV,Español,80,3658,1.54
